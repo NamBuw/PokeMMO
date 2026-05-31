@@ -20,6 +20,7 @@ from bot.knowledge.graph.builder import KnowledgeGraphBuilder
 from bot.knowledge.graph.queries import GraphQueries
 from bot.knowledge.catch_calc import CatchCalculator
 from bot.knowledge.battle_intelligence import BattleIntelligence
+from bot.knowledge.weather_strategy import WeatherStrategyEngine
 
 
 # Setup logging
@@ -57,12 +58,14 @@ class PokeMMOBot:
             logger.info("Knowledge graph built successfully!")
             self.catch_calc = CatchCalculator(config.data_dir)
             self.battle_intel = BattleIntelligence(self.damage_calc, self.queries)
+            self.weather_strategy = WeatherStrategyEngine(config.data_dir)
         except Exception as e:
             logger.error(f"Failed to build knowledge graph: {e}", exc_info=True)
             self.graph = None
             self.queries = None
             self.catch_calc = None
             self.battle_intel = None
+            self.weather_strategy = None
 
         # Game state
         self.game_state = {
@@ -245,6 +248,18 @@ class PokeMMOBot:
                                     )
                                     if switch_rec:
                                         knowledge_base["recommended_switch"] = switch_rec
+                                         
+                                # 3. Evaluate weather team strategy
+                                if self.weather_strategy:
+                                    try:
+                                        weather_eval = self.weather_strategy.evaluate_weather_tactics(
+                                            party=self.game_state.get("party", []),
+                                            current_weather=self.game_state.get("weather", "Normal")
+                                        )
+                                        if weather_eval:
+                                            knowledge_base["weather_strategy"] = weather_eval
+                                    except Exception as wex:
+                                        logger.warning(f"Error evaluating weather strategy: {wex}")
                             except Exception as biex:
                                 logger.warning(f"Error running battle intelligence checks: {biex}")
 

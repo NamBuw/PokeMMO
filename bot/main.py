@@ -18,6 +18,8 @@ from bot.llm.client import LLMClient
 from bot.knowledge.damage_calc import DamageCalculator
 from bot.knowledge.graph.builder import KnowledgeGraphBuilder
 from bot.knowledge.graph.queries import GraphQueries
+from bot.knowledge.catch_calc import CatchCalculator
+from bot.knowledge.battle_intelligence import BattleIntelligence
 
 
 # Setup logging
@@ -53,10 +55,14 @@ class PokeMMOBot:
             self.graph = KnowledgeGraphBuilder(config.data_dir).build()
             self.queries = GraphQueries(self.graph)
             logger.info("Knowledge graph built successfully!")
+            self.catch_calc = CatchCalculator(config.data_dir)
+            self.battle_intel = BattleIntelligence(self.damage_calc, self.queries)
         except Exception as e:
             logger.error(f"Failed to build knowledge graph: {e}", exc_info=True)
             self.graph = None
             self.queries = None
+            self.catch_calc = None
+            self.battle_intel = None
 
         # Game state
         self.game_state = {
@@ -195,6 +201,53 @@ class PokeMMOBot:
                         if counters:
                             knowledge_base["recommended_counters"] = [c.get("name") for c in counters[:3]]
                             
+                        # 1. Catch recommendations if enemy is Shiny or in catch list
+                        is_shiny = self.game_state.get("enemy", {}).get("is_shiny", False)
+                        is_in_catch_list = enemy_name in self.game_state.get("catch_list", [])
+                        if (is_shiny or is_in_catch_list) and self.catch_calc:
+                            try:
+                                best_ball = self.catch_calc.recommend_best_ball(
+                                    species_name=enemy_name,
+                                    hp_percent=self.game_state["enemy"].get("hp_percent", 100.0),
+                                    status=self.game_state["enemy"].get("status"),
+                                    turn_count=self.game_state.get("turn_count", 1),
+                                    is_cave=self.config.game.current_region.lower() in ["cave", "granite cave", "mt pyre"],
+                                    is_night=False,
+                                    inventory=self.game_state.get("inventory", {})
+                                )
+                                knowledge_base["catch_recommendation"] = best_ball
+                            except Exception as cex:
+                                logger.warning(f"Error calculating catch recommendation: {cex}")
+
+                        # 2. Battle intelligence checks (Choice-Lock, Ability immunities, HP danger)
+                        active_pokemon = self.game_state.get("party", [{}])[0] if self.game_state.get("party") else {}
+                        if active_pokemon and self.battle_intel:
+                            try:
+                                # Choice lock and ability filter for moves
+                                last_used = active_pokemon.get("last_used_move")
+                                allowed_moves = self.battle_intel.check_choice_lock(active_pokemon, last_used)
+                                allowed_moves = self.battle_intel.filter_immune_moves(allowed_moves, enemy_name)
+                                knowledge_base["allowed_move_slots"] = [m.get("slot") for m in allowed_moves if "slot" in m]
+                                
+                                # Evaluate active pokemon survival (Danger HP)
+                                survival_eval = self.battle_intel.evaluate_survival(
+                                    party_member=active_pokemon,
+                                    defender_name=enemy_name,
+                                    defender_level=self.game_state["enemy"].get("level", 50)
+                                )
+                                knowledge_base["active_pokemon_survival"] = survival_eval
+                                
+                                # Recommend switch if endangered
+                                if survival_eval.get("is_endangered") or active_pokemon.get("hp_percent", 100.0) < 30.0:
+                                    switch_rec = self.battle_intel.recommend_switch(
+                                        party=self.game_state.get("party", []),
+                                        defender_name=enemy_name
+                                    )
+                                    if switch_rec:
+                                        knowledge_base["recommended_switch"] = switch_rec
+                            except Exception as biex:
+                                logger.warning(f"Error running battle intelligence checks: {biex}")
+
                         state_to_send["knowledge_base"] = knowledge_base
                 except Exception as ex:
                     logger.warning(f"Error querying knowledge graph: {ex}")

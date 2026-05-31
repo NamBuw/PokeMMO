@@ -21,12 +21,19 @@ class VisionEngine:
         
         # Relative ROIs (Region of Interest) mapped as fractions of the game_bbox
         # (x_percent, y_percent, width_percent, height_percent)
-        self.rois = {
-            'enemy_name': (0.1, 0.05, 0.3, 0.08),
-            'enemy_hp_bar': (0.15, 0.15, 0.25, 0.02),
-            'chat_box': (0.05, 0.8, 0.4, 0.15),
-            'combat_menu': (0.6, 0.75, 0.35, 0.2)
-        }
+        try:
+            from bot.config import Config
+            self.rois = Config().vision.rois
+            print("INFO: VisionEngine loaded ROIs dynamically from Config")
+        except Exception:
+            self.rois = {
+                'enemy_name': (0.1, 0.05, 0.3, 0.08),
+                'enemy_hp_bar': (0.15, 0.15, 0.25, 0.02),
+                'player_name': (0.55, 0.70, 0.20, 0.05),
+                'player_hp_bar': (0.55, 0.76, 0.20, 0.02),
+                'chat_box': (0.05, 0.8, 0.4, 0.15),
+                'combat_menu': (0.6, 0.75, 0.35, 0.2)
+            }
 
     def capture_screen(self):
         """Captures the full primary monitor as a numpy array (BGR)."""

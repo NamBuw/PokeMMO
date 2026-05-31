@@ -32,7 +32,7 @@ class LLMConfig:
     openai_model: str = "gpt-4o-mini"
 
     # === LOCAL VLLM CONFIG ===
-    vllm_api_base: str = "http://localhost:8080/v1"
+    vllm_api_base: str = "https://gemma.ctslab.net:3636/v1"
     vllm_api_key: str = "gemma4-openclaw-2026"
     vllm_model: str = "gemma-4"
 

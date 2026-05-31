@@ -1,0 +1,11 @@
+{
+  "total_vectors": 1591,
+  "embedding_dim": 384,
+  "embedding_time_seconds": 2.1529598236083984,
+  "entity_counts": {
+    "ability": 167,
+    "move": 578,
+    "item": 117,
+    "pokemon": 729
+  }
+}

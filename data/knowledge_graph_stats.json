@@ -1,0 +1,14 @@
+{
+  "nodes": 1922,
+  "edges": 11472,
+  "build_time_seconds": 0.05125021934509277,
+  "node_types": {
+    "type": 18,
+    "ability": 167,
+    "move": 578,
+    "item": 117,
+    "pokemon": 729,
+    "location": 310,
+    "strategy": 3
+  }
+}

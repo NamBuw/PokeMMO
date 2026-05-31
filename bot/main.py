@@ -16,6 +16,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from bot.config import Config
 from bot.llm.client import LLMClient
 from bot.knowledge.damage_calc import DamageCalculator
+from bot.knowledge.graph.builder import KnowledgeGraphBuilder
+from bot.knowledge.graph.queries import GraphQueries
 
 
 # Setup logging
@@ -44,6 +46,17 @@ class PokeMMOBot:
         # Initialize damage calculator
         logger.info("Loading game data...")
         self.damage_calc = DamageCalculator(config.data_dir)
+
+        # Initialize knowledge graph
+        logger.info("Building knowledge graph...")
+        try:
+            self.graph = KnowledgeGraphBuilder(config.data_dir).build()
+            self.queries = GraphQueries(self.graph)
+            logger.info("Knowledge graph built successfully!")
+        except Exception as e:
+            logger.error(f"Failed to build knowledge graph: {e}", exc_info=True)
+            self.graph = None
+            self.queries = None
 
         # Game state
         self.game_state = {
@@ -130,7 +143,63 @@ class PokeMMOBot:
         """Make a decision using LLM"""
         from bot.llm.prompts import SYSTEM_PROMPT
 
-        context = json.dumps(self.game_state, indent=2)
+        # Augment with Knowledge Graph data if in BATTLE state
+        state_to_send = dict(self.game_state)
+        
+        if self.game_state.get("game_state") == "BATTLE" and self.game_state.get("enemy"):
+            enemy_name = self.game_state["enemy"].get("name")
+            if enemy_name and self.queries:
+                try:
+                    pokemon_info = self.queries.get_pokemon_info(enemy_name)
+                    if pokemon_info:
+                        knowledge_base = {}
+                        enemy_types = pokemon_info.get("types", [])
+                        knowledge_base["enemy_types"] = enemy_types
+                        
+                        # Combined defensive type matchups
+                        multipliers = {}
+                        all_types = ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", 
+                                     "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
+                        for t in all_types:
+                            multipliers[t] = 1.0
+                            
+                        for et in enemy_types:
+                            matchups = self.queries.get_type_matchups(et)
+                            if matchups:
+                                for weak in matchups.get("defensive", {}).get("weak_to", []):
+                                    multipliers[weak] *= 2.0
+                                for resist in matchups.get("defensive", {}).get("resists", []):
+                                    multipliers[resist] *= 0.5
+                                    
+                            type_node = f"type_{et.lower()}"
+                            if type_node in self.queries.graph:
+                                for source, _, data in self.queries.graph.in_edges(type_node, data=True):
+                                    if data.get("relation") == "immune":
+                                        attacker_name = self.queries.graph.nodes[source].get("name", "")
+                                        if attacker_name:
+                                            multipliers[attacker_name] = 0.0
+
+                        double_weak = [t for t, m in multipliers.items() if m == 4.0]
+                        weak = [t for t, m in multipliers.items() if m == 2.0]
+                        resist = [t for t, m in multipliers.items() if m == 0.5]
+                        double_resist = [t for t, m in multipliers.items() if m == 0.25]
+                        immune = [t for t, m in multipliers.items() if m == 0.0]
+                        
+                        knowledge_base["double_weaknesses"] = double_weak
+                        knowledge_base["weaknesses"] = weak
+                        knowledge_base["resistances"] = resist
+                        knowledge_base["double_resistances"] = double_resist
+                        knowledge_base["immunities"] = immune
+                        
+                        counters = self.queries.get_pokemon_counters(enemy_name)
+                        if counters:
+                            knowledge_base["recommended_counters"] = [c.get("name") for c in counters[:3]]
+                            
+                        state_to_send["knowledge_base"] = knowledge_base
+                except Exception as ex:
+                    logger.warning(f"Error querying knowledge graph: {ex}")
+
+        context = json.dumps(state_to_send, indent=2)
 
         try:
             action = self.llm.chat_json(SYSTEM_PROMPT, context)

@@ -1,0 +1,6366 @@
+[
+  {
+    "type": "ability",
+    "name": "Air Lock"
+  },
+  {
+    "type": "ability",
+    "name": "Arena Trap"
+  },
+  {
+    "type": "ability",
+    "name": "Battle Armor"
+  },
+  {
+    "type": "ability",
+    "name": "Blaze"
+  },
+  {
+    "type": "ability",
+    "name": "Chlorophyll"
+  },
+  {
+    "type": "ability",
+    "name": "Clear Body"
+  },
+  {
+    "type": "ability",
+    "name": "Cloud Nine"
+  },
+  {
+    "type": "ability",
+    "name": "Color Change"
+  },
+  {
+    "type": "ability",
+    "name": "Compound Eyes"
+  },
+  {
+    "type": "ability",
+    "name": "Cute Charm"
+  },
+  {
+    "type": "ability",
+    "name": "Drizzle"
+  },
+  {
+    "type": "ability",
+    "name": "Damp"
+  },
+  {
+    "type": "ability",
+    "name": "Drought"
+  },
+  {
+    "type": "ability",
+    "name": "Early Bird"
+  },
+  {
+    "type": "ability",
+    "name": "Effect Spore"
+  },
+  {
+    "type": "ability",
+    "name": "Flame Body"
+  },
+  {
+    "type": "ability",
+    "name": "Flash Fire"
+  },
+  {
+    "type": "ability",
+    "name": "Forecast"
+  },
+  {
+    "type": "ability",
+    "name": "Guts"
+  },
+  {
+    "type": "ability",
+    "name": "Huge Power"
+  },
+  {
+    "type": "ability",
+    "name": "Hustle"
+  },
+  {
+    "type": "ability",
+    "name": "Hyper Cutter"
+  },
+  {
+    "type": "ability",
+    "name": "Illuminate"
+  },
+  {
+    "type": "ability",
+    "name": "Immunity"
+  },
+  {
+    "type": "ability",
+    "name": "Inner Focus"
+  },
+  {
+    "type": "ability",
+    "name": "Insomnia"
+  },
+  {
+    "type": "ability",
+    "name": "Intimidate"
+  },
+  {
+    "type": "ability",
+    "name": "Keen Eye"
+  },
+  {
+    "type": "ability",
+    "name": "Levitate"
+  },
+  {
+    "type": "ability",
+    "name": "Lightning Rod"
+  },
+  {
+    "type": "ability",
+    "name": "Limber"
+  },
+  {
+    "type": "ability",
+    "name": "Liquid Ooze"
+  },
+  {
+    "type": "ability",
+    "name": "Magma Armor"
+  },
+  {
+    "type": "ability",
+    "name": "Magnet Pull"
+  },
+  {
+    "type": "ability",
+    "name": "Marvel Scale"
+  },
+  {
+    "type": "ability",
+    "name": "Minus"
+  },
+  {
+    "type": "ability",
+    "name": "Natural Cure"
+  },
+  {
+    "type": "ability",
+    "name": "Oblivious"
+  },
+  {
+    "type": "ability",
+    "name": "Overgrow"
+  },
+  {
+    "type": "ability",
+    "name": "Own Tempo"
+  },
+  {
+    "type": "ability",
+    "name": "Pickup"
+  },
+  {
+    "type": "ability",
+    "name": "Plus"
+  },
+  {
+    "type": "ability",
+    "name": "Poison Point"
+  },
+  {
+    "type": "ability",
+    "name": "Pressure"
+  },
+  {
+    "type": "ability",
+    "name": "Pure Power"
+  },
+  {
+    "type": "ability",
+    "name": "Rain Dish"
+  },
+  {
+    "type": "ability",
+    "name": "Rock Head"
+  },
+  {
+    "type": "ability",
+    "name": "Rough Skin"
+  },
+  {
+    "type": "ability",
+    "name": "Run Away"
+  },
+  {
+    "type": "ability",
+    "name": "Sand Stream"
+  },
+  {
+    "type": "ability",
+    "name": "Sand Veil"
+  },
+  {
+    "type": "ability",
+    "name": "Serene Grace"
+  },
+  {
+    "type": "ability",
+    "name": "Shadow Tag"
+  },
+  {
+    "type": "ability",
+    "name": "Shed Skin"
+  },
+  {
+    "type": "ability",
+    "name": "Shell Armor"
+  },
+  {
+    "type": "ability",
+    "name": "Shield Dust"
+  },
+  {
+    "type": "ability",
+    "name": "Soundproof"
+  },
+  {
+    "type": "ability",
+    "name": "Speed Boost"
+  },
+  {
+    "type": "ability",
+    "name": "Static"
+  },
+  {
+    "type": "ability",
+    "name": "Stench"
+  },
+  {
+    "type": "ability",
+    "name": "Sticky Hold"
+  },
+  {
+    "type": "ability",
+    "name": "Sturdy"
+  },
+  {
+    "type": "ability",
+    "name": "Suction Cups"
+  },
+  {
+    "type": "ability",
+    "name": "Swarm"
+  },
+  {
+    "type": "ability",
+    "name": "Swift Swim"
+  },
+  {
+    "type": "ability",
+    "name": "Synchronize"
+  },
+  {
+    "type": "ability",
+    "name": "Thick Fat"
+  },
+  {
+    "type": "ability",
+    "name": "Torrent"
+  },
+  {
+    "type": "ability",
+    "name": "Trace"
+  },
+  {
+    "type": "ability",
+    "name": "Truant"
+  },
+  {
+    "type": "ability",
+    "name": "Vital Spirit"
+  },
+  {
+    "type": "ability",
+    "name": "Volt Absorb"
+  },
+  {
+    "type": "ability",
+    "name": "Water Absorb"
+  },
+  {
+    "type": "ability",
+    "name": "Water Veil"
+  },
+  {
+    "type": "ability",
+    "name": "White Smoke"
+  },
+  {
+    "type": "ability",
+    "name": "Wonder Guard"
+  },
+  {
+    "type": "ability",
+    "name": "Adaptability"
+  },
+  {
+    "type": "ability",
+    "name": "Aftermath"
+  },
+  {
+    "type": "ability",
+    "name": "Anger Point"
+  },
+  {
+    "type": "ability",
+    "name": "Anticipation"
+  },
+  {
+    "type": "ability",
+    "name": "Bad Dreams"
+  },
+  {
+    "type": "ability",
+    "name": "Download"
+  },
+  {
+    "type": "ability",
+    "name": "Dry Skin"
+  },
+  {
+    "type": "ability",
+    "name": "Filter"
+  },
+  {
+    "type": "ability",
+    "name": "Flower Gift"
+  },
+  {
+    "type": "ability",
+    "name": "Forewarn"
+  },
+  {
+    "type": "ability",
+    "name": "Frisk"
+  },
+  {
+    "type": "ability",
+    "name": "Gluttony"
+  },
+  {
+    "type": "ability",
+    "name": "Heatproof"
+  },
+  {
+    "type": "ability",
+    "name": "Honey Gather"
+  },
+  {
+    "type": "ability",
+    "name": "Hydration"
+  },
+  {
+    "type": "ability",
+    "name": "Ice Body"
+  },
+  {
+    "type": "ability",
+    "name": "Iron Fist"
+  },
+  {
+    "type": "ability",
+    "name": "Klutz"
+  },
+  {
+    "type": "ability",
+    "name": "Leaf Guard"
+  },
+  {
+    "type": "ability",
+    "name": "Magic Guard"
+  },
+  {
+    "type": "ability",
+    "name": "Mold Breaker"
+  },
+  {
+    "type": "ability",
+    "name": "Motor Drive"
+  },
+  {
+    "type": "ability",
+    "name": "Mountaineer"
+  },
+  {
+    "type": "ability",
+    "name": "Multitype"
+  },
+  {
+    "type": "ability",
+    "name": "No Guard"
+  },
+  {
+    "type": "ability",
+    "name": "Normalize"
+  },
+  {
+    "type": "ability",
+    "name": "Persistent"
+  },
+  {
+    "type": "ability",
+    "name": "Poison Heal"
+  },
+  {
+    "type": "ability",
+    "name": "Quick Feet"
+  },
+  {
+    "type": "ability",
+    "name": "Rebound"
+  },
+  {
+    "type": "ability",
+    "name": "Reckless"
+  },
+  {
+    "type": "ability",
+    "name": "Rivalry"
+  },
+  {
+    "type": "ability",
+    "name": "Scrappy"
+  },
+  {
+    "type": "ability",
+    "name": "Simple"
+  },
+  {
+    "type": "ability",
+    "name": "Skill Link"
+  },
+  {
+    "type": "ability",
+    "name": "Slow Start"
+  },
+  {
+    "type": "ability",
+    "name": "Sniper"
+  },
+  {
+    "type": "ability",
+    "name": "Snow Cloak"
+  },
+  {
+    "type": "ability",
+    "name": "Snow Warning"
+  },
+  {
+    "type": "ability",
+    "name": "Solar Power"
+  },
+  {
+    "type": "ability",
+    "name": "Solid Rock"
+  },
+  {
+    "type": "ability",
+    "name": "Stall"
+  },
+  {
+    "type": "ability",
+    "name": "Steadfast"
+  },
+  {
+    "type": "ability",
+    "name": "Storm Drain"
+  },
+  {
+    "type": "ability",
+    "name": "Super Luck"
+  },
+  {
+    "type": "ability",
+    "name": "Tangled Feet"
+  },
+  {
+    "type": "ability",
+    "name": "Technician"
+  },
+  {
+    "type": "ability",
+    "name": "Tinted Lens"
+  },
+  {
+    "type": "ability",
+    "name": "Unaware"
+  },
+  {
+    "type": "ability",
+    "name": "Unburden"
+  },
+  {
+    "type": "ability",
+    "name": "Analytic"
+  },
+  {
+    "type": "ability",
+    "name": "Big Pecks"
+  },
+  {
+    "type": "ability",
+    "name": "Contrary"
+  },
+  {
+    "type": "ability",
+    "name": "Cursed Body"
+  },
+  {
+    "type": "ability",
+    "name": "Defeatist"
+  },
+  {
+    "type": "ability",
+    "name": "Defiant"
+  },
+  {
+    "type": "ability",
+    "name": "Flare Boost"
+  },
+  {
+    "type": "ability",
+    "name": "Friend Guard"
+  },
+  {
+    "type": "ability",
+    "name": "Harvest"
+  },
+  {
+    "type": "ability",
+    "name": "Healer"
+  },
+  {
+    "type": "ability",
+    "name": "Heavy Metal"
+  },
+  {
+    "type": "ability",
+    "name": "Illusion"
+  },
+  {
+    "type": "ability",
+    "name": "Imposter"
+  },
+  {
+    "type": "ability",
+    "name": "Infiltrator"
+  },
+  {
+    "type": "ability",
+    "name": "Iron Barbs"
+  },
+  {
+    "type": "ability",
+    "name": "Light Metal"
+  },
+  {
+    "type": "ability",
+    "name": "Justified"
+  },
+  {
+    "type": "ability",
+    "name": "Magic Bounce"
+  },
+  {
+    "type": "ability",
+    "name": "Moody"
+  },
+  {
+    "type": "ability",
+    "name": "Moxie"
+  },
+  {
+    "type": "ability",
+    "name": "Multiscale"
+  },
+  {
+    "type": "ability",
+    "name": "Mummy"
+  },
+  {
+    "type": "ability",
+    "name": "Overcoat"
+  },
+  {
+    "type": "ability",
+    "name": "Pickpocket"
+  },
+  {
+    "type": "ability",
+    "name": "Poison Touch"
+  },
+  {
+    "type": "ability",
+    "name": "Prankster"
+  },
+  {
+    "type": "ability",
+    "name": "Rattled"
+  },
+  {
+    "type": "ability",
+    "name": "Regenerator"
+  },
+  {
+    "type": "ability",
+    "name": "Sand Force"
+  },
+  {
+    "type": "ability",
+    "name": "Sand Rush"
+  },
+  {
+    "type": "ability",
+    "name": "Sap Sipper"
+  },
+  {
+    "type": "ability",
+    "name": "Sheer Force"
+  },
+  {
+    "type": "ability",
+    "name": "Telepathy"
+  },
+  {
+    "type": "ability",
+    "name": "Teravolt"
+  },
+  {
+    "type": "ability",
+    "name": "Toxic Boost"
+  },
+  {
+    "type": "ability",
+    "name": "Turboblaze"
+  },
+  {
+    "type": "ability",
+    "name": "Unnerve"
+  },
+  {
+    "type": "ability",
+    "name": "Victory Star"
+  },
+  {
+    "type": "ability",
+    "name": "Weak Armor"
+  },
+  {
+    "type": "ability",
+    "name": "Wonder Skin"
+  },
+  {
+    "type": "ability",
+    "name": "Zen Mode"
+  },
+  {
+    "type": "move",
+    "name": "(No Move)"
+  },
+  {
+    "type": "move",
+    "name": "Absorb"
+  },
+  {
+    "type": "move",
+    "name": "Acid"
+  },
+  {
+    "type": "move",
+    "name": "Amnesia"
+  },
+  {
+    "type": "move",
+    "name": "Aurora Beam"
+  },
+  {
+    "type": "move",
+    "name": "Barrage"
+  },
+  {
+    "type": "move",
+    "name": "Bide"
+  },
+  {
+    "type": "move",
+    "name": "Bind"
+  },
+  {
+    "type": "move",
+    "name": "Bite"
+  },
+  {
+    "type": "move",
+    "name": "Blizzard"
+  },
+  {
+    "type": "move",
+    "name": "Bonemerang"
+  },
+  {
+    "type": "move",
+    "name": "Bubble"
+  },
+  {
+    "type": "move",
+    "name": "Bubble Beam"
+  },
+  {
+    "type": "move",
+    "name": "Clamp"
+  },
+  {
+    "type": "move",
+    "name": "Comet Punch"
+  },
+  {
+    "type": "move",
+    "name": "Constrict"
+  },
+  {
+    "type": "move",
+    "name": "Conversion"
+  },
+  {
+    "type": "move",
+    "name": "Counter"
+  },
+  {
+    "type": "move",
+    "name": "Crabhammer"
+  },
+  {
+    "type": "move",
+    "name": "Defense Curl"
+  },
+  {
+    "type": "move",
+    "name": "Dig"
+  },
+  {
+    "type": "move",
+    "name": "Disable"
+  },
+  {
+    "type": "move",
+    "name": "Dizzy Punch"
+  },
+  {
+    "type": "move",
+    "name": "Double-Edge"
+  },
+  {
+    "type": "move",
+    "name": "Double Kick"
+  },
+  {
+    "type": "move",
+    "name": "Double Slap"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Rage"
+  },
+  {
+    "type": "move",
+    "name": "Dream Eater"
+  },
+  {
+    "type": "move",
+    "name": "Earthquake"
+  },
+  {
+    "type": "move",
+    "name": "Explosion"
+  },
+  {
+    "type": "move",
+    "name": "Fire Blast"
+  },
+  {
+    "type": "move",
+    "name": "Fire Spin"
+  },
+  {
+    "type": "move",
+    "name": "Fissure"
+  },
+  {
+    "type": "move",
+    "name": "Fly"
+  },
+  {
+    "type": "move",
+    "name": "Focus Energy"
+  },
+  {
+    "type": "move",
+    "name": "Fury Attack"
+  },
+  {
+    "type": "move",
+    "name": "Fury Swipes"
+  },
+  {
+    "type": "move",
+    "name": "Glare"
+  },
+  {
+    "type": "move",
+    "name": "Growth"
+  },
+  {
+    "type": "move",
+    "name": "Guillotine"
+  },
+  {
+    "type": "move",
+    "name": "Gust"
+  },
+  {
+    "type": "move",
+    "name": "Haze"
+  },
+  {
+    "type": "move",
+    "name": "High Jump Kick"
+  },
+  {
+    "type": "move",
+    "name": "Horn Drill"
+  },
+  {
+    "type": "move",
+    "name": "Hyper Beam"
+  },
+  {
+    "type": "move",
+    "name": "Jump Kick"
+  },
+  {
+    "type": "move",
+    "name": "Karate Chop"
+  },
+  {
+    "type": "move",
+    "name": "Leech Seed"
+  },
+  {
+    "type": "move",
+    "name": "Light Screen"
+  },
+  {
+    "type": "move",
+    "name": "Metronome"
+  },
+  {
+    "type": "move",
+    "name": "Mimic"
+  },
+  {
+    "type": "move",
+    "name": "Minimize"
+  },
+  {
+    "type": "move",
+    "name": "Mirror Move"
+  },
+  {
+    "type": "move",
+    "name": "Mist"
+  },
+  {
+    "type": "move",
+    "name": "Night Shade"
+  },
+  {
+    "type": "move",
+    "name": "Petal Dance"
+  },
+  {
+    "type": "move",
+    "name": "Pin Missile"
+  },
+  {
+    "type": "move",
+    "name": "Poison Sting"
+  },
+  {
+    "type": "move",
+    "name": "Psychic"
+  },
+  {
+    "type": "move",
+    "name": "Psywave"
+  },
+  {
+    "type": "move",
+    "name": "Rage"
+  },
+  {
+    "type": "move",
+    "name": "Razor Leaf"
+  },
+  {
+    "type": "move",
+    "name": "Razor Wind"
+  },
+  {
+    "type": "move",
+    "name": "Recover"
+  },
+  {
+    "type": "move",
+    "name": "Reflect"
+  },
+  {
+    "type": "move",
+    "name": "Rest"
+  },
+  {
+    "type": "move",
+    "name": "Roar"
+  },
+  {
+    "type": "move",
+    "name": "Rock Slide"
+  },
+  {
+    "type": "move",
+    "name": "Rock Throw"
+  },
+  {
+    "type": "move",
+    "name": "Sand Attack"
+  },
+  {
+    "type": "move",
+    "name": "Seismic Toss"
+  },
+  {
+    "type": "move",
+    "name": "Self-Destruct"
+  },
+  {
+    "type": "move",
+    "name": "Skull Bash"
+  },
+  {
+    "type": "move",
+    "name": "Slash"
+  },
+  {
+    "type": "move",
+    "name": "Sludge"
+  },
+  {
+    "type": "move",
+    "name": "Soft-Boiled"
+  },
+  {
+    "type": "move",
+    "name": "Solar Beam"
+  },
+  {
+    "type": "move",
+    "name": "Sonic Boom"
+  },
+  {
+    "type": "move",
+    "name": "Spike Cannon"
+  },
+  {
+    "type": "move",
+    "name": "Stomp"
+  },
+  {
+    "type": "move",
+    "name": "Struggle"
+  },
+  {
+    "type": "move",
+    "name": "Stun Spore"
+  },
+  {
+    "type": "move",
+    "name": "Submission"
+  },
+  {
+    "type": "move",
+    "name": "Substitute"
+  },
+  {
+    "type": "move",
+    "name": "Super Fang"
+  },
+  {
+    "type": "move",
+    "name": "Swift"
+  },
+  {
+    "type": "move",
+    "name": "Take Down"
+  },
+  {
+    "type": "move",
+    "name": "Thrash"
+  },
+  {
+    "type": "move",
+    "name": "Thunder"
+  },
+  {
+    "type": "move",
+    "name": "Thunder Wave"
+  },
+  {
+    "type": "move",
+    "name": "Transform"
+  },
+  {
+    "type": "move",
+    "name": "Tri Attack"
+  },
+  {
+    "type": "move",
+    "name": "Twineedle"
+  },
+  {
+    "type": "move",
+    "name": "Whirlwind"
+  },
+  {
+    "type": "move",
+    "name": "Wing Attack"
+  },
+  {
+    "type": "move",
+    "name": "Wrap"
+  },
+  {
+    "type": "move",
+    "name": "Growl"
+  },
+  {
+    "type": "move",
+    "name": "Leer"
+  },
+  {
+    "type": "move",
+    "name": "Low Kick"
+  },
+  {
+    "type": "move",
+    "name": "Poison Gas"
+  },
+  {
+    "type": "move",
+    "name": "Poison Powder"
+  },
+  {
+    "type": "move",
+    "name": "Sky Attack"
+  },
+  {
+    "type": "move",
+    "name": "String Shot"
+  },
+  {
+    "type": "move",
+    "name": "Surf"
+  },
+  {
+    "type": "move",
+    "name": "Tail Whip"
+  },
+  {
+    "type": "move",
+    "name": "Toxic"
+  },
+  {
+    "type": "move",
+    "name": "Flash"
+  },
+  {
+    "type": "move",
+    "name": "Hypnosis"
+  },
+  {
+    "type": "move",
+    "name": "Leech Life"
+  },
+  {
+    "type": "move",
+    "name": "Mega Drain"
+  },
+  {
+    "type": "move",
+    "name": "Vine Whip"
+  },
+  {
+    "type": "move",
+    "name": "Waterfall"
+  },
+  {
+    "type": "move",
+    "name": "Tackle"
+  },
+  {
+    "type": "move",
+    "name": "Acid Armor"
+  },
+  {
+    "type": "move",
+    "name": "Barrier"
+  },
+  {
+    "type": "move",
+    "name": "Body Slam"
+  },
+  {
+    "type": "move",
+    "name": "Flamethrower"
+  },
+  {
+    "type": "move",
+    "name": "Hydro Pump"
+  },
+  {
+    "type": "move",
+    "name": "Ice Beam"
+  },
+  {
+    "type": "move",
+    "name": "Lick"
+  },
+  {
+    "type": "move",
+    "name": "Screech"
+  },
+  {
+    "type": "move",
+    "name": "Sing"
+  },
+  {
+    "type": "move",
+    "name": "Sleep Powder"
+  },
+  {
+    "type": "move",
+    "name": "Smog"
+  },
+  {
+    "type": "move",
+    "name": "Spore"
+  },
+  {
+    "type": "move",
+    "name": "Supersonic"
+  },
+  {
+    "type": "move",
+    "name": "Swords Dance"
+  },
+  {
+    "type": "move",
+    "name": "Thunderbolt"
+  },
+  {
+    "type": "move",
+    "name": "Bone Club"
+  },
+  {
+    "type": "move",
+    "name": "Egg Bomb"
+  },
+  {
+    "type": "move",
+    "name": "Hyper Fang"
+  },
+  {
+    "type": "move",
+    "name": "Kinesis"
+  },
+  {
+    "type": "move",
+    "name": "Lovely Kiss"
+  },
+  {
+    "type": "move",
+    "name": "Meditate"
+  },
+  {
+    "type": "move",
+    "name": "Rolling Kick"
+  },
+  {
+    "type": "move",
+    "name": "Sharpen"
+  },
+  {
+    "type": "move",
+    "name": "Teleport"
+  },
+  {
+    "type": "move",
+    "name": "Agility"
+  },
+  {
+    "type": "move",
+    "name": "Confuse Ray"
+  },
+  {
+    "type": "move",
+    "name": "Confusion"
+  },
+  {
+    "type": "move",
+    "name": "Cut"
+  },
+  {
+    "type": "move",
+    "name": "Double Team"
+  },
+  {
+    "type": "move",
+    "name": "Drill Peck"
+  },
+  {
+    "type": "move",
+    "name": "Ember"
+  },
+  {
+    "type": "move",
+    "name": "Fire Punch"
+  },
+  {
+    "type": "move",
+    "name": "Harden"
+  },
+  {
+    "type": "move",
+    "name": "Headbutt"
+  },
+  {
+    "type": "move",
+    "name": "Horn Attack"
+  },
+  {
+    "type": "move",
+    "name": "Ice Punch"
+  },
+  {
+    "type": "move",
+    "name": "Mega Kick"
+  },
+  {
+    "type": "move",
+    "name": "Mega Punch"
+  },
+  {
+    "type": "move",
+    "name": "Paleo Wave"
+  },
+  {
+    "type": "move",
+    "name": "Pay Day"
+  },
+  {
+    "type": "move",
+    "name": "Peck"
+  },
+  {
+    "type": "move",
+    "name": "Pound"
+  },
+  {
+    "type": "move",
+    "name": "Psybeam"
+  },
+  {
+    "type": "move",
+    "name": "Quick Attack"
+  },
+  {
+    "type": "move",
+    "name": "Scratch"
+  },
+  {
+    "type": "move",
+    "name": "Shadow Strike"
+  },
+  {
+    "type": "move",
+    "name": "Slam"
+  },
+  {
+    "type": "move",
+    "name": "Smokescreen"
+  },
+  {
+    "type": "move",
+    "name": "Splash"
+  },
+  {
+    "type": "move",
+    "name": "Strength"
+  },
+  {
+    "type": "move",
+    "name": "Thunder Punch"
+  },
+  {
+    "type": "move",
+    "name": "Thunder Shock"
+  },
+  {
+    "type": "move",
+    "name": "Vise Grip"
+  },
+  {
+    "type": "move",
+    "name": "Water Gun"
+  },
+  {
+    "type": "move",
+    "name": "Withdraw"
+  },
+  {
+    "type": "move",
+    "name": "Aeroblast"
+  },
+  {
+    "type": "move",
+    "name": "Attract"
+  },
+  {
+    "type": "move",
+    "name": "Beat Up"
+  },
+  {
+    "type": "move",
+    "name": "Belly Drum"
+  },
+  {
+    "type": "move",
+    "name": "Conversion 2"
+  },
+  {
+    "type": "move",
+    "name": "Cross Chop"
+  },
+  {
+    "type": "move",
+    "name": "Curse"
+  },
+  {
+    "type": "move",
+    "name": "Destiny Bond"
+  },
+  {
+    "type": "move",
+    "name": "Detect"
+  },
+  {
+    "type": "move",
+    "name": "Encore"
+  },
+  {
+    "type": "move",
+    "name": "Endure"
+  },
+  {
+    "type": "move",
+    "name": "Flail"
+  },
+  {
+    "type": "move",
+    "name": "Foresight"
+  },
+  {
+    "type": "move",
+    "name": "Future Sight"
+  },
+  {
+    "type": "move",
+    "name": "Heal Bell"
+  },
+  {
+    "type": "move",
+    "name": "Icy Wind"
+  },
+  {
+    "type": "move",
+    "name": "Lock-On"
+  },
+  {
+    "type": "move",
+    "name": "Mind Reader"
+  },
+  {
+    "type": "move",
+    "name": "Mirror Coat"
+  },
+  {
+    "type": "move",
+    "name": "Moonlight"
+  },
+  {
+    "type": "move",
+    "name": "Morning Sun"
+  },
+  {
+    "type": "move",
+    "name": "Nightmare"
+  },
+  {
+    "type": "move",
+    "name": "Outrage"
+  },
+  {
+    "type": "move",
+    "name": "Powder Snow"
+  },
+  {
+    "type": "move",
+    "name": "Present"
+  },
+  {
+    "type": "move",
+    "name": "Protect"
+  },
+  {
+    "type": "move",
+    "name": "Psych Up"
+  },
+  {
+    "type": "move",
+    "name": "Pursuit"
+  },
+  {
+    "type": "move",
+    "name": "Rain Dance"
+  },
+  {
+    "type": "move",
+    "name": "Reversal"
+  },
+  {
+    "type": "move",
+    "name": "Safeguard"
+  },
+  {
+    "type": "move",
+    "name": "Sandstorm"
+  },
+  {
+    "type": "move",
+    "name": "Sketch"
+  },
+  {
+    "type": "move",
+    "name": "Sleep Talk"
+  },
+  {
+    "type": "move",
+    "name": "Spikes"
+  },
+  {
+    "type": "move",
+    "name": "Spite"
+  },
+  {
+    "type": "move",
+    "name": "Sunny Day"
+  },
+  {
+    "type": "move",
+    "name": "Swagger"
+  },
+  {
+    "type": "move",
+    "name": "Sweet Scent"
+  },
+  {
+    "type": "move",
+    "name": "Synthesis"
+  },
+  {
+    "type": "move",
+    "name": "Thief"
+  },
+  {
+    "type": "move",
+    "name": "Triple Kick"
+  },
+  {
+    "type": "move",
+    "name": "Twister"
+  },
+  {
+    "type": "move",
+    "name": "Ancient Power"
+  },
+  {
+    "type": "move",
+    "name": "Bone Rush"
+  },
+  {
+    "type": "move",
+    "name": "Crunch"
+  },
+  {
+    "type": "move",
+    "name": "Feint Attack"
+  },
+  {
+    "type": "move",
+    "name": "Giga Drain"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power"
+  },
+  {
+    "type": "move",
+    "name": "Mean Look"
+  },
+  {
+    "type": "move",
+    "name": "Rapid Spin"
+  },
+  {
+    "type": "move",
+    "name": "Rock Smash"
+  },
+  {
+    "type": "move",
+    "name": "Spider Web"
+  },
+  {
+    "type": "move",
+    "name": "Whirlpool"
+  },
+  {
+    "type": "move",
+    "name": "Zap Cannon"
+  },
+  {
+    "type": "move",
+    "name": "Cotton Spore"
+  },
+  {
+    "type": "move",
+    "name": "Extreme Speed"
+  },
+  {
+    "type": "move",
+    "name": "Fury Cutter"
+  },
+  {
+    "type": "move",
+    "name": "Magnitude"
+  },
+  {
+    "type": "move",
+    "name": "Milk Drink"
+  },
+  {
+    "type": "move",
+    "name": "Scary Face"
+  },
+  {
+    "type": "move",
+    "name": "Charm"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Bug"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Dark"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Dragon"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Electric"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Fighting"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Fire"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Flying"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Ghost"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Grass"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Ground"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Ice"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Poison"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Psychic"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Rock"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Steel"
+  },
+  {
+    "type": "move",
+    "name": "Hidden Power Water"
+  },
+  {
+    "type": "move",
+    "name": "Perish Song"
+  },
+  {
+    "type": "move",
+    "name": "Snore"
+  },
+  {
+    "type": "move",
+    "name": "Sweet Kiss"
+  },
+  {
+    "type": "move",
+    "name": "Rollout"
+  },
+  {
+    "type": "move",
+    "name": "Frustration"
+  },
+  {
+    "type": "move",
+    "name": "Return"
+  },
+  {
+    "type": "move",
+    "name": "Sacred Fire"
+  },
+  {
+    "type": "move",
+    "name": "Baton Pass"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Breath"
+  },
+  {
+    "type": "move",
+    "name": "Dynamic Punch"
+  },
+  {
+    "type": "move",
+    "name": "False Swipe"
+  },
+  {
+    "type": "move",
+    "name": "Flame Wheel"
+  },
+  {
+    "type": "move",
+    "name": "Iron Tail"
+  },
+  {
+    "type": "move",
+    "name": "Mach Punch"
+  },
+  {
+    "type": "move",
+    "name": "Megahorn"
+  },
+  {
+    "type": "move",
+    "name": "Metal Claw"
+  },
+  {
+    "type": "move",
+    "name": "Mud-Slap"
+  },
+  {
+    "type": "move",
+    "name": "Octazooka"
+  },
+  {
+    "type": "move",
+    "name": "Pain Split"
+  },
+  {
+    "type": "move",
+    "name": "Shadow Ball"
+  },
+  {
+    "type": "move",
+    "name": "Sludge Bomb"
+  },
+  {
+    "type": "move",
+    "name": "Spark"
+  },
+  {
+    "type": "move",
+    "name": "Steel Wing"
+  },
+  {
+    "type": "move",
+    "name": "Vital Throw"
+  },
+  {
+    "type": "move",
+    "name": "Arm Thrust"
+  },
+  {
+    "type": "move",
+    "name": "Assist"
+  },
+  {
+    "type": "move",
+    "name": "Astonish"
+  },
+  {
+    "type": "move",
+    "name": "Block"
+  },
+  {
+    "type": "move",
+    "name": "Bounce"
+  },
+  {
+    "type": "move",
+    "name": "Bullet Seed"
+  },
+  {
+    "type": "move",
+    "name": "Camouflage"
+  },
+  {
+    "type": "move",
+    "name": "Charge"
+  },
+  {
+    "type": "move",
+    "name": "Covet"
+  },
+  {
+    "type": "move",
+    "name": "Dive"
+  },
+  {
+    "type": "move",
+    "name": "Doom Desire"
+  },
+  {
+    "type": "move",
+    "name": "Extrasensory"
+  },
+  {
+    "type": "move",
+    "name": "Fake Out"
+  },
+  {
+    "type": "move",
+    "name": "Follow Me"
+  },
+  {
+    "type": "move",
+    "name": "Hail"
+  },
+  {
+    "type": "move",
+    "name": "Icicle Spear"
+  },
+  {
+    "type": "move",
+    "name": "Ingrain"
+  },
+  {
+    "type": "move",
+    "name": "Knock Off"
+  },
+  {
+    "type": "move",
+    "name": "Leaf Blade"
+  },
+  {
+    "type": "move",
+    "name": "Magic Coat"
+  },
+  {
+    "type": "move",
+    "name": "Memento"
+  },
+  {
+    "type": "move",
+    "name": "Nature Power"
+  },
+  {
+    "type": "move",
+    "name": "Needle Arm"
+  },
+  {
+    "type": "move",
+    "name": "Odor Sleuth"
+  },
+  {
+    "type": "move",
+    "name": "Overheat"
+  },
+  {
+    "type": "move",
+    "name": "Revenge"
+  },
+  {
+    "type": "move",
+    "name": "Rock Blast"
+  },
+  {
+    "type": "move",
+    "name": "Role Play"
+  },
+  {
+    "type": "move",
+    "name": "Sand Tomb"
+  },
+  {
+    "type": "move",
+    "name": "Skill Swap"
+  },
+  {
+    "type": "move",
+    "name": "Smelling Salts"
+  },
+  {
+    "type": "move",
+    "name": "Spit Up"
+  },
+  {
+    "type": "move",
+    "name": "Stockpile"
+  },
+  {
+    "type": "move",
+    "name": "Swallow"
+  },
+  {
+    "type": "move",
+    "name": "Taunt"
+  },
+  {
+    "type": "move",
+    "name": "Teeter Dance"
+  },
+  {
+    "type": "move",
+    "name": "Tickle"
+  },
+  {
+    "type": "move",
+    "name": "Trick"
+  },
+  {
+    "type": "move",
+    "name": "Uproar"
+  },
+  {
+    "type": "move",
+    "name": "Volt Tackle"
+  },
+  {
+    "type": "move",
+    "name": "Weather Ball"
+  },
+  {
+    "type": "move",
+    "name": "Aromatherapy"
+  },
+  {
+    "type": "move",
+    "name": "Brick Break"
+  },
+  {
+    "type": "move",
+    "name": "Endeavor"
+  },
+  {
+    "type": "move",
+    "name": "Focus Punch"
+  },
+  {
+    "type": "move",
+    "name": "Imprison"
+  },
+  {
+    "type": "move",
+    "name": "Mud Sport"
+  },
+  {
+    "type": "move",
+    "name": "Recycle"
+  },
+  {
+    "type": "move",
+    "name": "Secret Power"
+  },
+  {
+    "type": "move",
+    "name": "Sky Uppercut"
+  },
+  {
+    "type": "move",
+    "name": "Slack Off"
+  },
+  {
+    "type": "move",
+    "name": "Snatch"
+  },
+  {
+    "type": "move",
+    "name": "Tail Glow"
+  },
+  {
+    "type": "move",
+    "name": "Torment"
+  },
+  {
+    "type": "move",
+    "name": "Water Sport"
+  },
+  {
+    "type": "move",
+    "name": "Wish"
+  },
+  {
+    "type": "move",
+    "name": "Air Cutter"
+  },
+  {
+    "type": "move",
+    "name": "Facade"
+  },
+  {
+    "type": "move",
+    "name": "Grass Whistle"
+  },
+  {
+    "type": "move",
+    "name": "Heat Wave"
+  },
+  {
+    "type": "move",
+    "name": "Hyper Voice"
+  },
+  {
+    "type": "move",
+    "name": "Metal Sound"
+  },
+  {
+    "type": "move",
+    "name": "Meteor Mash"
+  },
+  {
+    "type": "move",
+    "name": "Muddy Water"
+  },
+  {
+    "type": "move",
+    "name": "Poison Fang"
+  },
+  {
+    "type": "move",
+    "name": "Rock Tomb"
+  },
+  {
+    "type": "move",
+    "name": "Will-O-Wisp"
+  },
+  {
+    "type": "move",
+    "name": "Ice Ball"
+  },
+  {
+    "type": "move",
+    "name": "Sheer Cold"
+  },
+  {
+    "type": "move",
+    "name": "Howl"
+  },
+  {
+    "type": "move",
+    "name": "Luster Purge"
+  },
+  {
+    "type": "move",
+    "name": "Mist Ball"
+  },
+  {
+    "type": "move",
+    "name": "Psycho Boost"
+  },
+  {
+    "type": "move",
+    "name": "Refresh"
+  },
+  {
+    "type": "move",
+    "name": "Signal Beam"
+  },
+  {
+    "type": "move",
+    "name": "Silver Wind"
+  },
+  {
+    "type": "move",
+    "name": "Aerial Ace"
+  },
+  {
+    "type": "move",
+    "name": "Blast Burn"
+  },
+  {
+    "type": "move",
+    "name": "Blaze Kick"
+  },
+  {
+    "type": "move",
+    "name": "Bulk Up"
+  },
+  {
+    "type": "move",
+    "name": "Calm Mind"
+  },
+  {
+    "type": "move",
+    "name": "Cosmic Power"
+  },
+  {
+    "type": "move",
+    "name": "Crush Claw"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Claw"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Dance"
+  },
+  {
+    "type": "move",
+    "name": "Eruption"
+  },
+  {
+    "type": "move",
+    "name": "Fake Tears"
+  },
+  {
+    "type": "move",
+    "name": "Feather Dance"
+  },
+  {
+    "type": "move",
+    "name": "Flatter"
+  },
+  {
+    "type": "move",
+    "name": "Frenzy Plant"
+  },
+  {
+    "type": "move",
+    "name": "Grudge"
+  },
+  {
+    "type": "move",
+    "name": "Helping Hand"
+  },
+  {
+    "type": "move",
+    "name": "Hydro Cannon"
+  },
+  {
+    "type": "move",
+    "name": "Iron Defense"
+  },
+  {
+    "type": "move",
+    "name": "Magical Leaf"
+  },
+  {
+    "type": "move",
+    "name": "Mud Shot"
+  },
+  {
+    "type": "move",
+    "name": "Poison Tail"
+  },
+  {
+    "type": "move",
+    "name": "Shadow Punch"
+  },
+  {
+    "type": "move",
+    "name": "Shock Wave"
+  },
+  {
+    "type": "move",
+    "name": "Superpower"
+  },
+  {
+    "type": "move",
+    "name": "Water Pulse"
+  },
+  {
+    "type": "move",
+    "name": "Water Spout"
+  },
+  {
+    "type": "move",
+    "name": "Yawn"
+  },
+  {
+    "type": "move",
+    "name": "Acupressure"
+  },
+  {
+    "type": "move",
+    "name": "Aqua Ring"
+  },
+  {
+    "type": "move",
+    "name": "Assurance"
+  },
+  {
+    "type": "move",
+    "name": "Avalanche"
+  },
+  {
+    "type": "move",
+    "name": "Brave Bird"
+  },
+  {
+    "type": "move",
+    "name": "Bug Bite"
+  },
+  {
+    "type": "move",
+    "name": "Chatter"
+  },
+  {
+    "type": "move",
+    "name": "Copycat"
+  },
+  {
+    "type": "move",
+    "name": "Crush Grip"
+  },
+  {
+    "type": "move",
+    "name": "Defog"
+  },
+  {
+    "type": "move",
+    "name": "Double Hit"
+  },
+  {
+    "type": "move",
+    "name": "Drain Punch"
+  },
+  {
+    "type": "move",
+    "name": "Embargo"
+  },
+  {
+    "type": "move",
+    "name": "Feint"
+  },
+  {
+    "type": "move",
+    "name": "Fire Fang"
+  },
+  {
+    "type": "move",
+    "name": "Flare Blitz"
+  },
+  {
+    "type": "move",
+    "name": "Fling"
+  },
+  {
+    "type": "move",
+    "name": "Gravity"
+  },
+  {
+    "type": "move",
+    "name": "Head Smash"
+  },
+  {
+    "type": "move",
+    "name": "Heal Block"
+  },
+  {
+    "type": "move",
+    "name": "Healing Wish"
+  },
+  {
+    "type": "move",
+    "name": "Heal Order"
+  },
+  {
+    "type": "move",
+    "name": "Last Resort"
+  },
+  {
+    "type": "move",
+    "name": "Lucky Chant"
+  },
+  {
+    "type": "move",
+    "name": "Lunar Dance"
+  },
+  {
+    "type": "move",
+    "name": "Magma Storm"
+  },
+  {
+    "type": "move",
+    "name": "Magnet Rise"
+  },
+  {
+    "type": "move",
+    "name": "Me First"
+  },
+  {
+    "type": "move",
+    "name": "Metal Burst"
+  },
+  {
+    "type": "move",
+    "name": "Miracle Eye"
+  },
+  {
+    "type": "move",
+    "name": "Natural Gift"
+  },
+  {
+    "type": "move",
+    "name": "Payback"
+  },
+  {
+    "type": "move",
+    "name": "Pluck"
+  },
+  {
+    "type": "move",
+    "name": "Power Trick"
+  },
+  {
+    "type": "move",
+    "name": "Roost"
+  },
+  {
+    "type": "move",
+    "name": "Stealth Rock"
+  },
+  {
+    "type": "move",
+    "name": "Sucker Punch"
+  },
+  {
+    "type": "move",
+    "name": "Switcheroo"
+  },
+  {
+    "type": "move",
+    "name": "Tailwind"
+  },
+  {
+    "type": "move",
+    "name": "Toxic Spikes"
+  },
+  {
+    "type": "move",
+    "name": "Trick Room"
+  },
+  {
+    "type": "move",
+    "name": "U-turn"
+  },
+  {
+    "type": "move",
+    "name": "Wake-Up Slap"
+  },
+  {
+    "type": "move",
+    "name": "Wood Hammer"
+  },
+  {
+    "type": "move",
+    "name": "Worry Seed"
+  },
+  {
+    "type": "move",
+    "name": "Wring Out"
+  },
+  {
+    "type": "move",
+    "name": "Air Slash"
+  },
+  {
+    "type": "move",
+    "name": "Aura Sphere"
+  },
+  {
+    "type": "move",
+    "name": "Bug Buzz"
+  },
+  {
+    "type": "move",
+    "name": "Draco Meteor"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Pulse"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Rush"
+  },
+  {
+    "type": "move",
+    "name": "Energy Ball"
+  },
+  {
+    "type": "move",
+    "name": "Gunk Shot"
+  },
+  {
+    "type": "move",
+    "name": "Gyro Ball"
+  },
+  {
+    "type": "move",
+    "name": "Leaf Storm"
+  },
+  {
+    "type": "move",
+    "name": "Power Gem"
+  },
+  {
+    "type": "move",
+    "name": "Psycho Shift"
+  },
+  {
+    "type": "move",
+    "name": "Shadow Force"
+  },
+  {
+    "type": "move",
+    "name": "Dark Void"
+  },
+  {
+    "type": "move",
+    "name": "Gastro Acid"
+  },
+  {
+    "type": "move",
+    "name": "Captivate"
+  },
+  {
+    "type": "move",
+    "name": "Grass Knot"
+  },
+  {
+    "type": "move",
+    "name": "Heart Swap"
+  },
+  {
+    "type": "move",
+    "name": "Judgment"
+  },
+  {
+    "type": "move",
+    "name": "Magnet Bomb"
+  },
+  {
+    "type": "move",
+    "name": "Mirror Shot"
+  },
+  {
+    "type": "move",
+    "name": "Mud Bomb"
+  },
+  {
+    "type": "move",
+    "name": "Ominous Wind"
+  },
+  {
+    "type": "move",
+    "name": "Punishment"
+  },
+  {
+    "type": "move",
+    "name": "Roar of Time"
+  },
+  {
+    "type": "move",
+    "name": "Rock Climb"
+  },
+  {
+    "type": "move",
+    "name": "Seed Flare"
+  },
+  {
+    "type": "move",
+    "name": "Spacial Rend"
+  },
+  {
+    "type": "move",
+    "name": "Trump Card"
+  },
+  {
+    "type": "move",
+    "name": "Aqua Jet"
+  },
+  {
+    "type": "move",
+    "name": "Aqua Tail"
+  },
+  {
+    "type": "move",
+    "name": "Attack Order"
+  },
+  {
+    "type": "move",
+    "name": "Brine"
+  },
+  {
+    "type": "move",
+    "name": "Bullet Punch"
+  },
+  {
+    "type": "move",
+    "name": "Charge Beam"
+  },
+  {
+    "type": "move",
+    "name": "Close Combat"
+  },
+  {
+    "type": "move",
+    "name": "Cross Poison"
+  },
+  {
+    "type": "move",
+    "name": "Dark Pulse"
+  },
+  {
+    "type": "move",
+    "name": "Defend Order"
+  },
+  {
+    "type": "move",
+    "name": "Discharge"
+  },
+  {
+    "type": "move",
+    "name": "Earth Power"
+  },
+  {
+    "type": "move",
+    "name": "Flash Cannon"
+  },
+  {
+    "type": "move",
+    "name": "Focus Blast"
+  },
+  {
+    "type": "move",
+    "name": "Force Palm"
+  },
+  {
+    "type": "move",
+    "name": "Giga Impact"
+  },
+  {
+    "type": "move",
+    "name": "Guard Swap"
+  },
+  {
+    "type": "move",
+    "name": "Hammer Arm"
+  },
+  {
+    "type": "move",
+    "name": "Ice Fang"
+  },
+  {
+    "type": "move",
+    "name": "Ice Shard"
+  },
+  {
+    "type": "move",
+    "name": "Iron Head"
+  },
+  {
+    "type": "move",
+    "name": "Lava Plume"
+  },
+  {
+    "type": "move",
+    "name": "Nasty Plot"
+  },
+  {
+    "type": "move",
+    "name": "Night Slash"
+  },
+  {
+    "type": "move",
+    "name": "Poison Jab"
+  },
+  {
+    "type": "move",
+    "name": "Power Swap"
+  },
+  {
+    "type": "move",
+    "name": "Power Whip"
+  },
+  {
+    "type": "move",
+    "name": "Psycho Cut"
+  },
+  {
+    "type": "move",
+    "name": "Rock Polish"
+  },
+  {
+    "type": "move",
+    "name": "Rock Wrecker"
+  },
+  {
+    "type": "move",
+    "name": "Seed Bomb"
+  },
+  {
+    "type": "move",
+    "name": "Shadow Claw"
+  },
+  {
+    "type": "move",
+    "name": "Shadow Sneak"
+  },
+  {
+    "type": "move",
+    "name": "Stone Edge"
+  },
+  {
+    "type": "move",
+    "name": "Thunder Fang"
+  },
+  {
+    "type": "move",
+    "name": "Vacuum Wave"
+  },
+  {
+    "type": "move",
+    "name": "X-Scissor"
+  },
+  {
+    "type": "move",
+    "name": "Zen Headbutt"
+  },
+  {
+    "type": "move",
+    "name": "Autotomize"
+  },
+  {
+    "type": "move",
+    "name": "Bestow"
+  },
+  {
+    "type": "move",
+    "name": "Echoed Voice"
+  },
+  {
+    "type": "move",
+    "name": "Electro Ball"
+  },
+  {
+    "type": "move",
+    "name": "Entrainment"
+  },
+  {
+    "type": "move",
+    "name": "Final Gambit"
+  },
+  {
+    "type": "move",
+    "name": "Fire Pledge"
+  },
+  {
+    "type": "move",
+    "name": "Frost Breath"
+  },
+  {
+    "type": "move",
+    "name": "Grass Pledge"
+  },
+  {
+    "type": "move",
+    "name": "Heal Pulse"
+  },
+  {
+    "type": "move",
+    "name": "Heat Crash"
+  },
+  {
+    "type": "move",
+    "name": "Hex"
+  },
+  {
+    "type": "move",
+    "name": "Horn Leech"
+  },
+  {
+    "type": "move",
+    "name": "Hurricane"
+  },
+  {
+    "type": "move",
+    "name": "Incinerate"
+  },
+  {
+    "type": "move",
+    "name": "Low Sweep"
+  },
+  {
+    "type": "move",
+    "name": "Magic Room"
+  },
+  {
+    "type": "move",
+    "name": "Quick Guard"
+  },
+  {
+    "type": "move",
+    "name": "Rage Powder"
+  },
+  {
+    "type": "move",
+    "name": "Relic Song"
+  },
+  {
+    "type": "move",
+    "name": "Round"
+  },
+  {
+    "type": "move",
+    "name": "Sacred Sword"
+  },
+  {
+    "type": "move",
+    "name": "Scald"
+  },
+  {
+    "type": "move",
+    "name": "Simple Beam"
+  },
+  {
+    "type": "move",
+    "name": "Sky Drop"
+  },
+  {
+    "type": "move",
+    "name": "Snarl"
+  },
+  {
+    "type": "move",
+    "name": "Soak"
+  },
+  {
+    "type": "move",
+    "name": "Steamroller"
+  },
+  {
+    "type": "move",
+    "name": "Storm Throw"
+  },
+  {
+    "type": "move",
+    "name": "Struggle Bug"
+  },
+  {
+    "type": "move",
+    "name": "Synchronoise"
+  },
+  {
+    "type": "move",
+    "name": "Techno Blast"
+  },
+  {
+    "type": "move",
+    "name": "Telekinesis"
+  },
+  {
+    "type": "move",
+    "name": "Water Pledge"
+  },
+  {
+    "type": "move",
+    "name": "Wide Guard"
+  },
+  {
+    "type": "move",
+    "name": "Wonder Room"
+  },
+  {
+    "type": "move",
+    "name": "Ally Switch"
+  },
+  {
+    "type": "move",
+    "name": "Flame Burst"
+  },
+  {
+    "type": "move",
+    "name": "Heavy Slam"
+  },
+  {
+    "type": "move",
+    "name": "Reflect Type"
+  },
+  {
+    "type": "move",
+    "name": "Volt Switch"
+  },
+  {
+    "type": "move",
+    "name": "Chip Away"
+  },
+  {
+    "type": "move",
+    "name": "Fiery Dance"
+  },
+  {
+    "type": "move",
+    "name": "Head Charge"
+  },
+  {
+    "type": "move",
+    "name": "Heart Stamp"
+  },
+  {
+    "type": "move",
+    "name": "Quash"
+  },
+  {
+    "type": "move",
+    "name": "Searing Shot"
+  },
+  {
+    "type": "move",
+    "name": "Acid Spray"
+  },
+  {
+    "type": "move",
+    "name": "Acrobatics"
+  },
+  {
+    "type": "move",
+    "name": "After You"
+  },
+  {
+    "type": "move",
+    "name": "Blue Flare"
+  },
+  {
+    "type": "move",
+    "name": "Bolt Strike"
+  },
+  {
+    "type": "move",
+    "name": "Bulldoze"
+  },
+  {
+    "type": "move",
+    "name": "Circle Throw"
+  },
+  {
+    "type": "move",
+    "name": "Clear Smog"
+  },
+  {
+    "type": "move",
+    "name": "Coil"
+  },
+  {
+    "type": "move",
+    "name": "Cotton Guard"
+  },
+  {
+    "type": "move",
+    "name": "Dragon Tail"
+  },
+  {
+    "type": "move",
+    "name": "Drill Run"
+  },
+  {
+    "type": "move",
+    "name": "Dual Chop"
+  },
+  {
+    "type": "move",
+    "name": "Electroweb"
+  },
+  {
+    "type": "move",
+    "name": "Flame Charge"
+  },
+  {
+    "type": "move",
+    "name": "Foul Play"
+  },
+  {
+    "type": "move",
+    "name": "Freeze Shock"
+  },
+  {
+    "type": "move",
+    "name": "Fusion Bolt"
+  },
+  {
+    "type": "move",
+    "name": "Fusion Flare"
+  },
+  {
+    "type": "move",
+    "name": "Gear Grind"
+  },
+  {
+    "type": "move",
+    "name": "Glaciate"
+  },
+  {
+    "type": "move",
+    "name": "Guard Split"
+  },
+  {
+    "type": "move",
+    "name": "Hone Claws"
+  },
+  {
+    "type": "move",
+    "name": "Ice Burn"
+  },
+  {
+    "type": "move",
+    "name": "Icicle Crash"
+  },
+  {
+    "type": "move",
+    "name": "Inferno"
+  },
+  {
+    "type": "move",
+    "name": "Leaf Tornado"
+  },
+  {
+    "type": "move",
+    "name": "Night Daze"
+  },
+  {
+    "type": "move",
+    "name": "Power Split"
+  },
+  {
+    "type": "move",
+    "name": "Psyshock"
+  },
+  {
+    "type": "move",
+    "name": "Psystrike"
+  },
+  {
+    "type": "move",
+    "name": "Quiver Dance"
+  },
+  {
+    "type": "move",
+    "name": "Razor Shell"
+  },
+  {
+    "type": "move",
+    "name": "Retaliate"
+  },
+  {
+    "type": "move",
+    "name": "Secret Sword"
+  },
+  {
+    "type": "move",
+    "name": "Shell Smash"
+  },
+  {
+    "type": "move",
+    "name": "Shift Gear"
+  },
+  {
+    "type": "move",
+    "name": "Sludge Wave"
+  },
+  {
+    "type": "move",
+    "name": "Smack Down"
+  },
+  {
+    "type": "move",
+    "name": "Stored Power"
+  },
+  {
+    "type": "move",
+    "name": "Tail Slap"
+  },
+  {
+    "type": "move",
+    "name": "V-create"
+  },
+  {
+    "type": "move",
+    "name": "Venoshock"
+  },
+  {
+    "type": "move",
+    "name": "Wild Charge"
+  },
+  {
+    "type": "move",
+    "name": "Work Up"
+  },
+  {
+    "type": "item",
+    "name": "Absorb Bulb"
+  },
+  {
+    "type": "item",
+    "name": "Air Balloon"
+  },
+  {
+    "type": "item",
+    "name": "Amnesia Brace"
+  },
+  {
+    "type": "item",
+    "name": "Big Root"
+  },
+  {
+    "type": "item",
+    "name": "Binding Band"
+  },
+  {
+    "type": "item",
+    "name": "Black Belt"
+  },
+  {
+    "type": "item",
+    "name": "Black Glasses"
+  },
+  {
+    "type": "item",
+    "name": "Black Sludge"
+  },
+  {
+    "type": "item",
+    "name": "BrightPower"
+  },
+  {
+    "type": "item",
+    "name": "Bug Gem"
+  },
+  {
+    "type": "item",
+    "name": "Cell Battery"
+  },
+  {
+    "type": "item",
+    "name": "Charcoal"
+  },
+  {
+    "type": "item",
+    "name": "Choice Band"
+  },
+  {
+    "type": "item",
+    "name": "Choice Scarf"
+  },
+  {
+    "type": "item",
+    "name": "Choice Specs"
+  },
+  {
+    "type": "item",
+    "name": "Cleanse Tag"
+  },
+  {
+    "type": "item",
+    "name": "Damp Rock"
+  },
+  {
+    "type": "item",
+    "name": "Dark Gem"
+  },
+  {
+    "type": "item",
+    "name": "DeepSeaScale"
+  },
+  {
+    "type": "item",
+    "name": "DeepSeaTooth"
+  },
+  {
+    "type": "item",
+    "name": "Destiny Knot"
+  },
+  {
+    "type": "item",
+    "name": "Draco Plate"
+  },
+  {
+    "type": "item",
+    "name": "Dragon Fang"
+  },
+  {
+    "type": "item",
+    "name": "Dragon Gem"
+  },
+  {
+    "type": "item",
+    "name": "Dragon Scale"
+  },
+  {
+    "type": "item",
+    "name": "Dread Plate"
+  },
+  {
+    "type": "item",
+    "name": "Dubious Disc"
+  },
+  {
+    "type": "item",
+    "name": "Earth Plate"
+  },
+  {
+    "type": "item",
+    "name": "Eject Button"
+  },
+  {
+    "type": "item",
+    "name": "Electrizer"
+  },
+  {
+    "type": "item",
+    "name": "Electric Gem"
+  },
+  {
+    "type": "item",
+    "name": "Everstone"
+  },
+  {
+    "type": "item",
+    "name": "Eviolite"
+  },
+  {
+    "type": "item",
+    "name": "Exp. Share"
+  },
+  {
+    "type": "item",
+    "name": "Expert Belt"
+  },
+  {
+    "type": "item",
+    "name": "Fighting Gem"
+  },
+  {
+    "type": "item",
+    "name": "Fire Gem"
+  },
+  {
+    "type": "item",
+    "name": "Fist Plate"
+  },
+  {
+    "type": "item",
+    "name": "Flame Orb"
+  },
+  {
+    "type": "item",
+    "name": "Flame Plate"
+  },
+  {
+    "type": "item",
+    "name": "Float Stone"
+  },
+  {
+    "type": "item",
+    "name": "Flying Gem"
+  },
+  {
+    "type": "item",
+    "name": "Focus Band"
+  },
+  {
+    "type": "item",
+    "name": "Focus Sash"
+  },
+  {
+    "type": "item",
+    "name": "Ghost Gem"
+  },
+  {
+    "type": "item",
+    "name": "Grass Gem"
+  },
+  {
+    "type": "item",
+    "name": "Grip Claw"
+  },
+  {
+    "type": "item",
+    "name": "Ground Gem"
+  },
+  {
+    "type": "item",
+    "name": "Hard Stone"
+  },
+  {
+    "type": "item",
+    "name": "Heat Rock"
+  },
+  {
+    "type": "item",
+    "name": "Ice Gem"
+  },
+  {
+    "type": "item",
+    "name": "Icicle Plate"
+  },
+  {
+    "type": "item",
+    "name": "Icy Rock"
+  },
+  {
+    "type": "item",
+    "name": "Insect Plate"
+  },
+  {
+    "type": "item",
+    "name": "Iron Ball"
+  },
+  {
+    "type": "item",
+    "name": "Iron Plate"
+  },
+  {
+    "type": "item",
+    "name": "King's Rock"
+  },
+  {
+    "type": "item",
+    "name": "Lagging Tail"
+  },
+  {
+    "type": "item",
+    "name": "Leftovers"
+  },
+  {
+    "type": "item",
+    "name": "Life Orb"
+  },
+  {
+    "type": "item",
+    "name": "Light Ball"
+  },
+  {
+    "type": "item",
+    "name": "Light Clay"
+  },
+  {
+    "type": "item",
+    "name": "Lucky Punch"
+  },
+  {
+    "type": "item",
+    "name": "Macho Brace"
+  },
+  {
+    "type": "item",
+    "name": "Magmarizer"
+  },
+  {
+    "type": "item",
+    "name": "Magnet"
+  },
+  {
+    "type": "item",
+    "name": "Meadow Plate"
+  },
+  {
+    "type": "item",
+    "name": "Mental Herb"
+  },
+  {
+    "type": "item",
+    "name": "Metal Coat"
+  },
+  {
+    "type": "item",
+    "name": "Metal Powder"
+  },
+  {
+    "type": "item",
+    "name": "Metronome"
+  },
+  {
+    "type": "item",
+    "name": "Mind Plate"
+  },
+  {
+    "type": "item",
+    "name": "Miracle Seed"
+  },
+  {
+    "type": "item",
+    "name": "Muscle Band"
+  },
+  {
+    "type": "item",
+    "name": "Mysterious Gem"
+  },
+  {
+    "type": "item",
+    "name": "Mystic Water"
+  },
+  {
+    "type": "item",
+    "name": "NeverMeltIce"
+  },
+  {
+    "type": "item",
+    "name": "Normal Gem"
+  },
+  {
+    "type": "item",
+    "name": "Poison Barb"
+  },
+  {
+    "type": "item",
+    "name": "Protector"
+  },
+  {
+    "type": "item",
+    "name": "Quick Claw"
+  },
+  {
+    "type": "item",
+    "name": "Quick Powder"
+  },
+  {
+    "type": "item",
+    "name": "Razor Claw"
+  },
+  {
+    "type": "item",
+    "name": "Razor Fang"
+  },
+  {
+    "type": "item",
+    "name": "Reaper Cloth"
+  },
+  {
+    "type": "item",
+    "name": "Red Card"
+  },
+  {
+    "type": "item",
+    "name": "Ring Target"
+  },
+  {
+    "type": "item",
+    "name": "Rock Gem"
+  },
+  {
+    "type": "item",
+    "name": "Rocky Helmet"
+  },
+  {
+    "type": "item",
+    "name": "Scope Lens"
+  },
+  {
+    "type": "item",
+    "name": "Sharp Beak"
+  },
+  {
+    "type": "item",
+    "name": "Shed Shell"
+  },
+  {
+    "type": "item",
+    "name": "Shell Bell"
+  },
+  {
+    "type": "item",
+    "name": "Silk Scarf"
+  },
+  {
+    "type": "item",
+    "name": "Silver Powder"
+  },
+  {
+    "type": "item",
+    "name": "Smoke Ball"
+  },
+  {
+    "type": "item",
+    "name": "Smooth Rock"
+  },
+  {
+    "type": "item",
+    "name": "Soft Sand"
+  },
+  {
+    "type": "item",
+    "name": "Soothe Bell"
+  },
+  {
+    "type": "item",
+    "name": "Spell Tag"
+  },
+  {
+    "type": "item",
+    "name": "Steel Gem"
+  },
+  {
+    "type": "item",
+    "name": "Stick"
+  },
+  {
+    "type": "item",
+    "name": "Sticky Barb"
+  },
+  {
+    "type": "item",
+    "name": "Sky Plate"
+  },
+  {
+    "type": "item",
+    "name": "Splash Plate"
+  },
+  {
+    "type": "item",
+    "name": "Spooky Plate"
+  },
+  {
+    "type": "item",
+    "name": "Thick Club"
+  },
+  {
+    "type": "item",
+    "name": "Toxic Orb"
+  },
+  {
+    "type": "item",
+    "name": "Toxic Plate"
+  },
+  {
+    "type": "item",
+    "name": "TwistedSpoon"
+  },
+  {
+    "type": "item",
+    "name": "Up-Grade"
+  },
+  {
+    "type": "item",
+    "name": "Water Gem"
+  },
+  {
+    "type": "item",
+    "name": "Wide Lens"
+  },
+  {
+    "type": "item",
+    "name": "White Herb"
+  },
+  {
+    "type": "item",
+    "name": "Wise Glasses"
+  },
+  {
+    "type": "item",
+    "name": "Zap Plate"
+  },
+  {
+    "type": "item",
+    "name": "Zoom Lens"
+  },
+  {
+    "type": "pokemon",
+    "name": "Abra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aerodactyl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Alakazam"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arbok"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arcanine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Articuno"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beedrill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bellsprout"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blastoise"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bulbasaur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Butterfree"
+  },
+  {
+    "type": "pokemon",
+    "name": "Caterpie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chansey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charizard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charmander"
+  },
+  {
+    "type": "pokemon",
+    "name": "Charmeleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clefable"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clefairy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cloyster"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cubone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dewgong"
+  },
+  {
+    "type": "pokemon",
+    "name": "Diglett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ditto"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dodrio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Doduo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dragonair"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dragonite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dratini"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drowzee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dugtrio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eevee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ekans"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electabuzz"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electrode"
+  },
+  {
+    "type": "pokemon",
+    "name": "Exeggcute"
+  },
+  {
+    "type": "pokemon",
+    "name": "Exeggutor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Farfetch’d"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fearow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flareon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gastly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gengar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Geodude"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gloom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golbat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Goldeen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golduck"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Graveler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grimer"
+  },
+  {
+    "type": "pokemon",
+    "name": "Growlithe"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gyarados"
+  },
+  {
+    "type": "pokemon",
+    "name": "Haunter"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hitmonchan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hitmonlee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Horsea"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hypno"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ivysaur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jigglypuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jolteon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jynx"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kabuto"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kabutops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kadabra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kakuna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kangaskhan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kingler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Koffing"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krabby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lapras"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lickitung"
+  },
+  {
+    "type": "pokemon",
+    "name": "Machamp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Machoke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Machop"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magikarp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magmar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magnemite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magneton"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mankey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marowak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meowth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Metapod"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mewtwo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Moltres"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mr. Mime"
+  },
+  {
+    "type": "pokemon",
+    "name": "Muk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoqueen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoran-F"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidoran-M"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidorina"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nidorino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ninetales"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oddish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Omanyte"
+  },
+  {
+    "type": "pokemon",
+    "name": "Omastar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Onix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Paras"
+  },
+  {
+    "type": "pokemon",
+    "name": "Parasect"
+  },
+  {
+    "type": "pokemon",
+    "name": "Persian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidgeot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidgeotto"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidgey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pikachu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pinsir"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poliwag"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poliwhirl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poliwrath"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ponyta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Porygon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Primeape"
+  },
+  {
+    "type": "pokemon",
+    "name": "Psyduck"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raichu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rapidash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raticate"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rattata"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rhydon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rhyhorn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandshrew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandslash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scyther"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seadra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seaking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shellder"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slowbro"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slowpoke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snorlax"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spearow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Squirtle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Starmie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Staryu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tangela"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tauros"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tentacool"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tentacruel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vaporeon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venomoth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venonat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venusaur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Victreebel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vileplume"
+  },
+  {
+    "type": "pokemon",
+    "name": "Voltorb"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vulpix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wartortle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weedle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weepinbell"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weezing"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wigglytuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zapdos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zubat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aipom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ampharos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ariados"
+  },
+  {
+    "type": "pokemon",
+    "name": "Azumarill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bayleef"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bellossom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blissey"
+  },
+  {
+    "type": "pokemon",
+    "name": "Celebi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chikorita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chinchou"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cleffa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Corsola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crobat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Croconaw"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cyndaquil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Delibird"
+  },
+  {
+    "type": "pokemon",
+    "name": "Donphan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dunsparce"
+  },
+  {
+    "type": "pokemon",
+    "name": "Elekid"
+  },
+  {
+    "type": "pokemon",
+    "name": "Entei"
+  },
+  {
+    "type": "pokemon",
+    "name": "Espeon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Feraligatr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flaaffy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Forretress"
+  },
+  {
+    "type": "pokemon",
+    "name": "Furret"
+  },
+  {
+    "type": "pokemon",
+    "name": "Girafarig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gligar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Granbull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heracross"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hitmontop"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ho-Oh"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hoothoot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hoppip"
+  },
+  {
+    "type": "pokemon",
+    "name": "Houndoom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Houndour"
+  },
+  {
+    "type": "pokemon",
+    "name": "Igglybuff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jumpluff"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kingdra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lanturn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Larvitar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ledian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ledyba"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lugia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magcargo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mantine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mareep"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meganium"
+  },
+  {
+    "type": "pokemon",
+    "name": "Miltank"
+  },
+  {
+    "type": "pokemon",
+    "name": "Misdreavus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Murkrow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Natu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Noctowl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Octillery"
+  },
+  {
+    "type": "pokemon",
+    "name": "Phanpy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pichu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Piloswine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pineco"
+  },
+  {
+    "type": "pokemon",
+    "name": "Politoed"
+  },
+  {
+    "type": "pokemon",
+    "name": "Porygon2"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pupitar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quagsire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Quilava"
+  },
+  {
+    "type": "pokemon",
+    "name": "Qwilfish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Raikou"
+  },
+  {
+    "type": "pokemon",
+    "name": "Remoraid"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scizor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sentret"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shuckle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skarmory"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skiploom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slowking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slugma"
+  },
+  {
+    "type": "pokemon",
+    "name": "Smeargle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Smoochum"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sneasel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snubbull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spinarak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stantler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Steelix"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sudowoodo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Suicune"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sunflora"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sunkern"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swinub"
+  },
+  {
+    "type": "pokemon",
+    "name": "Teddiursa"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togepi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togetic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Totodile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Typhlosion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tyranitar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tyrogue"
+  },
+  {
+    "type": "pokemon",
+    "name": "Umbreon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Unown"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ursaring"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wobbuffet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wooper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Xatu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yanma"
+  },
+  {
+    "type": "pokemon",
+    "name": "Absol"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aggron"
+  },
+  {
+    "type": "pokemon",
+    "name": "Altaria"
+  },
+  {
+    "type": "pokemon",
+    "name": "Anorith"
+  },
+  {
+    "type": "pokemon",
+    "name": "Armaldo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aron"
+  },
+  {
+    "type": "pokemon",
+    "name": "Azurill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bagon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Baltoy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Banette"
+  },
+  {
+    "type": "pokemon",
+    "name": "Barboach"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beautifly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beldum"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blaziken"
+  },
+  {
+    "type": "pokemon",
+    "name": "Breloom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cacnea"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cacturne"
+  },
+  {
+    "type": "pokemon",
+    "name": "Camerupt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carvanha"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cascoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Castform"
+  },
+  {
+    "type": "pokemon",
+    "name": "Castform-Rainy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Castform-Snowy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Castform-Sunny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chimecho"
+  },
+  {
+    "type": "pokemon",
+    "name": "Clamperl"
+  },
+  {
+    "type": "pokemon",
+    "name": "Claydol"
+  },
+  {
+    "type": "pokemon",
+    "name": "Combusken"
+  },
+  {
+    "type": "pokemon",
+    "name": "Corphish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cradily"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crawdaunt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Delcatty"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deoxys"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deoxys-Attack"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deoxys-Defense"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deoxys-Speed"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dusclops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Duskull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dustox"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electrike"
+  },
+  {
+    "type": "pokemon",
+    "name": "Exploud"
+  },
+  {
+    "type": "pokemon",
+    "name": "Feebas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flygon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gardevoir"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glalie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gorebyss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Groudon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grovyle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grumpig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gulpin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hariyama"
+  },
+  {
+    "type": "pokemon",
+    "name": "Huntail"
+  },
+  {
+    "type": "pokemon",
+    "name": "Illumise"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jirachi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kecleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kirlia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kyogre"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lairon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Latias"
+  },
+  {
+    "type": "pokemon",
+    "name": "Latios"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lileep"
+  },
+  {
+    "type": "pokemon",
+    "name": "Linoone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lombre"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lotad"
+  },
+  {
+    "type": "pokemon",
+    "name": "Loudred"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ludicolo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lunatone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Luvdisc"
+  },
+  {
+    "type": "pokemon",
+    "name": "Makuhita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Manectric"
+  },
+  {
+    "type": "pokemon",
+    "name": "Marshtomp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Masquerain"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mawile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Medicham"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meditite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Metagross"
+  },
+  {
+    "type": "pokemon",
+    "name": "Metang"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mightyena"
+  },
+  {
+    "type": "pokemon",
+    "name": "Milotic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Minun"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mudkip"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nincada"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ninjask"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nosepass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Numel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nuzleaf"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pelipper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Plusle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Poochyena"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ralts"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rayquaza"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regice"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regirock"
+  },
+  {
+    "type": "pokemon",
+    "name": "Registeel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Relicanth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roselia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sableye"
+  },
+  {
+    "type": "pokemon",
+    "name": "Salamence"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sceptile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sealeo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seedot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seviper"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sharpedo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shedinja"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shelgon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shiftry"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shroomish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shuppet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Silcoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skitty"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slaking"
+  },
+  {
+    "type": "pokemon",
+    "name": "Slakoth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snorunt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Solrock"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spheal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spinda"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spoink"
+  },
+  {
+    "type": "pokemon",
+    "name": "Surskit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swablu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swalot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swampert"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swellow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Taillow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torchic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torkoal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Trapinch"
+  },
+  {
+    "type": "pokemon",
+    "name": "Treecko"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tropius"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vibrava"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vigoroth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Volbeat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wailmer"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wailord"
+  },
+  {
+    "type": "pokemon",
+    "name": "Walrein"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whiscash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whismur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wingull"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wurmple"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wynaut"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zangoose"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zigzagoon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Abomasnow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ambipom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Bug"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Dark"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Dragon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Electric"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Fighting"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Fire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Flying"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Ghost"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Grass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Ground"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Ice"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Poison"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Psychic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Rock"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Steel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arceus-Water"
+  },
+  {
+    "type": "pokemon",
+    "name": "Arghonaut"
+  },
+  {
+    "type": "pokemon",
+    "name": "Azelf"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bastiodon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bibarel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bidoof"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bonsly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Breezi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bronzong"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bronzor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Budew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Buizel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Buneary"
+  },
+  {
+    "type": "pokemon",
+    "name": "Burmy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carnivine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chatot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cherrim"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cherrim-Sunshine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cherubi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chimchar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chingling"
+  },
+  {
+    "type": "pokemon",
+    "name": "Colossoil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Combee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cranidos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cresselia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Croagunk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cyclohm"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darkrai"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dialga"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dorsoil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drapion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drifblim"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drifloon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Duohm"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dusknoir"
+  },
+  {
+    "type": "pokemon",
+    "name": "Electivire"
+  },
+  {
+    "type": "pokemon",
+    "name": "Embirch"
+  },
+  {
+    "type": "pokemon",
+    "name": "Empoleon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fidgit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Finneon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Flarelm"
+  },
+  {
+    "type": "pokemon",
+    "name": "Floatzel"
+  },
+  {
+    "type": "pokemon",
+    "name": "Froslass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gabite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gallade"
+  },
+  {
+    "type": "pokemon",
+    "name": "Garchomp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gastrodon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gible"
+  },
+  {
+    "type": "pokemon",
+    "name": "Giratina"
+  },
+  {
+    "type": "pokemon",
+    "name": "Giratina-Origin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glaceon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Glameow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gliscor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Grotle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Happiny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heatran"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hippopotas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hippowdon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Honchkrow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Infernape"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kitsunoh"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kricketot"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kricketune"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krilowatt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Leafeon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lickilicky"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lopunny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lucario"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lumineon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Luxio"
+  },
+  {
+    "type": "pokemon",
+    "name": "Luxray"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magmortar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Magnezone"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mamoswine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Manaphy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mantyke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mesprit"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mime Jr."
+  },
+  {
+    "type": "pokemon",
+    "name": "Mismagius"
+  },
+  {
+    "type": "pokemon",
+    "name": "Monferno"
+  },
+  {
+    "type": "pokemon",
+    "name": "Monohm"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mothim"
+  },
+  {
+    "type": "pokemon",
+    "name": "Munchlax"
+  },
+  {
+    "type": "pokemon",
+    "name": "Nohface"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pachirisu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Palkia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Phione"
+  },
+  {
+    "type": "pokemon",
+    "name": "Piplup"
+  },
+  {
+    "type": "pokemon",
+    "name": "Porygon-Z"
+  },
+  {
+    "type": "pokemon",
+    "name": "Prinplup"
+  },
+  {
+    "type": "pokemon",
+    "name": "Privatyke"
+  },
+  {
+    "type": "pokemon",
+    "name": "Probopass"
+  },
+  {
+    "type": "pokemon",
+    "name": "Protowatt"
+  },
+  {
+    "type": "pokemon",
+    "name": "Purugly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pyroak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rampardos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rebble"
+  },
+  {
+    "type": "pokemon",
+    "name": "Regigigas"
+  },
+  {
+    "type": "pokemon",
+    "name": "Revenankh"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rhyperior"
+  },
+  {
+    "type": "pokemon",
+    "name": "Riolu"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roserade"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom-Mow"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom-Frost"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom-Heat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom-Fan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rotom-Wash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shaymin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shaymin-Sky"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shellos"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shieldon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shinx"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skorupi"
+  },
+  {
+    "type": "pokemon",
+    "name": "Skuntank"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snover"
+  },
+  {
+    "type": "pokemon",
+    "name": "Spiritomb"
+  },
+  {
+    "type": "pokemon",
+    "name": "Staraptor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Staravia"
+  },
+  {
+    "type": "pokemon",
+    "name": "Starly"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stunky"
+  },
+  {
+    "type": "pokemon",
+    "name": "Syclant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Syclar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tactite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tangrowth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Togekiss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Torterra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Toxicroak"
+  },
+  {
+    "type": "pokemon",
+    "name": "Turtwig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Uxie"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vespiquen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Voodoll"
+  },
+  {
+    "type": "pokemon",
+    "name": "Voodoom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Weavile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wormadam"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wormadam-Sandy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Wormadam-Trash"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yanmega"
+  },
+  {
+    "type": "pokemon",
+    "name": "Accelgor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Alomomola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Amoonguss"
+  },
+  {
+    "type": "pokemon",
+    "name": "Archen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Archeops"
+  },
+  {
+    "type": "pokemon",
+    "name": "Argalis"
+  },
+  {
+    "type": "pokemon",
+    "name": "Audino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Aurumoth"
+  },
+  {
+    "type": "pokemon",
+    "name": "Axew"
+  },
+  {
+    "type": "pokemon",
+    "name": "Basculin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Basculin-Blue-Striped"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beartic"
+  },
+  {
+    "type": "pokemon",
+    "name": "Beheeyem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bisharp"
+  },
+  {
+    "type": "pokemon",
+    "name": "Blitzle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Boldore"
+  },
+  {
+    "type": "pokemon",
+    "name": "Bouffalant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Brattler"
+  },
+  {
+    "type": "pokemon",
+    "name": "Braviary"
+  },
+  {
+    "type": "pokemon",
+    "name": "Carracosta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cawdet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cawmodore"
+  },
+  {
+    "type": "pokemon",
+    "name": "Chandelure"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cinccino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cobalion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cofagrigus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Conkeldurr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cottonee"
+  },
+  {
+    "type": "pokemon",
+    "name": "Crustle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cryogonal"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cubchoo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Cupra"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darmanitan"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darmanitan-Zen"
+  },
+  {
+    "type": "pokemon",
+    "name": "Darumaka"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deerling"
+  },
+  {
+    "type": "pokemon",
+    "name": "Deino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dewott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Drilbur"
+  },
+  {
+    "type": "pokemon",
+    "name": "Druddigon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ducklett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Duosion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Durant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Dwebble"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eelektrik"
+  },
+  {
+    "type": "pokemon",
+    "name": "Eelektross"
+  },
+  {
+    "type": "pokemon",
+    "name": "Elgyem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Emboar"
+  },
+  {
+    "type": "pokemon",
+    "name": "Emolga"
+  },
+  {
+    "type": "pokemon",
+    "name": "Escavalier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Excadrill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ferroseed"
+  },
+  {
+    "type": "pokemon",
+    "name": "Ferrothorn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Foongus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Fraxure"
+  },
+  {
+    "type": "pokemon",
+    "name": "Frillish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Galvantula"
+  },
+  {
+    "type": "pokemon",
+    "name": "Garbodor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Genesect"
+  },
+  {
+    "type": "pokemon",
+    "name": "Genesect-Burn"
+  },
+  {
+    "type": "pokemon",
+    "name": "Genesect-Chill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Genesect-Douse"
+  },
+  {
+    "type": "pokemon",
+    "name": "Genesect-Shock"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gigalith"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golett"
+  },
+  {
+    "type": "pokemon",
+    "name": "Golurk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gothita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gothitelle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gothorita"
+  },
+  {
+    "type": "pokemon",
+    "name": "Gurdurr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Haxorus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Heatmor"
+  },
+  {
+    "type": "pokemon",
+    "name": "Herdier"
+  },
+  {
+    "type": "pokemon",
+    "name": "Hydreigon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Jellicent"
+  },
+  {
+    "type": "pokemon",
+    "name": "Joltik"
+  },
+  {
+    "type": "pokemon",
+    "name": "Karrablast"
+  },
+  {
+    "type": "pokemon",
+    "name": "Keldeo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Keldeo-Resolute"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klang"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klink"
+  },
+  {
+    "type": "pokemon",
+    "name": "Klinklang"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krokorok"
+  },
+  {
+    "type": "pokemon",
+    "name": "Krookodile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kyurem"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kyurem-Black"
+  },
+  {
+    "type": "pokemon",
+    "name": "Kyurem-White"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lampent"
+  },
+  {
+    "type": "pokemon",
+    "name": "Landorus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Landorus-Therian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Larvesta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Leavanny"
+  },
+  {
+    "type": "pokemon",
+    "name": "Liepard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lilligant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Lillipup"
+  },
+  {
+    "type": "pokemon",
+    "name": "Litwick"
+  },
+  {
+    "type": "pokemon",
+    "name": "Malaconda"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mandibuzz"
+  },
+  {
+    "type": "pokemon",
+    "name": "Maractus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meloetta"
+  },
+  {
+    "type": "pokemon",
+    "name": "Meloetta-Pirouette"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mienfoo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mienshao"
+  },
+  {
+    "type": "pokemon",
+    "name": "Minccino"
+  },
+  {
+    "type": "pokemon",
+    "name": "Mollux"
+  },
+  {
+    "type": "pokemon",
+    "name": "Munna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Musharna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Necturine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Necturna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Oshawott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Palpitoad"
+  },
+  {
+    "type": "pokemon",
+    "name": "Panpour"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pansage"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pansear"
+  },
+  {
+    "type": "pokemon",
+    "name": "Patrat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pawniard"
+  },
+  {
+    "type": "pokemon",
+    "name": "Petilil"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pidove"
+  },
+  {
+    "type": "pokemon",
+    "name": "Pignite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Purrloin"
+  },
+  {
+    "type": "pokemon",
+    "name": "Reshiram"
+  },
+  {
+    "type": "pokemon",
+    "name": "Reuniclus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Roggenrola"
+  },
+  {
+    "type": "pokemon",
+    "name": "Rufflet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Samurott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sandile"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sawk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sawsbuck"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scolipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scrafty"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scraggy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Scratchet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Seismitoad"
+  },
+  {
+    "type": "pokemon",
+    "name": "Serperior"
+  },
+  {
+    "type": "pokemon",
+    "name": "Servine"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sewaddle"
+  },
+  {
+    "type": "pokemon",
+    "name": "Shelmet"
+  },
+  {
+    "type": "pokemon",
+    "name": "Sigilyph"
+  },
+  {
+    "type": "pokemon",
+    "name": "Simipour"
+  },
+  {
+    "type": "pokemon",
+    "name": "Simisage"
+  },
+  {
+    "type": "pokemon",
+    "name": "Simisear"
+  },
+  {
+    "type": "pokemon",
+    "name": "Snivy"
+  },
+  {
+    "type": "pokemon",
+    "name": "Solosis"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stoutland"
+  },
+  {
+    "type": "pokemon",
+    "name": "Stunfisk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swadloon"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swanna"
+  },
+  {
+    "type": "pokemon",
+    "name": "Swoobat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tepig"
+  },
+  {
+    "type": "pokemon",
+    "name": "Terrakion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Throh"
+  },
+  {
+    "type": "pokemon",
+    "name": "Thundurus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Thundurus-Therian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Timburr"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tirtouga"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tomohawk"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tornadus"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tornadus-Therian"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tranquill"
+  },
+  {
+    "type": "pokemon",
+    "name": "Trubbish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tympole"
+  },
+  {
+    "type": "pokemon",
+    "name": "Tynamo"
+  },
+  {
+    "type": "pokemon",
+    "name": "Unfezant"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vanillish"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vanillite"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vanilluxe"
+  },
+  {
+    "type": "pokemon",
+    "name": "Venipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Victini"
+  },
+  {
+    "type": "pokemon",
+    "name": "Virizion"
+  },
+  {
+    "type": "pokemon",
+    "name": "Volcarona"
+  },
+  {
+    "type": "pokemon",
+    "name": "Vullaby"
+  },
+  {
+    "type": "pokemon",
+    "name": "Watchog"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whimsicott"
+  },
+  {
+    "type": "pokemon",
+    "name": "Whirlipede"
+  },
+  {
+    "type": "pokemon",
+    "name": "Woobat"
+  },
+  {
+    "type": "pokemon",
+    "name": "Yamask"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zebstrika"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zekrom"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zoroark"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zorua"
+  },
+  {
+    "type": "pokemon",
+    "name": "Zweilous"
+  }
+]

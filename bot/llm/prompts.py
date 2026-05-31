@@ -25,6 +25,13 @@ Damage = (((2*L/5+2) * BP * Atk/Def) / 50 + 2) * random(0.85-1.0) * weather * cr
 6. STATUS: Sleep/Paralysis for catch targets
 7. HEAL: HP < 40% → use potion
 
+## KNOWLEDGE BASE INTEGRATION
+- When in BATTLE, check the "knowledge_base" field in the game state JSON.
+- It contains the opponent's "enemy_weaknesses", "enemy_resistances", and "recommended_counters".
+- Always prioritize using moves whose types match the opponent's "enemy_weaknesses" (Super Effective) for maximum damage.
+- Avoid using moves whose types are listed in the opponent's "enemy_resistances" (Not Very Effective).
+- Use "recommended_counters" to guide your decision if you need to switch Pokemon.
+
 ## CATCH STRATEGY
 - Quick Ball first (x5 on turn 1)
 - Status (Sleep x2.5 > Paralysis x1.5) + False Swipe to 1 HP

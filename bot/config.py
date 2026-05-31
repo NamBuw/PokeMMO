@@ -189,9 +189,9 @@ class Config:
     game: GameConfig = field(default_factory=GameConfig)
 
     # Paths
-    data_dir: str = "/home/namnx/pokemmo_bot/data"
-    log_dir: str = "/home/namnx/pokemmo_bot/logs"
-    template_dir: str = "/home/namnx/pokemmo_bot/vision/templates"
+    data_dir: str = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pokemmo_crawler", "data")
+    log_dir: str = os.path.join(os.path.dirname(os.path.abspath(__file__)), "logs")
+    template_dir: str = os.path.join(os.path.dirname(os.path.abspath(__file__)), "vision", "templates")
     log_level: str = "INFO"
 
 

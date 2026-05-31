@@ -1,0 +1,914 @@
+[
+  {
+    "dex_number": "0001",
+    "name": "Bulbasaur",
+    "url": "https://pokemmo.fandom.com/wiki/Bulbasaur",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/42/Pkmn_0001_Bulbasaur_menu.png/revision/latest?cb=20230222185929"
+  },
+  {
+    "dex_number": "0002",
+    "name": "Ivysaur",
+    "url": "https://pokemmo.fandom.com/wiki/Ivysaur",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0e/Pkmn_0002_Ivysaur_menu.png/revision/latest?cb=20230222185945"
+  },
+  {
+    "dex_number": "0003",
+    "name": "Venusaur",
+    "url": "https://pokemmo.fandom.com/wiki/Venusaur",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/eb/Pkmn_0003_Venusaur_menu.png/revision/latest?cb=20230222185956"
+  },
+  {
+    "dex_number": "0004",
+    "name": "Charmander",
+    "url": "https://pokemmo.fandom.com/wiki/Charmander",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a6/Pkmn_0004_Charmander_menu.png/revision/latest?cb=20230224044030"
+  },
+  {
+    "dex_number": "0005",
+    "name": "Charmeleon",
+    "url": "https://pokemmo.fandom.com/wiki/Charmeleon",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/1b/Pkmn_0005_Charmeleon_menu.png/revision/latest?cb=20230224044030"
+  },
+  {
+    "dex_number": "0006",
+    "name": "Charizard",
+    "url": "https://pokemmo.fandom.com/wiki/Charizard",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/75/Pkmn_0006_Charizard_menu.png/revision/latest?cb=20230224044031"
+  },
+  {
+    "dex_number": "0007",
+    "name": "Squirtle",
+    "url": "https://pokemmo.fandom.com/wiki/Squirtle",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/94/Pkmn_0007_Squirtle_menu.png/revision/latest?cb=20230224044032"
+  },
+  {
+    "dex_number": "0008",
+    "name": "Wartortle",
+    "url": "https://pokemmo.fandom.com/wiki/Wartortle",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a4/Pkmn_0008_Wartortle_menu.png/revision/latest?cb=20230224044033"
+  },
+  {
+    "dex_number": "0009",
+    "name": "Blastoise",
+    "url": "https://pokemmo.fandom.com/wiki/Blastoise",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9d/Pkmn_0009_Blastoise_menu.png/revision/latest?cb=20230224044034"
+  },
+  {
+    "dex_number": "0010",
+    "name": "Caterpie",
+    "url": "https://pokemmo.fandom.com/wiki/Caterpie",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c5/Pkmn_0010_Caterpie_menu.png/revision/latest?cb=20230224044034"
+  },
+  {
+    "dex_number": "0011",
+    "name": "Metapod",
+    "url": "https://pokemmo.fandom.com/wiki/Metapod",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/16/Pkmn_0011_Metapod_menu.png/revision/latest?cb=20230224044035"
+  },
+  {
+    "dex_number": "0012",
+    "name": "Butterfree",
+    "url": "https://pokemmo.fandom.com/wiki/Butterfree",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f3/Pkmn_0012_Butterfree_menu.png/revision/latest?cb=20230224044036"
+  },
+  {
+    "dex_number": "0013",
+    "name": "Weedle",
+    "url": "https://pokemmo.fandom.com/wiki/Weedle",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9f/Pkmn_0013_Weedle_menu.png/revision/latest?cb=20230224044037"
+  },
+  {
+    "dex_number": "0014",
+    "name": "Kakuna",
+    "url": "https://pokemmo.fandom.com/wiki/Kakuna",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/35/Pkmn_0014_Kakuna_menu.png/revision/latest?cb=20230224044037"
+  },
+  {
+    "dex_number": "0015",
+    "name": "Beedrill",
+    "url": "https://pokemmo.fandom.com/wiki/Beedrill",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6c/Pkmn_0015_Beedrill_menu.png/revision/latest?cb=20230224044038"
+  },
+  {
+    "dex_number": "0016",
+    "name": "Pidgey",
+    "url": "https://pokemmo.fandom.com/wiki/Pidgey",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8c/Pkmn_0016_Pidgey_menu.png/revision/latest?cb=20230224044039"
+  },
+  {
+    "dex_number": "0017",
+    "name": "Pidgeotto",
+    "url": "https://pokemmo.fandom.com/wiki/Pidgeotto",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8a/Pkmn_0017_Pidgeotto_menu.png/revision/latest?cb=20230224044040"
+  },
+  {
+    "dex_number": "0018",
+    "name": "Pidgeot",
+    "url": "https://pokemmo.fandom.com/wiki/Pidgeot",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ef/Pkmn_0018_Pidgeot_menu.png/revision/latest?cb=20230224044040"
+  },
+  {
+    "dex_number": "0019",
+    "name": "Rattata",
+    "url": "https://pokemmo.fandom.com/wiki/Rattata",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ee/Pkmn_0019_Rattata_menu.png/revision/latest?cb=20230224044041"
+  },
+  {
+    "dex_number": "0020",
+    "name": "Raticate",
+    "url": "https://pokemmo.fandom.com/wiki/Raticate",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c2/Pkmn_0020_Raticate_menu.png/revision/latest?cb=20230224044042"
+  },
+  {
+    "dex_number": "0021",
+    "name": "Spearow",
+    "url": "https://pokemmo.fandom.com/wiki/Spearow",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/ce/Pkmn_0021_Spearow_menu.png/revision/latest?cb=20230224044043"
+  },
+  {
+    "dex_number": "0022",
+    "name": "Fearow",
+    "url": "https://pokemmo.fandom.com/wiki/Fearow",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8d/Pkmn_0022_Fearow_menu.png/revision/latest?cb=20230224044044"
+  },
+  {
+    "dex_number": "0023",
+    "name": "Ekans",
+    "url": "https://pokemmo.fandom.com/wiki/Ekans",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/06/Pkmn_0023_Ekans_menu.png/revision/latest?cb=20230224044044"
+  },
+  {
+    "dex_number": "0024",
+    "name": "Arbok",
+    "url": "https://pokemmo.fandom.com/wiki/Arbok",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/5b/Pkmn_0024_Arbok_menu.png/revision/latest?cb=20230224044045"
+  },
+  {
+    "dex_number": "0025",
+    "name": "Pikachu",
+    "url": "https://pokemmo.fandom.com/wiki/Pikachu",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/66/Pkmn_0025_Pikachu_menu.png/revision/latest?cb=20230224044046"
+  },
+  {
+    "dex_number": "0026",
+    "name": "Raichu",
+    "url": "https://pokemmo.fandom.com/wiki/Raichu",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3c/Pkmn_0026_Raichu_menu.png/revision/latest?cb=20230224044047"
+  },
+  {
+    "dex_number": "0027",
+    "name": "Sandshrew",
+    "url": "https://pokemmo.fandom.com/wiki/Sandshrew",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/46/Pkmn_0027_Sandshrew_menu.png/revision/latest?cb=20230224044047"
+  },
+  {
+    "dex_number": "0028",
+    "name": "Sandslash",
+    "url": "https://pokemmo.fandom.com/wiki/Sandslash",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2e/Pkmn_0028_Sandslash_menu.png/revision/latest?cb=20230224044048"
+  },
+  {
+    "dex_number": "0029",
+    "name": "Nidoran♀",
+    "url": "https://pokemmo.fandom.com/wiki/Nidoran%E2%99%80",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f1/Pkmn_0029_Nidoran%E2%99%80_menu.png/revision/latest?cb=20231005171630"
+  },
+  {
+    "dex_number": "0030",
+    "name": "Nidorina",
+    "url": "https://pokemmo.fandom.com/wiki/Nidorina",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/64/Pkmn_0030_Nidorina_menu.png/revision/latest?cb=20230224044050"
+  },
+  {
+    "dex_number": "0031",
+    "name": "Nidoqueen",
+    "url": "https://pokemmo.fandom.com/wiki/Nidoqueen",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7f/Pkmn_0031_Nidoqueen_menu.png/revision/latest?cb=20230224044050"
+  },
+  {
+    "dex_number": "0032",
+    "name": "Nidoran♂",
+    "url": "https://pokemmo.fandom.com/wiki/Nidoran%E2%99%82",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e5/Pkmn_0032_Nidoran%E2%99%82_menu.png/revision/latest?cb=20231005171649"
+  },
+  {
+    "dex_number": "0033",
+    "name": "Nidorino",
+    "url": "https://pokemmo.fandom.com/wiki/Nidorino",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/27/Pkmn_0033_Nidorino_menu.png/revision/latest?cb=20230224044052"
+  },
+  {
+    "dex_number": "0034",
+    "name": "Nidoking",
+    "url": "https://pokemmo.fandom.com/wiki/Nidoking",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d5/Pkmn_0034_Nidoking_menu.png/revision/latest?cb=20230224044053"
+  },
+  {
+    "dex_number": "0035",
+    "name": "Clefairy",
+    "url": "https://pokemmo.fandom.com/wiki/Clefairy",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f0/Pkmn_0035_Clefairy_menu.png/revision/latest?cb=20230224044053"
+  },
+  {
+    "dex_number": "0036",
+    "name": "Clefable",
+    "url": "https://pokemmo.fandom.com/wiki/Clefable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e3/Pkmn_0036_Clefable_menu.png/revision/latest?cb=20230224044054"
+  },
+  {
+    "dex_number": "0037",
+    "name": "Vulpix",
+    "url": "https://pokemmo.fandom.com/wiki/Vulpix",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/31/Pkmn_0037_Vulpix_menu.png/revision/latest?cb=20230224044055"
+  },
+  {
+    "dex_number": "0038",
+    "name": "Ninetales",
+    "url": "https://pokemmo.fandom.com/wiki/Ninetales",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f7/Pkmn_0038_Ninetales_menu.png/revision/latest?cb=20230224044056"
+  },
+  {
+    "dex_number": "0039",
+    "name": "Jigglypuff",
+    "url": "https://pokemmo.fandom.com/wiki/Jigglypuff",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c9/Pkmn_0039_Jigglypuff_menu.png/revision/latest?cb=20230224044056"
+  },
+  {
+    "dex_number": "0040",
+    "name": "Wigglytuff",
+    "url": "https://pokemmo.fandom.com/wiki/Wigglytuff",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a1/Pkmn_0040_Wigglytuff_menu.png/revision/latest?cb=20230224044057"
+  },
+  {
+    "dex_number": "0041",
+    "name": "Zubat",
+    "url": "https://pokemmo.fandom.com/wiki/Zubat",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a1/Pkmn_0041_Zubat_menu.png/revision/latest?cb=20230224044058"
+  },
+  {
+    "dex_number": "0042",
+    "name": "Golbat",
+    "url": "https://pokemmo.fandom.com/wiki/Golbat",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0c/Pkmn_0042_Golbat_menu.png/revision/latest?cb=20230224044059"
+  },
+  {
+    "dex_number": "0043",
+    "name": "Oddish",
+    "url": "https://pokemmo.fandom.com/wiki/Oddish",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0f/Pkmn_0043_Oddish_menu.png/revision/latest?cb=20230224044100"
+  },
+  {
+    "dex_number": "0044",
+    "name": "Gloom",
+    "url": "https://pokemmo.fandom.com/wiki/Gloom",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/ff/Pkmn_0044_Gloom_menu.png/revision/latest?cb=20230224044100"
+  },
+  {
+    "dex_number": "0045",
+    "name": "Vileplume",
+    "url": "https://pokemmo.fandom.com/wiki/Vileplume",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a1/Pkmn_0045_Vileplume_menu.png/revision/latest?cb=20230224044101"
+  },
+  {
+    "dex_number": "0046",
+    "name": "Paras",
+    "url": "https://pokemmo.fandom.com/wiki/Paras",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2e/Pkmn_0046_Paras_menu.png/revision/latest?cb=20230224044102"
+  },
+  {
+    "dex_number": "0047",
+    "name": "Parasect",
+    "url": "https://pokemmo.fandom.com/wiki/Parasect",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/95/Pkmn_0047_Parasect_menu.png/revision/latest?cb=20230224044103"
+  },
+  {
+    "dex_number": "0048",
+    "name": "Venonat",
+    "url": "https://pokemmo.fandom.com/wiki/Venonat",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/42/Pkmn_0048_Venonat_menu.png/revision/latest?cb=20230224044103"
+  },
+  {
+    "dex_number": "0049",
+    "name": "Venomoth",
+    "url": "https://pokemmo.fandom.com/wiki/Venomoth",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/4c/Pkmn_0049_Venomoth_menu.png/revision/latest?cb=20230224044104"
+  },
+  {
+    "dex_number": "0050",
+    "name": "Diglett",
+    "url": "https://pokemmo.fandom.com/wiki/Diglett",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c6/Pkmn_0050_Diglett_menu.png/revision/latest?cb=20230224044105"
+  },
+  {
+    "dex_number": "0051",
+    "name": "Dugtrio",
+    "url": "https://pokemmo.fandom.com/wiki/Dugtrio",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/aa/Pkmn_0051_Dugtrio_menu.png/revision/latest?cb=20230224044106"
+  },
+  {
+    "dex_number": "0052",
+    "name": "Meowth",
+    "url": "https://pokemmo.fandom.com/wiki/Meowth",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/77/Pkmn_0052_Meowth_menu.png/revision/latest?cb=20230224044106"
+  },
+  {
+    "dex_number": "0053",
+    "name": "Persian",
+    "url": "https://pokemmo.fandom.com/wiki/Persian",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f3/Pkmn_0053_Persian_menu.png/revision/latest?cb=20230224044107"
+  },
+  {
+    "dex_number": "0054",
+    "name": "Psyduck",
+    "url": "https://pokemmo.fandom.com/wiki/Psyduck",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/ff/Pkmn_0054_Psyduck_menu.png/revision/latest?cb=20230224044108"
+  },
+  {
+    "dex_number": "0055",
+    "name": "Golduck",
+    "url": "https://pokemmo.fandom.com/wiki/Golduck",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3e/Pkmn_0055_Golduck_menu.png/revision/latest?cb=20230224044109"
+  },
+  {
+    "dex_number": "0056",
+    "name": "Mankey",
+    "url": "https://pokemmo.fandom.com/wiki/Mankey",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/89/Pkmn_0056_Mankey_menu.png/revision/latest?cb=20230224044110"
+  },
+  {
+    "dex_number": "0057",
+    "name": "Primeape",
+    "url": "https://pokemmo.fandom.com/wiki/Primeape",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/5a/Pkmn_0057_Primeape_menu.png/revision/latest?cb=20230224044111"
+  },
+  {
+    "dex_number": "0058",
+    "name": "Growlithe",
+    "url": "https://pokemmo.fandom.com/wiki/Growlithe",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e9/Pkmn_0058_Growlithe_menu.png/revision/latest?cb=20230224044112"
+  },
+  {
+    "dex_number": "0059",
+    "name": "Arcanine",
+    "url": "https://pokemmo.fandom.com/wiki/Arcanine",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/97/Pkmn_0059_Arcanine_menu.png/revision/latest?cb=20230224044113"
+  },
+  {
+    "dex_number": "0060",
+    "name": "Poliwag",
+    "url": "https://pokemmo.fandom.com/wiki/Poliwag",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b3/Pkmn_0060_Poliwag_menu.png/revision/latest?cb=20230224044114"
+  },
+  {
+    "dex_number": "0061",
+    "name": "Poliwhirl",
+    "url": "https://pokemmo.fandom.com/wiki/Poliwhirl",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a2/Pkmn_0061_Poliwhirl_menu.png/revision/latest?cb=20230224044115"
+  },
+  {
+    "dex_number": "0062",
+    "name": "Poliwrath",
+    "url": "https://pokemmo.fandom.com/wiki/Poliwrath",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/ab/Pkmn_0062_Poliwrath_menu.png/revision/latest?cb=20230224044115"
+  },
+  {
+    "dex_number": "0063",
+    "name": "Abra",
+    "url": "https://pokemmo.fandom.com/wiki/Abra",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/33/Pkmn_0063_Abra_menu.png/revision/latest?cb=20230224044116"
+  },
+  {
+    "dex_number": "0064",
+    "name": "Kadabra",
+    "url": "https://pokemmo.fandom.com/wiki/Kadabra",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/27/Pkmn_0064_Kadabra_menu.png/revision/latest?cb=20230224044117"
+  },
+  {
+    "dex_number": "0065",
+    "name": "Alakazam",
+    "url": "https://pokemmo.fandom.com/wiki/Alakazam",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/32/Pkmn_0065_Alakazam_menu.png/revision/latest?cb=20230224044118"
+  },
+  {
+    "dex_number": "0066",
+    "name": "Machop",
+    "url": "https://pokemmo.fandom.com/wiki/Machop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/24/Pkmn_0066_Machop_menu.png/revision/latest?cb=20230224044118"
+  },
+  {
+    "dex_number": "0067",
+    "name": "Machoke",
+    "url": "https://pokemmo.fandom.com/wiki/Machoke",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/83/Pkmn_0067_Machoke_menu.png/revision/latest?cb=20230224044119"
+  },
+  {
+    "dex_number": "0068",
+    "name": "Machamp",
+    "url": "https://pokemmo.fandom.com/wiki/Machamp",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d6/Pkmn_0068_Machamp_menu.png/revision/latest?cb=20230224044120"
+  },
+  {
+    "dex_number": "0069",
+    "name": "Bellsprout",
+    "url": "https://pokemmo.fandom.com/wiki/Bellsprout",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/08/Pkmn_0069_Bellsprout_menu.png/revision/latest?cb=20230224044121"
+  },
+  {
+    "dex_number": "0070",
+    "name": "Weepinbell",
+    "url": "https://pokemmo.fandom.com/wiki/Weepinbell",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6d/Pkmn_0070_Weepinbell_menu.png/revision/latest?cb=20230224044122"
+  },
+  {
+    "dex_number": "0071",
+    "name": "Victreebel",
+    "url": "https://pokemmo.fandom.com/wiki/Victreebel",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/55/Pkmn_0071_Victreebel_menu.png/revision/latest?cb=20230224044122"
+  },
+  {
+    "dex_number": "0072",
+    "name": "Tentacool",
+    "url": "https://pokemmo.fandom.com/wiki/Tentacool",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/fe/Pkmn_0072_Tentacool_menu.png/revision/latest?cb=20230224044123"
+  },
+  {
+    "dex_number": "0073",
+    "name": "Tentacruel",
+    "url": "https://pokemmo.fandom.com/wiki/Tentacruel",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e4/Pkmn_0073_Tentacruel_menu.png/revision/latest?cb=20230224044124"
+  },
+  {
+    "dex_number": "0074",
+    "name": "Geodude",
+    "url": "https://pokemmo.fandom.com/wiki/Geodude",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3b/Pkmn_0074_Geodude_menu.png/revision/latest?cb=20230224044125"
+  },
+  {
+    "dex_number": "0075",
+    "name": "Graveler",
+    "url": "https://pokemmo.fandom.com/wiki/Graveler",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/14/Pkmn_0075_Graveler_menu.png/revision/latest?cb=20230224044125"
+  },
+  {
+    "dex_number": "0076",
+    "name": "Golem",
+    "url": "https://pokemmo.fandom.com/wiki/Golem",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/41/Pkmn_0076_Golem_menu.png/revision/latest?cb=20230224044126"
+  },
+  {
+    "dex_number": "0077",
+    "name": "Ponyta",
+    "url": "https://pokemmo.fandom.com/wiki/Ponyta",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/07/Pkmn_0077_Ponyta_menu.png/revision/latest?cb=20230224044127"
+  },
+  {
+    "dex_number": "0078",
+    "name": "Rapidash",
+    "url": "https://pokemmo.fandom.com/wiki/Rapidash",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/27/Pkmn_0078_Rapidash_menu.png/revision/latest?cb=20230224044128"
+  },
+  {
+    "dex_number": "0079",
+    "name": "Slowpoke",
+    "url": "https://pokemmo.fandom.com/wiki/Slowpoke",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/06/Pkmn_0079_Slowpoke_menu.png/revision/latest?cb=20230224044128"
+  },
+  {
+    "dex_number": "0080",
+    "name": "Slowbro",
+    "url": "https://pokemmo.fandom.com/wiki/Slowbro",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c5/Pkmn_0080_Slowbro_menu.png/revision/latest?cb=20230224044129"
+  },
+  {
+    "dex_number": "0081",
+    "name": "Magnemite",
+    "url": "https://pokemmo.fandom.com/wiki/Magnemite",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/fe/Pkmn_0081_Magnemite_menu.png/revision/latest?cb=20230224044130"
+  },
+  {
+    "dex_number": "0082",
+    "name": "Magneton",
+    "url": "https://pokemmo.fandom.com/wiki/Magneton",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0e/Pkmn_0082_Magneton_menu.png/revision/latest?cb=20230224044131"
+  },
+  {
+    "dex_number": "0083",
+    "name": "Farfetch'd",
+    "url": "https://pokemmo.fandom.com/wiki/Farfetch%27d",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f2/Pkmn_0083_Farfetch%27d_menu.png/revision/latest?cb=20230224044132"
+  },
+  {
+    "dex_number": "0084",
+    "name": "Doduo",
+    "url": "https://pokemmo.fandom.com/wiki/Doduo",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8c/Pkmn_0084_Doduo_menu.png/revision/latest?cb=20230224044132"
+  },
+  {
+    "dex_number": "0085",
+    "name": "Dodrio",
+    "url": "https://pokemmo.fandom.com/wiki/Dodrio",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/be/Pkmn_0085_Dodrio_menu.png/revision/latest?cb=20230224044133"
+  },
+  {
+    "dex_number": "0086",
+    "name": "Seel",
+    "url": "https://pokemmo.fandom.com/wiki/Seel",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/ba/Pkmn_0086_Seel_menu.png/revision/latest?cb=20230224044134"
+  },
+  {
+    "dex_number": "0087",
+    "name": "Dewgong",
+    "url": "https://pokemmo.fandom.com/wiki/Dewgong",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/ca/Pkmn_0087_Dewgong_menu.png/revision/latest?cb=20230224044135"
+  },
+  {
+    "dex_number": "0088",
+    "name": "Grimer",
+    "url": "https://pokemmo.fandom.com/wiki/Grimer",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7c/Pkmn_0088_Grimer_menu.png/revision/latest?cb=20230224044136"
+  },
+  {
+    "dex_number": "0089",
+    "name": "Muk",
+    "url": "https://pokemmo.fandom.com/wiki/Muk",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/96/Pkmn_0089_Muk_menu.png/revision/latest?cb=20230224044136"
+  },
+  {
+    "dex_number": "0090",
+    "name": "Shellder",
+    "url": "https://pokemmo.fandom.com/wiki/Shellder",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/77/Pkmn_0090_Shellder_menu.png/revision/latest?cb=20230224044137"
+  },
+  {
+    "dex_number": "0091",
+    "name": "Cloyster",
+    "url": "https://pokemmo.fandom.com/wiki/Cloyster",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/59/Pkmn_0091_Cloyster_menu.png/revision/latest?cb=20230224044138"
+  },
+  {
+    "dex_number": "0092",
+    "name": "Gastly",
+    "url": "https://pokemmo.fandom.com/wiki/Gastly",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/81/Pkmn_0092_Gastly_menu.png/revision/latest?cb=20230224044139"
+  },
+  {
+    "dex_number": "0093",
+    "name": "Haunter",
+    "url": "https://pokemmo.fandom.com/wiki/Haunter",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b6/Pkmn_0093_Haunter_menu.png/revision/latest?cb=20230224044139"
+  },
+  {
+    "dex_number": "0094",
+    "name": "Gengar",
+    "url": "https://pokemmo.fandom.com/wiki/Gengar",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6a/Pkmn_0094_Gengar_menu.png/revision/latest?cb=20230224044140"
+  },
+  {
+    "dex_number": "0095",
+    "name": "Onix",
+    "url": "https://pokemmo.fandom.com/wiki/Onix",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9a/Pkmn_0095_Onix_menu.png/revision/latest?cb=20230224044141"
+  },
+  {
+    "dex_number": "0096",
+    "name": "Drowzee",
+    "url": "https://pokemmo.fandom.com/wiki/Drowzee",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f8/Pkmn_0096_Drowzee_menu.png/revision/latest?cb=20230224044142"
+  },
+  {
+    "dex_number": "0097",
+    "name": "Hypno",
+    "url": "https://pokemmo.fandom.com/wiki/Hypno",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/ca/Pkmn_0097_Hypno_menu.png/revision/latest?cb=20230224044143"
+  },
+  {
+    "dex_number": "0098",
+    "name": "Krabby",
+    "url": "https://pokemmo.fandom.com/wiki/Krabby",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/56/Pkmn_0098_Krabby_menu.png/revision/latest?cb=20230224044143"
+  },
+  {
+    "dex_number": "0099",
+    "name": "Kingler",
+    "url": "https://pokemmo.fandom.com/wiki/Kingler",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/fe/Pkmn_0099_Kingler_menu.png/revision/latest?cb=20230224044144"
+  },
+  {
+    "dex_number": "0100",
+    "name": "Voltorb",
+    "url": "https://pokemmo.fandom.com/wiki/Voltorb",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a3/Pkmn_0100_Voltorb_menu.png/revision/latest?cb=20230224044145"
+  },
+  {
+    "dex_number": "0101",
+    "name": "Electrode",
+    "url": "https://pokemmo.fandom.com/wiki/Electrode",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3a/Pkmn_0101_Electrode_menu.png/revision/latest?cb=20230224045609"
+  },
+  {
+    "dex_number": "0102",
+    "name": "Exeggcute",
+    "url": "https://pokemmo.fandom.com/wiki/Exeggcute",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/64/Pkmn_0102_Exeggcute_menu.png/revision/latest?cb=20230224045609"
+  },
+  {
+    "dex_number": "0103",
+    "name": "Exeggutor",
+    "url": "https://pokemmo.fandom.com/wiki/Exeggutor",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/1b/Pkmn_0103_Exeggutor_menu.png/revision/latest?cb=20230224045610"
+  },
+  {
+    "dex_number": "0104",
+    "name": "Cubone",
+    "url": "https://pokemmo.fandom.com/wiki/Cubone",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/66/Pkmn_0104_Cubone_menu.png/revision/latest?cb=20230224045611"
+  },
+  {
+    "dex_number": "0105",
+    "name": "Marowak",
+    "url": "https://pokemmo.fandom.com/wiki/Marowak",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/63/Pkmn_0105_Marowak_menu.png/revision/latest?cb=20230224045612"
+  },
+  {
+    "dex_number": "0106",
+    "name": "Hitmonlee",
+    "url": "https://pokemmo.fandom.com/wiki/Hitmonlee",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0e/Pkmn_0106_Hitmonlee_menu.png/revision/latest?cb=20230224045612"
+  },
+  {
+    "dex_number": "0107",
+    "name": "Hitmonchan",
+    "url": "https://pokemmo.fandom.com/wiki/Hitmonchan",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/99/Pkmn_0107_Hitmonchan_menu.png/revision/latest?cb=20230224045613"
+  },
+  {
+    "dex_number": "0108",
+    "name": "Lickitung",
+    "url": "https://pokemmo.fandom.com/wiki/Lickitung",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/02/Pkmn_0108_Lickitung_menu.png/revision/latest?cb=20230224045614"
+  },
+  {
+    "dex_number": "0109",
+    "name": "Koffing",
+    "url": "https://pokemmo.fandom.com/wiki/Koffing",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d1/Pkmn_0109_Koffing_menu.png/revision/latest?cb=20230224045615"
+  },
+  {
+    "dex_number": "0110",
+    "name": "Weezing",
+    "url": "https://pokemmo.fandom.com/wiki/Weezing",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/88/Pkmn_0110_Weezing_menu.png/revision/latest?cb=20230224045615"
+  },
+  {
+    "dex_number": "0111",
+    "name": "Rhyhorn",
+    "url": "https://pokemmo.fandom.com/wiki/Rhyhorn",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/ac/Pkmn_0111_Rhyhorn_menu.png/revision/latest?cb=20230224045616"
+  },
+  {
+    "dex_number": "0112",
+    "name": "Rhydon",
+    "url": "https://pokemmo.fandom.com/wiki/Rhydon",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/40/Pkmn_0112_Rhydon_menu.png/revision/latest?cb=20230224045617"
+  },
+  {
+    "dex_number": "0113",
+    "name": "Chansey",
+    "url": "https://pokemmo.fandom.com/wiki/Chansey",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7c/Pkmn_0113_Chansey_menu.png/revision/latest?cb=20230224045618"
+  },
+  {
+    "dex_number": "0114",
+    "name": "Tangela",
+    "url": "https://pokemmo.fandom.com/wiki/Tangela",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8f/Pkmn_0114_Tangela_menu.png/revision/latest?cb=20230224045618"
+  },
+  {
+    "dex_number": "0115",
+    "name": "Kangaskhan",
+    "url": "https://pokemmo.fandom.com/wiki/Kangaskhan",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/08/Pkmn_0115_Kangaskhan_menu.png/revision/latest?cb=20230224045619"
+  },
+  {
+    "dex_number": "0116",
+    "name": "Horsea",
+    "url": "https://pokemmo.fandom.com/wiki/Horsea",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/32/Pkmn_0116_Horsea_menu.png/revision/latest?cb=20230224045620"
+  },
+  {
+    "dex_number": "0117",
+    "name": "Seadra",
+    "url": "https://pokemmo.fandom.com/wiki/Seadra",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c0/Pkmn_0117_Seadra_menu.png/revision/latest?cb=20230224045621"
+  },
+  {
+    "dex_number": "0118",
+    "name": "Goldeen",
+    "url": "https://pokemmo.fandom.com/wiki/Goldeen",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f5/Pkmn_0118_Goldeen_menu.png/revision/latest?cb=20230224045621"
+  },
+  {
+    "dex_number": "0119",
+    "name": "Seaking",
+    "url": "https://pokemmo.fandom.com/wiki/Seaking",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/50/Pkmn_0119_Seaking_menu.png/revision/latest?cb=20230224045622"
+  },
+  {
+    "dex_number": "0120",
+    "name": "Staryu",
+    "url": "https://pokemmo.fandom.com/wiki/Staryu",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/05/Pkmn_0120_Staryu_menu.png/revision/latest?cb=20230224045623"
+  },
+  {
+    "dex_number": "0121",
+    "name": "Starmie",
+    "url": "https://pokemmo.fandom.com/wiki/Starmie",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/aa/Pkmn_0121_Starmie_menu.png/revision/latest?cb=20230224045624"
+  },
+  {
+    "dex_number": "0123",
+    "name": "Scyther",
+    "url": "https://pokemmo.fandom.com/wiki/Scyther",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/42/Pkmn_0123_Scyther_menu.png/revision/latest?cb=20230224045625"
+  },
+  {
+    "dex_number": "0124",
+    "name": "Jynx",
+    "url": "https://pokemmo.fandom.com/wiki/Jynx",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d7/Pkmn_0124_Jynx_menu.png/revision/latest?cb=20230224045626"
+  },
+  {
+    "dex_number": "0133",
+    "name": "Eevee",
+    "url": "https://pokemmo.fandom.com/wiki/Eevee",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b9/Pkmn_0133_Eevee_menu.png/revision/latest?cb=20230224045633"
+  },
+  {
+    "dex_number": "0169",
+    "name": "Crobat",
+    "url": "https://pokemmo.fandom.com/wiki/Crobat",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6a/Pkmn_0169_Crobat_menu.png/revision/latest?cb=20230224061324"
+  },
+  {
+    "dex_number": "0172",
+    "name": "Pichu",
+    "url": "https://pokemmo.fandom.com/wiki/Pichu",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/35/Pkmn_0172_Pichu_menu.png/revision/latest?cb=20230224061326"
+  },
+  {
+    "dex_number": "0173",
+    "name": "Cleffa",
+    "url": "https://pokemmo.fandom.com/wiki/Cleffa",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3a/Pkmn_0173_Cleffa_menu.png/revision/latest?cb=20230224061327"
+  },
+  {
+    "dex_number": "0174",
+    "name": "Igglybuff",
+    "url": "https://pokemmo.fandom.com/wiki/Igglybuff",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c6/Pkmn_0174_Igglybuff_menu.png/revision/latest?cb=20230224061327"
+  },
+  {
+    "dex_number": "0182",
+    "name": "Bellossom",
+    "url": "https://pokemmo.fandom.com/wiki/Bellossom",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2f/Pkmn_0182_Bellossom_menu.png/revision/latest?cb=20230224061333"
+  },
+  {
+    "dex_number": "0186",
+    "name": "Politoed",
+    "url": "https://pokemmo.fandom.com/wiki/Politoed",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/95/Pkmn_0186_Politoed_menu.png/revision/latest?cb=20230224061336"
+  },
+  {
+    "dex_number": "0199",
+    "name": "Slowking",
+    "url": "https://pokemmo.fandom.com/wiki/Slowking",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/73/Pkmn_0199_Slowking_menu.png/revision/latest?cb=20230224061346"
+  },
+  {
+    "dex_number": "0208",
+    "name": "Steelix",
+    "url": "https://pokemmo.fandom.com/wiki/Steelix",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/eb/Pkmn_0208_Steelix_menu.png/revision/latest?cb=20230224061353"
+  },
+  {
+    "dex_number": "0212",
+    "name": "Scizor",
+    "url": "https://pokemmo.fandom.com/wiki/Scizor",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d1/Pkmn_0212_Scizor_menu.png/revision/latest?cb=20230227034119"
+  },
+  {
+    "dex_number": "0230",
+    "name": "Kingdra",
+    "url": "https://pokemmo.fandom.com/wiki/Kingdra",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/5c/Pkmn_0230_Kingdra_menu.png/revision/latest?cb=20230227034132"
+  },
+  {
+    "dex_number": "0236",
+    "name": "Tyrogue",
+    "url": "https://pokemmo.fandom.com/wiki/Tyrogue",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/dd/Pkmn_0236_Tyrogue_menu.png/revision/latest?cb=20230227034137"
+  },
+  {
+    "dex_number": "0237",
+    "name": "Hitmontop",
+    "url": "https://pokemmo.fandom.com/wiki/Hitmontop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f8/Pkmn_0237_Hitmontop_menu.png/revision/latest?cb=20230227034137"
+  },
+  {
+    "dex_number": "0238",
+    "name": "Smoochum",
+    "url": "https://pokemmo.fandom.com/wiki/Smoochum",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/93/Pkmn_0238_Smoochum_menu.png/revision/latest?cb=20230227034138"
+  },
+  {
+    "dex_number": "0242",
+    "name": "Blissey",
+    "url": "https://pokemmo.fandom.com/wiki/Blissey",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/10/Pkmn_0242_Blissey_menu.png/revision/latest?cb=20230227034141"
+  },
+  {
+    "dex_number": "0252",
+    "name": "Treecko",
+    "url": "https://pokemmo.fandom.com/wiki/Treecko",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/77/Pkmn_0252_Treecko_menu.png/revision/latest?cb=20230227034149"
+  },
+  {
+    "dex_number": "0253",
+    "name": "Grovyle",
+    "url": "https://pokemmo.fandom.com/wiki/Grovyle",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/ff/Pkmn_0253_Grovyle_menu.png/revision/latest?cb=20230227034149"
+  },
+  {
+    "dex_number": "0254",
+    "name": "Sceptile",
+    "url": "https://pokemmo.fandom.com/wiki/Sceptile",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/23/Pkmn_0254_Sceptile_menu.png/revision/latest?cb=20230227034150"
+  },
+  {
+    "dex_number": "0261",
+    "name": "Poochyena",
+    "url": "https://pokemmo.fandom.com/wiki/Poochyena",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/aa/Pkmn_0261_Poochyena_menu.png/revision/latest?cb=20230227034155"
+  },
+  {
+    "dex_number": "0263",
+    "name": "Zigzagoon",
+    "url": "https://pokemmo.fandom.com/wiki/Zigzagoon",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/54/Pkmn_0263_Zigzagoon_menu.png/revision/latest?cb=20230227034157"
+  },
+  {
+    "dex_number": "0265",
+    "name": "Wurmple",
+    "url": "https://pokemmo.fandom.com/wiki/Wurmple",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/cb/Pkmn_0265_Wurmple_menu.png/revision/latest?cb=20230227034158"
+  },
+  {
+    "dex_number": "0370",
+    "name": "Luvdisc",
+    "url": "https://pokemmo.fandom.com/wiki/Luvdisc",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ea/Pkmn_0370_Luvdisc_menu.png/revision/latest?cb=20230227041249"
+  },
+  {
+    "dex_number": "0429",
+    "name": "Mismagius",
+    "url": "https://pokemmo.fandom.com/wiki/Mismagius",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9e/Pkmn_0429_Mismagius_menu.png/revision/latest?cb=20230227045834"
+  },
+  {
+    "dex_number": "0440",
+    "name": "Happiny",
+    "url": "https://pokemmo.fandom.com/wiki/Happiny",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/87/Pkmn_0440_Happiny_menu.png/revision/latest?cb=20230227045842"
+  },
+  {
+    "dex_number": "0462",
+    "name": "Magnezone",
+    "url": "https://pokemmo.fandom.com/wiki/Magnezone",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/f7/Pkmn_0462_Magnezone_menu.png/revision/latest?cb=20230227045858"
+  },
+  {
+    "dex_number": "0463",
+    "name": "Lickilicky",
+    "url": "https://pokemmo.fandom.com/wiki/Lickilicky",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/39/Pkmn_0463_Lickilicky_menu.png/revision/latest?cb=20230227045859"
+  },
+  {
+    "dex_number": "0464",
+    "name": "Rhyperior",
+    "url": "https://pokemmo.fandom.com/wiki/Rhyperior",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/ff/Pkmn_0464_Rhyperior_menu.png/revision/latest?cb=20230227045900"
+  },
+  {
+    "dex_number": "0465",
+    "name": "Tangrowth",
+    "url": "https://pokemmo.fandom.com/wiki/Tangrowth",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d1/Pkmn_0465_Tangrowth_menu.png/revision/latest?cb=20230227045901"
+  },
+  {
+    "dex_number": "0466",
+    "name": "Electivire",
+    "url": "https://pokemmo.fandom.com/wiki/Electivire",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c4/Pkmn_0466_Electivire_menu.png/revision/latest?cb=20230227045901"
+  }
+]

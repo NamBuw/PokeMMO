@@ -1,0 +1,1046 @@
+[
+  {
+    "name": "Absorb Bulb",
+    "price": "100 BP",
+    "effect": "Increases Special Attack by 1 stage if hit by Water-type moves",
+    "wild_drops": [
+      "Oddish",
+      "Gloom",
+      "Roselia",
+      "Cottonee",
+      "Petilil"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2d/Bag_Absorb_Bulb.png/revision/latest?cb=20231004105835"
+  },
+  {
+    "name": "Air Balloon",
+    "price": "100 BP",
+    "effect": "Grants immunity to Ground-type attacks. When the holder is attacked, the item is lost",
+    "wild_drops": [
+      "Drifblim"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0e/Bag_Air_Balloon.png/revision/latest?cb=20231004105914"
+  },
+  {
+    "name": "Amnesia Brace",
+    "price": "1000 RP",
+    "effect": "It makes the holder forget any new battle experience while retaining effort values",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/19/Bag_Macho_Brace.png/revision/latest?cb=20231004105958"
+  },
+  {
+    "name": "Big Root",
+    "price": "-",
+    "effect": "Increases the power of HP-stealing moves to let the holder recover more HP",
+    "wild_drops": [
+      "Bellsprout",
+      "Weepinbell"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/db/Bag_Big_Root.png/revision/latest?cb=20231004110020"
+  },
+  {
+    "name": "Binding Band",
+    "price": "4800 BP",
+    "effect": "Increases the damage of Binding Moves by +12.5%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/5d/Bag_Binding_Band.png/revision/latest?cb=20231004110132"
+  },
+  {
+    "name": "Black Belt",
+    "price": "-",
+    "effect": "Boosts Fighting-type moves by +20%",
+    "wild_drops": [
+      "Makuhita",
+      "Sawk",
+      "Throh"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/09/Bag_Black_Belt.png/revision/latest?cb=20231002095846"
+  },
+  {
+    "name": "Black Glasses",
+    "price": "-",
+    "effect": "Boosts Dark-type moves by +20%",
+    "wild_drops": [
+      "Sandile"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/48/Bag_Black_Glasses.png/revision/latest?cb=20231004201337"
+  },
+  {
+    "name": "Black Sludge",
+    "price": "-",
+    "effect": "Heals Poison-type holders by 6.25% HP each turn",
+    "wild_drops": [
+      "Grimer",
+      "Muk",
+      "Croagunk",
+      "Trubbish",
+      "Garbodor"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/ac/Bag_Black_Sludge.png/revision/latest?cb=20231004204851"
+  },
+  {
+    "name": "BrightPower",
+    "price": "3200 BP",
+    "effect": "Increases holder's evasion by 10%",
+    "wild_drops": [
+      "Wurmple",
+      "Volbeat"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c8/Bag_Bright_Powder.png/revision/latest?cb=20231004204813"
+  },
+  {
+    "name": "Bug Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts power of Bug-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a6/Bag_Bug_Gem.png/revision/latest?cb=20231004204747"
+  },
+  {
+    "name": "Cell Battery",
+    "price": "100 BP",
+    "effect": "Consumable. Increases Attack by 1 stage if hit by Electric-type moves",
+    "wild_drops": [
+      "Minun",
+      "Plusle"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e0/Bag_Cell_Battery.png/revision/latest?cb=20231004204719"
+  },
+  {
+    "name": "Charcoal",
+    "price": "-",
+    "effect": "Boosts power of Fire-type moves by 20%",
+    "wild_drops": [
+      "Vulpix",
+      "Torkoal"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/01/Bag_Charcoal.png/revision/latest?cb=20230302031128"
+  },
+  {
+    "name": "Choice Band",
+    "price": "9800 BP",
+    "effect": "Boosts Attack by 50%, but locks onto the first move used",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/34/Bag_Choice_Band.png/revision/latest?cb=20231004205535"
+  },
+  {
+    "name": "Choice Scarf",
+    "price": "9800 BP",
+    "effect": "Boosts Speed by 50%, but locks onto the first move used",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b9/Bag_Choice_Scarf.png/revision/latest?cb=20231004204632"
+  },
+  {
+    "name": "Choice Specs",
+    "price": "9800 BP",
+    "effect": "Boosts Special Attack by 50%, but locks onto the first move used",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/93/Bag_Choice_Specs.png/revision/latest?cb=20231004204605"
+  },
+  {
+    "name": "Cleanse Tag",
+    "price": "-",
+    "effect": "Repels low level encounters if the holder is in lead",
+    "wild_drops": [
+      "Chimecho"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2a/Bag_Cleanse_Tag.png/revision/latest?cb=20231004204512"
+  },
+  {
+    "name": "Damp Rock",
+    "price": "-",
+    "effect": "Rain Weather turns will be increased from 5 to 8 turns",
+    "wild_drops": [
+      "Wingull",
+      "Pelipper"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/60/Bag_Damp_Rock.png/revision/latest?cb=20231004204409"
+  },
+  {
+    "name": "Dark Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts power of Dark-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9b/Bag_Dark_Gem.png/revision/latest?cb=20231004204345"
+  },
+  {
+    "name": "DeepSeaScale",
+    "price": "-",
+    "effect": "Increases Special Defense by 2 stages. Evolves Clamperl into Gorebyss if traded while holding this item",
+    "wild_drops": [
+      "Lanturn",
+      "Clamperl",
+      "Basculin"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/52/Bag_Deep_Sea_Scale.png/revision/latest?cb=20230322030748"
+  },
+  {
+    "name": "DeepSeaTooth",
+    "price": "-",
+    "effect": "Increases Special Attack by 2 stages. Evolves Clamperl into Huntail if traded while holding this item",
+    "wild_drops": [
+      "Clamperl",
+      "Carvanha",
+      "Basculin"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7f/Bag_Deep_Sea_Tooth.png/revision/latest?cb=20230322030129"
+  },
+  {
+    "name": "Destiny Knot",
+    "price": "-",
+    "effect": "If the holder is Infatuated, then the opponent will be too",
+    "wild_drops": [
+      "Ralts"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3c/Bag_Destiny_Knot.png/revision/latest?cb=20231004204321"
+  },
+  {
+    "name": "Draco Plate",
+    "price": "-",
+    "effect": "Boosts the power of Dragon-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0e/Bag_Draco_Plate.png/revision/latest?cb=20230322030130"
+  },
+  {
+    "name": "Dragon Fang",
+    "price": "-",
+    "effect": "Boosts the power of Dragon-type moves by 20%",
+    "wild_drops": [
+      "Dragonair",
+      "Dragonite",
+      "Druddigon"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e1/Bag_Dragon_Fang.png/revision/latest?cb=20231004204249"
+  },
+  {
+    "name": "Dragon Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Dragon-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b4/Bag_Dragon_Gem.png/revision/latest?cb=20231004204216"
+  },
+  {
+    "name": "Dragon Scale",
+    "price": "-",
+    "effect": "Evolves Seadra into Kingdra if traded while holding this item",
+    "wild_drops": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite",
+      "Horsea",
+      "Seadra",
+      "Kingdra"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2f/Bag_Dragon_Scale.png/revision/latest?cb=20230322030131"
+  },
+  {
+    "name": "Dread Plate",
+    "price": "-",
+    "effect": "Boosts the power of Ghost-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/22/Bag_Dread_Plate.png/revision/latest?cb=20231004110302"
+  },
+  {
+    "name": "Dubious Disc",
+    "price": "4800 BP",
+    "effect": "Evolves Porygon2 into Porygon-Z if traded while holding this item",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c2/Bag_Dubious_Disc.png/revision/latest?cb=20230322030132"
+  },
+  {
+    "name": "Earth Plate",
+    "price": "-",
+    "effect": "Boosts the power of Ground-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/13/Bag_Earth_Plate.png/revision/latest?cb=20231004204140"
+  },
+  {
+    "name": "Eject Button",
+    "price": "100 BP",
+    "effect": "If the holder is hit by an attack, it will switch to another Pokémon in the party",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/98/Bag_Eject_Button.png/revision/latest?cb=20231004204108"
+  },
+  {
+    "name": "Electrizer",
+    "price": "-",
+    "effect": "Evolves Electabuzz into Electivire if traded while holding this item",
+    "wild_drops": [
+      "Electabuzz"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/40/Bag_Electirizer.png/revision/latest?cb=20230322030133"
+  },
+  {
+    "name": "Electric Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Electric-type attacks by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/28/Bag_Electric_Gem.png/revision/latest?cb=20231004204036"
+  },
+  {
+    "name": "Everstone",
+    "price": "-",
+    "effect": "Prevents the holder from evolving. It can also be used to have offspring retain their nature when breeding",
+    "wild_drops": [
+      "Geodude",
+      "Graveler",
+      "Roggenrola",
+      "Boldore"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/ae/Bag_Everstone.png/revision/latest?cb=20230227063501"
+  },
+  {
+    "name": "Eviolite",
+    "price": "9800 BP",
+    "effect": "Increases Defense and Special Defense by 50% for not fully evolved pokemon",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/14/Bag_Eviolite.png/revision/latest?cb=20231004204010"
+  },
+  {
+    "name": "Exp. Share",
+    "price": "-",
+    "effect": "Shares EV and 50% Experience gained to the holder. That Exp. is divided when you have multiple users",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e1/Bag_Exp._Share.png/revision/latest?cb=20230222100947"
+  },
+  {
+    "name": "Expert Belt",
+    "price": "-",
+    "effect": "Boosts the power of Super Effective moves by 20%",
+    "wild_drops": [
+      "Throh",
+      "Sawk"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a1/Bag_Expert_Belt.png/revision/latest?cb=20231004203937"
+  },
+  {
+    "name": "Fighting Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Fighting-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/58/Bag_Fighting_Gem.png/revision/latest?cb=20231004203904"
+  },
+  {
+    "name": "Fire Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Fire-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/60/Bag_Fire_Gem.png/revision/latest?cb=20231004203834"
+  },
+  {
+    "name": "Fist Plate",
+    "price": "-",
+    "effect": "Boosts the power of Fighting-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/38/Bag_Fist_Plate.png/revision/latest?cb=20231004203808"
+  },
+  {
+    "name": "Flame Orb",
+    "price": "6400 BP",
+    "effect": "The holder will be Burned at the end of the turn in battle",
+    "wild_drops": [
+      "Heatmor"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e3/Bag_Flame_Orb.png/revision/latest?cb=20231004203745"
+  },
+  {
+    "name": "Flame Plate",
+    "price": "-",
+    "effect": "Boosts the power of Fire-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/31/Bag_Flame_Plate.png/revision/latest?cb=20231004203718"
+  },
+  {
+    "name": "Float Stone",
+    "price": "-",
+    "effect": "Halves the weight of the holder",
+    "wild_drops": [
+      "Nosepass",
+      "Probopass"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/78/Bag_Float_Stone.png/revision/latest?cb=20231004203651"
+  },
+  {
+    "name": "Flying Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Flying-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/37/Bag_Flying_Gem.png/revision/latest?cb=20231004203626"
+  },
+  {
+    "name": "Focus Band",
+    "price": "3200 BP",
+    "effect": "Has 10% chance to prevent OHKO and leave the holder at 1 HP",
+    "wild_drops": [
+      "Machop",
+      "Machoke"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ef/Bag_Focus_Band.png/revision/latest?cb=20231004205444"
+  },
+  {
+    "name": "Focus Sash",
+    "price": "100 BP",
+    "effect": "Consumable. Prevents OHKO and leaves the holder at 1 HP",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b8/Bag_Focus_Sash.png/revision/latest?cb=20230321021837"
+  },
+  {
+    "name": "Ghost Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Ghost-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/df/Bag_Ghost_Gem.png/revision/latest?cb=20231004203531"
+  },
+  {
+    "name": "Grass Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Grass-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c8/Bag_Grass_Gem.png/revision/latest?cb=20231004203506"
+  },
+  {
+    "name": "Grip Claw",
+    "price": "-",
+    "effect": "Causes binding moves used by the holder to always last 7 turns",
+    "wild_drops": [
+      "Sandshrew",
+      "Sneasel"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0f/Bag_Grip_Claw.png/revision/latest?cb=20231004203432"
+  },
+  {
+    "name": "Ground Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Ground-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7e/Bag_Ground_Gem.png/revision/latest?cb=20231004203402"
+  },
+  {
+    "name": "Hard Stone",
+    "price": "-",
+    "effect": "Boosts the power of Rock-type moves by 20%",
+    "wild_drops": [
+      "Onix",
+      "Geodude",
+      "Graveler",
+      "linkNULL=nosepass",
+      "Aron",
+      "Roggenrola",
+      "Boldore"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/89/Bag_Hard_Stone.png/revision/latest?cb=20231004203332"
+  },
+  {
+    "name": "Heat Rock",
+    "price": "-",
+    "effect": "Sun Weather turns will be increased from 5 to 8 turns",
+    "wild_drops": [
+      "Torkoal"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e5/Bag_Heat_Rock.png/revision/latest?cb=20231004203256"
+  },
+  {
+    "name": "Ice Gem",
+    "price": "-",
+    "effect": "Consumable. Increases the power of Ice-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6f/Bag_Ice_Gem.png/revision/latest?cb=20231004203226"
+  },
+  {
+    "name": "Icicle Plate",
+    "price": "-",
+    "effect": "Boosts the power of Ice-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d9/Bag_Icicle_Plate.png/revision/latest?cb=20231004110742"
+  },
+  {
+    "name": "Icy Rock",
+    "price": "-",
+    "effect": "Hail Weather turns will be increased from 5 to 8 turns",
+    "wild_drops": [
+      "Snover",
+      "Vanillite",
+      "Vanillish"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/24/Bag_Icy_Rock.png/revision/latest?cb=20231004110704"
+  },
+  {
+    "name": "Insect Plate",
+    "price": "-",
+    "effect": "Boosts the power of Bug-type moves",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9a/Bag_Insect_Plate.png/revision/latest?cb=20231004110616"
+  },
+  {
+    "name": "Iron Ball",
+    "price": "4800 BP",
+    "effect": "Decreases Speed by 50% and the holder can be hit by Ground-type moves",
+    "wild_drops": [
+      "Mawile"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/38/Bag_Iron_Ball.png/revision/latest?cb=20231004110522"
+  },
+  {
+    "name": "Iron Plate",
+    "price": "-",
+    "effect": "Boosts the power of Steel-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7a/Bag_Iron_Plate.png/revision/latest?cb=20231004110438"
+  },
+  {
+    "name": "King's Rock",
+    "price": "-",
+    "effect": "Increases rate of flinching for the opponent by 10% if hit. Evolves Poliwhirl or Slowpoke into Politoed or Slowking if traded while holding this item",
+    "wild_drops": [
+      "Slowpoke",
+      "Poliwag",
+      "Poliwhirl"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/17/Bag_Kings_Rock.png/revision/latest?cb=20230322030135"
+  },
+  {
+    "name": "Lagging Tail",
+    "price": "-",
+    "effect": "The holder will always move last",
+    "wild_drops": [
+      "Slowpoke",
+      "Onix"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/09/Bag_Lagging_Tail.png/revision/latest?cb=20230404024332"
+  },
+  {
+    "name": "Leftovers",
+    "price": "4800 BP",
+    "effect": "Heals the holder by 6,25% HP each turn",
+    "wild_drops": [
+      "Snorlax"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2b/Bag_Leftovers.png/revision/latest?cb=20230321021838"
+  },
+  {
+    "name": "Life Orb",
+    "price": "6400 BP",
+    "effect": "Increases power by +30%, however this will cost 10% HP from the user",
+    "wild_drops": [
+      "Absol"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0b/Bag_Life_Orb.png/revision/latest?cb=20231003212333"
+  },
+  {
+    "name": "Light Ball",
+    "price": "-",
+    "effect": "Doubles Pikachu's Atk and Sp. Atk when held. Giving it to a Pikachu while breeding a Pichu, will teach the egg move Volt Tackle",
+    "wild_drops": [
+      "Pikachu"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0b/Bag_Light_Ball.png/revision/latest?cb=20231004095312"
+  },
+  {
+    "name": "Light Clay",
+    "price": "-",
+    "effect": "Light Screen and Reflect turns will be increased from 5 to 8 turns",
+    "wild_drops": [
+      "Claydol",
+      "Golett"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/16/Bag_Light_Clay.png/revision/latest?cb=20231004110357"
+  },
+  {
+    "name": "Lucky Punch",
+    "price": "-",
+    "effect": "Increases Chansey's Critical Hit chances by +2 Stages",
+    "wild_drops": [
+      "Chansey"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/36/Bag_Lucky_Punch.png/revision/latest?cb=20230322030348"
+  },
+  {
+    "name": "Macho Brace",
+    "price": "-",
+    "effect": "Decreases Speed by 50%, but doubles the EVs recieved",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/19/Bag_Macho_Brace.png/revision/latest?cb=20231004105958"
+  },
+  {
+    "name": "Magmarizer",
+    "price": "-",
+    "effect": "Evolves Magmar into Magmortar if traded while holding this item",
+    "wild_drops": [
+      "Magmar"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2b/Bag_Magmarizer.png/revision/latest?cb=20230322030137"
+  },
+  {
+    "name": "Magnet",
+    "price": "-",
+    "effect": "Boosts the power of Electric-type moves by 20%",
+    "wild_drops": [
+      "Magnemite",
+      "Magneton",
+      "Nosepass",
+      "Probopass"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/ce/Bag_Magnet.png/revision/latest?cb=20231004203155"
+  },
+  {
+    "name": "Meadow Plate",
+    "price": "-",
+    "effect": "Boosts the power of Grass-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b4/Bag_Meadow_Plate.png/revision/latest?cb=20231004203124"
+  },
+  {
+    "name": "Mental Herb",
+    "price": "85 BP",
+    "effect": "Consumable. Snaps the holder out of move-binding effects and infatuation",
+    "wild_drops": [
+      "Lotad",
+      "Lombre",
+      "Sewaddle",
+      "Swadloon",
+      "Leavanny"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/14/Bag_Mental_Herb.png/revision/latest?cb=20231004203041"
+  },
+  {
+    "name": "Metal Coat",
+    "price": "-",
+    "effect": "Boosts the power of Steel-type moves by 20%. Evolves Onix into Steelix if traded while holding this item",
+    "wild_drops": [
+      "Magnemite",
+      "Onix",
+      "Skarmory",
+      "Beldum",
+      "Bronzor",
+      "Bronzong"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e1/Bag_Metal_Coat.png/revision/latest?cb=20230322030138"
+  },
+  {
+    "name": "Metal Powder",
+    "price": "-",
+    "effect": "Increases Ditto's Defense by 2 stages when held",
+    "wild_drops": [
+      "Ditto"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/db/Bag_Metal_Powder.png/revision/latest?cb=20230322030139"
+  },
+  {
+    "name": "Metronome",
+    "price": "-",
+    "effect": "Boosts the power of a move by 20% for each consecutive use, up to a maximum of 100%",
+    "wild_drops": [
+      "Kricketune",
+      "Chatot"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/33/Bag_Metronome.png/revision/latest?cb=20231004203015"
+  },
+  {
+    "name": "Mind Plate",
+    "price": "-",
+    "effect": "Boosts the power of Psychic-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/41/Bag_Mind_Plate.png/revision/latest?cb=20231004202948"
+  },
+  {
+    "name": "Miracle Seed",
+    "price": "-",
+    "effect": "Boosts the power of Grass-type moves by 20%",
+    "wild_drops": [
+      "Cherubi",
+      "Cherrim",
+      "Maractus"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/41/Bag_MiracleSeed.png/revision/latest?cb=20231004202922"
+  },
+  {
+    "name": "Muscle Band",
+    "price": "4800 BP",
+    "effect": "Increases power of Physical moves by 10%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/96/Bag_Muscle_Band.png/revision/latest?cb=20231002095713"
+  },
+  {
+    "name": "Mysterious Gem",
+    "price": "-",
+    "effect": "Base ingredient for typed gems. Has no effect in battle",
+    "wild_drops": [
+      "Phenomena"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8b/Bag_Normal_Gem.png/revision/latest?cb=20231004202848"
+  },
+  {
+    "name": "Mystic Water",
+    "price": "-",
+    "effect": "Boosts the power of Water-type moves by 20%",
+    "wild_drops": [
+      "Lapras",
+      "Goldeen",
+      "Seaking"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c1/Bag_Mystic_Water.png/revision/latest?cb=20231003212522"
+  },
+  {
+    "name": "NeverMeltIce",
+    "price": "-",
+    "effect": "Boosts the power of Ice-type moves by 20%",
+    "wild_drops": [
+      "Dewgong",
+      "Snover",
+      "Abomasnow",
+      "Cryogonal",
+      "Vanillite",
+      "Vanillish"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2c/Bag_NeverMeltIce.png/revision/latest?cb=20231004193555"
+  },
+  {
+    "name": "Normal Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Normal-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8b/Bag_Normal_Gem.png/revision/latest?cb=20231004202848"
+  },
+  {
+    "name": "Poison Barb",
+    "price": "-",
+    "effect": "Boosts the power of Poison-type moves by 20%",
+    "wild_drops": [
+      "Tentacool",
+      "Tentacruel",
+      "Qwilfish",
+      "Roselia",
+      "Cacnea"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7b/Bag_Poison_Barb.png/revision/latest?cb=20230313200257"
+  },
+  {
+    "name": "Protector",
+    "price": "-",
+    "effect": "Evolves Rhydon to evolve into Rhyperior if traded while holding this item",
+    "wild_drops": [
+      "Rhyhorn",
+      "Rhydon"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/86/Bag_Protector.png/revision/latest?cb=20230322030142"
+  },
+  {
+    "name": "Quick Claw",
+    "price": "-",
+    "effect": "Has 10% chance to allow the holder to move first in battle",
+    "wild_drops": [
+      "Meowth",
+      "Persian",
+      "Sandslash",
+      "Sneasel",
+      "Zangoose"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e2/Bag_Quick_Claw.png/revision/latest?cb=20231004202716"
+  },
+  {
+    "name": "Quick Powder",
+    "price": "-",
+    "effect": "Increases Ditto's Speed by 2 stages when held",
+    "wild_drops": [
+      "Ditto"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e6/Bag_Quick_Powder.png/revision/latest?cb=20231004202643"
+  },
+  {
+    "name": "Razor Claw",
+    "price": "4800 BP",
+    "effect": "Increases the critical hit ratio of the holder by 1 stage. Evolves Sneasel into Weavile if leveled up at night holding this item",
+    "wild_drops": [
+      "Sneasel"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9c/Bag_Razor_Claw.png/revision/latest?cb=20230322030143"
+  },
+  {
+    "name": "Razor Fang",
+    "price": "4800 BP",
+    "effect": "Grants all attacking moves that do not already have a chance to flinch a 10% chance of causing the target to flinch. Evolves Gligar into Gliscor if leveled up at night holding this item",
+    "wild_drops": [
+      "Gligar"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/82/Bag_Razor_Fang.png/revision/latest?cb=20230322030144"
+  },
+  {
+    "name": "Reaper Cloth",
+    "price": "-",
+    "effect": "Evolves Dusclops into Dusknoir if traded while holding this item",
+    "wild_drops": [
+      "Duskull",
+      "Dusclops"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a4/Bag_Reaper_Cloth.png/revision/latest?cb=20230322030144"
+  },
+  {
+    "name": "Red Card",
+    "price": "100 BP",
+    "effect": "Consumable. When the holder is struck by a move, the attacker is forced to switch out",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a0/Bag_Red_Card.png/revision/latest?cb=20231004202615"
+  },
+  {
+    "name": "Ring Target",
+    "price": "4800 BP",
+    "effect": "Moves that otherwise would have no effect will land on the holder",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/90/Bag_Ring_Target.png/revision/latest?cb=20231004202546"
+  },
+  {
+    "name": "Rock Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Rock-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/cc/Bag_Rock_Gem.png/revision/latest?cb=20231004202515"
+  },
+  {
+    "name": "Rocky Helmet",
+    "price": "4800 BP",
+    "effect": "Making contact with the holder deals 16,5% HP damage to the foe",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8f/Bag_Rocky_Helmet.png/revision/latest?cb=20231002130748"
+  },
+  {
+    "name": "Scope Lens",
+    "price": "4800 BP",
+    "effect": "Increases the critical hit ratio by 1 stage",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0b/Bag_Scope_Lens.png/revision/latest?cb=20231004202448"
+  },
+  {
+    "name": "Sharp Beak",
+    "price": "-",
+    "effect": "Boosts the power of Flying-type moves by 20%",
+    "wild_drops": [
+      "Spearow",
+      "Fearow",
+      "Doduo",
+      "Skarmory"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3b/Bag_Sharp_Beak.png/revision/latest?cb=20230403045655"
+  },
+  {
+    "name": "Shed Shell",
+    "price": "-",
+    "effect": "Always allows switching out if held",
+    "wild_drops": [
+      "Venomoth",
+      "Scraggy",
+      "Scrafty",
+      "Arbok"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/ca/Bag_Shed_Shell.png/revision/latest?cb=20231004202417"
+  },
+  {
+    "name": "Shell Bell",
+    "price": "-",
+    "effect": "Restores HP to the holder equal to 1/8 of the damage dealt",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c4/Bag_Shell_Bell.png/revision/latest?cb=20230313200258"
+  },
+  {
+    "name": "Silk Scarf",
+    "price": "-",
+    "effect": "Boosts the power of Normal-type moves by 20%",
+    "wild_drops": [
+      "Trubbish",
+      "Garbodor"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9e/Bag_Silk_Scarf.png/revision/latest?cb=20230322031353"
+  },
+  {
+    "name": "Silver Powder",
+    "price": "-",
+    "effect": "Boosts the power of Bug-type moves by 20%",
+    "wild_drops": [
+      "Venomoth"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/49/Bag_Silver_Powder.png/revision/latest?cb=20231004202352"
+  },
+  {
+    "name": "Smoke Ball",
+    "price": "-",
+    "effect": "Greatly helps escape from wild Pokémon",
+    "wild_drops": [
+      "Koffing",
+      "Weezing"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/bb/Bag_Smoke_Ball.png/revision/latest?cb=20230302175407"
+  },
+  {
+    "name": "Smooth Rock",
+    "price": "-",
+    "effect": "Sandsotm Weather turns will be increased from 5 to 8 turns.",
+    "wild_drops": [
+      "Larvitar",
+      "Pupitar",
+      "Hippopotas"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/dc/Bag_Smooth_Rock.png/revision/latest?cb=20231004202321"
+  },
+  {
+    "name": "Soft Sand",
+    "price": "-",
+    "effect": "Boosts the power of Ground-type moves by 20%",
+    "wild_drops": [
+      "Sandshrew",
+      "Diglett",
+      "Nincada",
+      "Trapinch",
+      "Stunfisk"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/07/Bag_Soft_Sand.png/revision/latest?cb=20230302175408"
+  },
+  {
+    "name": "Soothe Bell",
+    "price": "-",
+    "effect": "Increases happiness earned for the holder",
+    "wild_drops": [
+      "Chimecho"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/5e/Bag_Soothe_Bell.png/revision/latest?cb=20231004202249"
+  },
+  {
+    "name": "Spell Tag",
+    "price": "-",
+    "effect": "Boosts the power of Ghost-type moves by 20%",
+    "wild_drops": [
+      "Duskull",
+      "Shuppet"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6e/Bag_Spell_Tag.png/revision/latest?cb=20231004202210"
+  },
+  {
+    "name": "Steel Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Steel-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/bb/Bag_Steel_Gem.png/revision/latest?cb=20231004202126"
+  },
+  {
+    "name": "Stick",
+    "price": "-",
+    "effect": "Increases Farfetch'd's critical hit ratio by 2 stages",
+    "wild_drops": [
+      "Farfetch'd"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9b/Bag_Stick.png/revision/latest?cb=20230322030149"
+  },
+  {
+    "name": "Sticky Barb",
+    "price": "-",
+    "effect": "Damages the holder for 12.5% HP each turn. The item is transferred upon contact",
+    "wild_drops": [
+      "Cacnea",
+      "Ferroseed"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/4d/Bag_Sticky_Barb.png/revision/latest?cb=20231004202051"
+  },
+  {
+    "name": "Sky Plate",
+    "price": "-",
+    "effect": "Boosts the power of Flying-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/58/Bag_Sky_Plate.png/revision/latest?cb=20231004202020"
+  },
+  {
+    "name": "Splash Plate",
+    "price": "-",
+    "effect": "Boosts the power of Water-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/11/Bag_Splash_Plate.png/revision/latest?cb=20230322030148"
+  },
+  {
+    "name": "Spooky Plate",
+    "price": "-",
+    "effect": "Boosts the power of Ghost-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/64/Bag_Spooky_Plate.png/revision/latest?cb=20231004201948"
+  },
+  {
+    "name": "Thick Club",
+    "price": "-",
+    "effect": "Increases Cubone's and Marowak's Attack by 2 stages",
+    "wild_drops": [
+      "Cubone",
+      "Marowak"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/40/Bag_Thick_Club.png/revision/latest?cb=20230322030150"
+  },
+  {
+    "name": "Toxic Orb",
+    "price": "6400 BP",
+    "effect": "The holder will be Badly Poisoned at the end of the turn in battle",
+    "wild_drops": [
+      "Muk"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/49/Bag_Toxic_Orb.png/revision/latest?cb=20231004201835"
+  },
+  {
+    "name": "Toxic Plate",
+    "price": "-",
+    "effect": "Boosts the power of Poison-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3c/Bag_Toxic_Plate.png/revision/latest?cb=20231004201759"
+  },
+  {
+    "name": "TwistedSpoon",
+    "price": "-",
+    "effect": "Boosts the power of Psychic-type moves by 20%",
+    "wild_drops": [
+      "Abra",
+      "Kadabra"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/50/Bag_Twisted_Spoon.png/revision/latest?cb=20231003191004"
+  },
+  {
+    "name": "Up-Grade",
+    "price": "3200 BP",
+    "effect": "Evolves Porygon into Porygon2 if traded while holding this item",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3f/Bag_Up-Grade.png/revision/latest?cb=20230322030152"
+  },
+  {
+    "name": "Water Gem",
+    "price": "-",
+    "effect": "Consumable. Boosts the power of Water-type moves by 50%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/76/Bag_Water_Gem.png/revision/latest?cb=20231004201728"
+  },
+  {
+    "name": "Wide Lens",
+    "price": "4800 BP",
+    "effect": "Increases the Accuracy of the holder by 10%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c8/Bag_Wide_Lens.png/revision/latest?cb=20231004201656"
+  },
+  {
+    "name": "White Herb",
+    "price": "100 BP",
+    "effect": "Consumable. Restores any negative stat changes in battle",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/16/Bag_White_Herb.png/revision/latest?cb=20231004201619"
+  },
+  {
+    "name": "Wise Glasses",
+    "price": "4800 BP",
+    "effect": "Increases the power of Special moves by 10%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0b/Bag_Wise_Glasses.png/revision/latest?cb=20231004201507"
+  },
+  {
+    "name": "Zap Plate",
+    "price": "-",
+    "effect": "Boosts the power of Electric-type moves by 20%",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c4/Bag_Zap_Plate.png/revision/latest?cb=20231004201433"
+  },
+  {
+    "name": "Zoom Lens",
+    "price": "4800 BP",
+    "effect": "Increases to Accuracy of moves by 20% if the holder moves last",
+    "wild_drops": [],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/f/fc/Bag_Zoom_Lens.png/revision/latest?cb=20231002095951"
+  }
+]

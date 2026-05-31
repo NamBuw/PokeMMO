@@ -1,0 +1,998 @@
+[
+  {
+    "id": "berryjuice",
+    "name": "Berry Juice"
+  },
+  {
+    "id": "blackbelt",
+    "name": "Black Belt"
+  },
+  {
+    "id": "blackglasses",
+    "name": "Black Glasses"
+  },
+  {
+    "id": "brightpowder",
+    "name": "Bright Powder"
+  },
+  {
+    "id": "charcoal",
+    "name": "Charcoal"
+  },
+  {
+    "id": "dragonfang",
+    "name": "Dragon Fang"
+  },
+  {
+    "id": "dragonscale",
+    "name": "Dragon Scale"
+  },
+  {
+    "id": "fastball",
+    "name": "Fast Ball"
+  },
+  {
+    "id": "firestone",
+    "name": "Fire Stone"
+  },
+  {
+    "id": "focusband",
+    "name": "Focus Band"
+  },
+  {
+    "id": "friendball",
+    "name": "Friend Ball"
+  },
+  {
+    "id": "greatball",
+    "name": "Great Ball"
+  },
+  {
+    "id": "hardstone",
+    "name": "Hard Stone"
+  },
+  {
+    "id": "heavyball",
+    "name": "Heavy Ball"
+  },
+  {
+    "id": "kingsrock",
+    "name": "King's Rock"
+  },
+  {
+    "id": "leafstone",
+    "name": "Leaf Stone"
+  },
+  {
+    "id": "leftovers",
+    "name": "Leftovers"
+  },
+  {
+    "id": "levelball",
+    "name": "Level Ball"
+  },
+  {
+    "id": "lightball",
+    "name": "Light Ball"
+  },
+  {
+    "id": "loveball",
+    "name": "Love Ball"
+  },
+  {
+    "id": "luckypunch",
+    "name": "Lucky Punch"
+  },
+  {
+    "id": "lureball",
+    "name": "Lure Ball"
+  },
+  {
+    "id": "magnet",
+    "name": "Magnet"
+  },
+  {
+    "id": "mail",
+    "name": "Mail"
+  },
+  {
+    "id": "masterball",
+    "name": "Master Ball"
+  },
+  {
+    "id": "metalcoat",
+    "name": "Metal Coat"
+  },
+  {
+    "id": "metalpowder",
+    "name": "Metal Powder"
+  },
+  {
+    "id": "miracleseed",
+    "name": "Miracle Seed"
+  },
+  {
+    "id": "moonball",
+    "name": "Moon Ball"
+  },
+  {
+    "id": "moonstone",
+    "name": "Moon Stone"
+  },
+  {
+    "id": "mysticwater",
+    "name": "Mystic Water"
+  },
+  {
+    "id": "nevermeltice",
+    "name": "Never-Melt Ice"
+  },
+  {
+    "id": "poisonbarb",
+    "name": "Poison Barb"
+  },
+  {
+    "id": "pokeball",
+    "name": "Poke Ball"
+  },
+  {
+    "id": "quickclaw",
+    "name": "Quick Claw"
+  },
+  {
+    "id": "safariball",
+    "name": "Safari Ball"
+  },
+  {
+    "id": "scopelens",
+    "name": "Scope Lens"
+  },
+  {
+    "id": "sharpbeak",
+    "name": "Sharp Beak"
+  },
+  {
+    "id": "silverpowder",
+    "name": "Silver Powder"
+  },
+  {
+    "id": "softsand",
+    "name": "Soft Sand"
+  },
+  {
+    "id": "spelltag",
+    "name": "Spell Tag"
+  },
+  {
+    "id": "sportball",
+    "name": "Sport Ball"
+  },
+  {
+    "id": "stick",
+    "name": "Stick"
+  },
+  {
+    "id": "sunstone",
+    "name": "Sun Stone"
+  },
+  {
+    "id": "thickclub",
+    "name": "Thick Club"
+  },
+  {
+    "id": "thunderstone",
+    "name": "Thunder Stone"
+  },
+  {
+    "id": "twistedspoon",
+    "name": "Twisted Spoon"
+  },
+  {
+    "id": "ultraball",
+    "name": "Ultra Ball"
+  },
+  {
+    "id": "upgrade",
+    "name": "Up-Grade"
+  },
+  {
+    "id": "waterstone",
+    "name": "Water Stone"
+  },
+  {
+    "id": "aguavberry",
+    "name": "Aguav Berry"
+  },
+  {
+    "id": "apicotberry",
+    "name": "Apicot Berry"
+  },
+  {
+    "id": "aspearberry",
+    "name": "Aspear Berry"
+  },
+  {
+    "id": "belueberry",
+    "name": "Belue Berry"
+  },
+  {
+    "id": "blukberry",
+    "name": "Bluk Berry"
+  },
+  {
+    "id": "cheriberry",
+    "name": "Cheri Berry"
+  },
+  {
+    "id": "chestoberry",
+    "name": "Chesto Berry"
+  },
+  {
+    "id": "choiceband",
+    "name": "Choice Band"
+  },
+  {
+    "id": "clawfossil",
+    "name": "Claw Fossil"
+  },
+  {
+    "id": "cornnberry",
+    "name": "Cornn Berry"
+  },
+  {
+    "id": "deepseascale",
+    "name": "Deep Sea Scale"
+  },
+  {
+    "id": "deepseatooth",
+    "name": "Deep Sea Tooth"
+  },
+  {
+    "id": "diveball",
+    "name": "Dive Ball"
+  },
+  {
+    "id": "domefossil",
+    "name": "Dome Fossil"
+  },
+  {
+    "id": "durinberry",
+    "name": "Durin Berry"
+  },
+  {
+    "id": "enigmaberry",
+    "name": "Enigma Berry"
+  },
+  {
+    "id": "figyberry",
+    "name": "Figy Berry"
+  },
+  {
+    "id": "ganlonberry",
+    "name": "Ganlon Berry"
+  },
+  {
+    "id": "grepaberry",
+    "name": "Grepa Berry"
+  },
+  {
+    "id": "helixfossil",
+    "name": "Helix Fossil"
+  },
+  {
+    "id": "hondewberry",
+    "name": "Hondew Berry"
+  },
+  {
+    "id": "iapapaberry",
+    "name": "Iapapa Berry"
+  },
+  {
+    "id": "kelpsyberry",
+    "name": "Kelpsy Berry"
+  },
+  {
+    "id": "lansatberry",
+    "name": "Lansat Berry"
+  },
+  {
+    "id": "laxincense",
+    "name": "Lax Incense"
+  },
+  {
+    "id": "leppaberry",
+    "name": "Leppa Berry"
+  },
+  {
+    "id": "liechiberry",
+    "name": "Liechi Berry"
+  },
+  {
+    "id": "lumberry",
+    "name": "Lum Berry"
+  },
+  {
+    "id": "luxuryball",
+    "name": "Luxury Ball"
+  },
+  {
+    "id": "machobrace",
+    "name": "Macho Brace"
+  },
+  {
+    "id": "magoberry",
+    "name": "Mago Berry"
+  },
+  {
+    "id": "magostberry",
+    "name": "Magost Berry"
+  },
+  {
+    "id": "mentalherb",
+    "name": "Mental Herb"
+  },
+  {
+    "id": "nanabberry",
+    "name": "Nanab Berry"
+  },
+  {
+    "id": "nestball",
+    "name": "Nest Ball"
+  },
+  {
+    "id": "netball",
+    "name": "Net Ball"
+  },
+  {
+    "id": "nomelberry",
+    "name": "Nomel Berry"
+  },
+  {
+    "id": "oldamber",
+    "name": "Old Amber"
+  },
+  {
+    "id": "oranberry",
+    "name": "Oran Berry"
+  },
+  {
+    "id": "pamtreberry",
+    "name": "Pamtre Berry"
+  },
+  {
+    "id": "pechaberry",
+    "name": "Pecha Berry"
+  },
+  {
+    "id": "persimberry",
+    "name": "Persim Berry"
+  },
+  {
+    "id": "petayaberry",
+    "name": "Petaya Berry"
+  },
+  {
+    "id": "pinapberry",
+    "name": "Pinap Berry"
+  },
+  {
+    "id": "pomegberry",
+    "name": "Pomeg Berry"
+  },
+  {
+    "id": "premierball",
+    "name": "Premier Ball"
+  },
+  {
+    "id": "qualotberry",
+    "name": "Qualot Berry"
+  },
+  {
+    "id": "rabutaberry",
+    "name": "Rabuta Berry"
+  },
+  {
+    "id": "rawstberry",
+    "name": "Rawst Berry"
+  },
+  {
+    "id": "razzberry",
+    "name": "Razz Berry"
+  },
+  {
+    "id": "repeatball",
+    "name": "Repeat Ball"
+  },
+  {
+    "id": "rootfossil",
+    "name": "Root Fossil"
+  },
+  {
+    "id": "salacberry",
+    "name": "Salac Berry"
+  },
+  {
+    "id": "seaincense",
+    "name": "Sea Incense"
+  },
+  {
+    "id": "shellbell",
+    "name": "Shell Bell"
+  },
+  {
+    "id": "silkscarf",
+    "name": "Silk Scarf"
+  },
+  {
+    "id": "sitrusberry",
+    "name": "Sitrus Berry"
+  },
+  {
+    "id": "souldew",
+    "name": "Soul Dew"
+  },
+  {
+    "id": "spelonberry",
+    "name": "Spelon Berry"
+  },
+  {
+    "id": "starfberry",
+    "name": "Starf Berry"
+  },
+  {
+    "id": "tamatoberry",
+    "name": "Tamato Berry"
+  },
+  {
+    "id": "timerball",
+    "name": "Timer Ball"
+  },
+  {
+    "id": "watmelberry",
+    "name": "Watmel Berry"
+  },
+  {
+    "id": "wepearberry",
+    "name": "Wepear Berry"
+  },
+  {
+    "id": "whiteherb",
+    "name": "White Herb"
+  },
+  {
+    "id": "wikiberry",
+    "name": "Wiki Berry"
+  },
+  {
+    "id": "adamantorb",
+    "name": "Adamant Orb"
+  },
+  {
+    "id": "armorfossil",
+    "name": "Armor Fossil"
+  },
+  {
+    "id": "babiriberry",
+    "name": "Babiri Berry"
+  },
+  {
+    "id": "bigroot",
+    "name": "Big Root"
+  },
+  {
+    "id": "blacksludge",
+    "name": "Black Sludge"
+  },
+  {
+    "id": "chartiberry",
+    "name": "Charti Berry"
+  },
+  {
+    "id": "cherishball",
+    "name": "Cherish Ball"
+  },
+  {
+    "id": "chilanberry",
+    "name": "Chilan Berry"
+  },
+  {
+    "id": "choicescarf",
+    "name": "Choice Scarf"
+  },
+  {
+    "id": "choicespecs",
+    "name": "Choice Specs"
+  },
+  {
+    "id": "chopleberry",
+    "name": "Chople Berry"
+  },
+  {
+    "id": "cobaberry",
+    "name": "Coba Berry"
+  },
+  {
+    "id": "colburberry",
+    "name": "Colbur Berry"
+  },
+  {
+    "id": "custapberry",
+    "name": "Custap Berry"
+  },
+  {
+    "id": "damprock",
+    "name": "Damp Rock"
+  },
+  {
+    "id": "dawnstone",
+    "name": "Dawn Stone"
+  },
+  {
+    "id": "destinyknot",
+    "name": "Destiny Knot"
+  },
+  {
+    "id": "dracoplate",
+    "name": "Draco Plate"
+  },
+  {
+    "id": "dreadplate",
+    "name": "Dread Plate"
+  },
+  {
+    "id": "dubiousdisc",
+    "name": "Dubious Disc"
+  },
+  {
+    "id": "duskball",
+    "name": "Dusk Ball"
+  },
+  {
+    "id": "duskstone",
+    "name": "Dusk Stone"
+  },
+  {
+    "id": "earthplate",
+    "name": "Earth Plate"
+  },
+  {
+    "id": "electirizer",
+    "name": "Electirizer"
+  },
+  {
+    "id": "expertbelt",
+    "name": "Expert Belt"
+  },
+  {
+    "id": "fistplate",
+    "name": "Fist Plate"
+  },
+  {
+    "id": "flameorb",
+    "name": "Flame Orb"
+  },
+  {
+    "id": "flameplate",
+    "name": "Flame Plate"
+  },
+  {
+    "id": "focussash",
+    "name": "Focus Sash"
+  },
+  {
+    "id": "fullincense",
+    "name": "Full Incense"
+  },
+  {
+    "id": "gripclaw",
+    "name": "Grip Claw"
+  },
+  {
+    "id": "griseousorb",
+    "name": "Griseous Orb"
+  },
+  {
+    "id": "habanberry",
+    "name": "Haban Berry"
+  },
+  {
+    "id": "healball",
+    "name": "Heal Ball"
+  },
+  {
+    "id": "heatrock",
+    "name": "Heat Rock"
+  },
+  {
+    "id": "icicleplate",
+    "name": "Icicle Plate"
+  },
+  {
+    "id": "icyrock",
+    "name": "Icy Rock"
+  },
+  {
+    "id": "insectplate",
+    "name": "Insect Plate"
+  },
+  {
+    "id": "ironball",
+    "name": "Iron Ball"
+  },
+  {
+    "id": "ironplate",
+    "name": "Iron Plate"
+  },
+  {
+    "id": "jabocaberry",
+    "name": "Jaboca Berry"
+  },
+  {
+    "id": "kasibberry",
+    "name": "Kasib Berry"
+  },
+  {
+    "id": "kebiaberry",
+    "name": "Kebia Berry"
+  },
+  {
+    "id": "laggingtail",
+    "name": "Lagging Tail"
+  },
+  {
+    "id": "lifeorb",
+    "name": "Life Orb"
+  },
+  {
+    "id": "lightclay",
+    "name": "Light Clay"
+  },
+  {
+    "id": "lustrousorb",
+    "name": "Lustrous Orb"
+  },
+  {
+    "id": "magmarizer",
+    "name": "Magmarizer"
+  },
+  {
+    "id": "meadowplate",
+    "name": "Meadow Plate"
+  },
+  {
+    "id": "metronome",
+    "name": "Metronome"
+  },
+  {
+    "id": "micleberry",
+    "name": "Micle Berry"
+  },
+  {
+    "id": "mindplate",
+    "name": "Mind Plate"
+  },
+  {
+    "id": "muscleband",
+    "name": "Muscle Band"
+  },
+  {
+    "id": "occaberry",
+    "name": "Occa Berry"
+  },
+  {
+    "id": "oddincense",
+    "name": "Odd Incense"
+  },
+  {
+    "id": "ovalstone",
+    "name": "Oval Stone"
+  },
+  {
+    "id": "parkball",
+    "name": "Park Ball"
+  },
+  {
+    "id": "passhoberry",
+    "name": "Passho Berry"
+  },
+  {
+    "id": "payapaberry",
+    "name": "Payapa Berry"
+  },
+  {
+    "id": "poweranklet",
+    "name": "Power Anklet"
+  },
+  {
+    "id": "powerband",
+    "name": "Power Band"
+  },
+  {
+    "id": "powerbelt",
+    "name": "Power Belt"
+  },
+  {
+    "id": "powerbracer",
+    "name": "Power Bracer"
+  },
+  {
+    "id": "powerherb",
+    "name": "Power Herb"
+  },
+  {
+    "id": "powerlens",
+    "name": "Power Lens"
+  },
+  {
+    "id": "powerweight",
+    "name": "Power Weight"
+  },
+  {
+    "id": "protector",
+    "name": "Protector"
+  },
+  {
+    "id": "quickball",
+    "name": "Quick Ball"
+  },
+  {
+    "id": "quickpowder",
+    "name": "Quick Powder"
+  },
+  {
+    "id": "rarebone",
+    "name": "Rare Bone"
+  },
+  {
+    "id": "razorclaw",
+    "name": "Razor Claw"
+  },
+  {
+    "id": "razorfang",
+    "name": "Razor Fang"
+  },
+  {
+    "id": "reapercloth",
+    "name": "Reaper Cloth"
+  },
+  {
+    "id": "rindoberry",
+    "name": "Rindo Berry"
+  },
+  {
+    "id": "rockincense",
+    "name": "Rock Incense"
+  },
+  {
+    "id": "roseincense",
+    "name": "Rose Incense"
+  },
+  {
+    "id": "rowapberry",
+    "name": "Rowap Berry"
+  },
+  {
+    "id": "shedshell",
+    "name": "Shed Shell"
+  },
+  {
+    "id": "shinystone",
+    "name": "Shiny Stone"
+  },
+  {
+    "id": "shucaberry",
+    "name": "Shuca Berry"
+  },
+  {
+    "id": "skullfossil",
+    "name": "Skull Fossil"
+  },
+  {
+    "id": "skyplate",
+    "name": "Sky Plate"
+  },
+  {
+    "id": "smoothrock",
+    "name": "Smooth Rock"
+  },
+  {
+    "id": "splashplate",
+    "name": "Splash Plate"
+  },
+  {
+    "id": "spookyplate",
+    "name": "Spooky Plate"
+  },
+  {
+    "id": "stickybarb",
+    "name": "Sticky Barb"
+  },
+  {
+    "id": "stoneplate",
+    "name": "Stone Plate"
+  },
+  {
+    "id": "tangaberry",
+    "name": "Tanga Berry"
+  },
+  {
+    "id": "toxicorb",
+    "name": "Toxic Orb"
+  },
+  {
+    "id": "toxicplate",
+    "name": "Toxic Plate"
+  },
+  {
+    "id": "wacanberry",
+    "name": "Wacan Berry"
+  },
+  {
+    "id": "waveincense",
+    "name": "Wave Incense"
+  },
+  {
+    "id": "widelens",
+    "name": "Wide Lens"
+  },
+  {
+    "id": "wiseglasses",
+    "name": "Wise Glasses"
+  },
+  {
+    "id": "yacheberry",
+    "name": "Yache Berry"
+  },
+  {
+    "id": "zapplate",
+    "name": "Zap Plate"
+  },
+  {
+    "id": "zoomlens",
+    "name": "Zoom Lens"
+  },
+  {
+    "id": "absorbbulb",
+    "name": "Absorb Bulb"
+  },
+  {
+    "id": "airballoon",
+    "name": "Air Balloon"
+  },
+  {
+    "id": "bignugget",
+    "name": "Big Nugget"
+  },
+  {
+    "id": "bindingband",
+    "name": "Binding Band"
+  },
+  {
+    "id": "buggem",
+    "name": "Bug Gem"
+  },
+  {
+    "id": "burndrive",
+    "name": "Burn Drive"
+  },
+  {
+    "id": "cellbattery",
+    "name": "Cell Battery"
+  },
+  {
+    "id": "chilldrive",
+    "name": "Chill Drive"
+  },
+  {
+    "id": "coverfossil",
+    "name": "Cover Fossil"
+  },
+  {
+    "id": "darkgem",
+    "name": "Dark Gem"
+  },
+  {
+    "id": "dousedrive",
+    "name": "Douse Drive"
+  },
+  {
+    "id": "dragongem",
+    "name": "Dragon Gem"
+  },
+  {
+    "id": "dreamball",
+    "name": "Dream Ball"
+  },
+  {
+    "id": "ejectbutton",
+    "name": "Eject Button"
+  },
+  {
+    "id": "electricgem",
+    "name": "Electric Gem"
+  },
+  {
+    "id": "eviolite",
+    "name": "Eviolite"
+  },
+  {
+    "id": "fightinggem",
+    "name": "Fighting Gem"
+  },
+  {
+    "id": "firegem",
+    "name": "Fire Gem"
+  },
+  {
+    "id": "floatstone",
+    "name": "Float Stone"
+  },
+  {
+    "id": "flyinggem",
+    "name": "Flying Gem"
+  },
+  {
+    "id": "ghostgem",
+    "name": "Ghost Gem"
+  },
+  {
+    "id": "grassgem",
+    "name": "Grass Gem"
+  },
+  {
+    "id": "groundgem",
+    "name": "Ground Gem"
+  },
+  {
+    "id": "icegem",
+    "name": "Ice Gem"
+  },
+  {
+    "id": "normalgem",
+    "name": "Normal Gem"
+  },
+  {
+    "id": "plumefossil",
+    "name": "Plume Fossil"
+  },
+  {
+    "id": "poisongem",
+    "name": "Poison Gem"
+  },
+  {
+    "id": "prismscale",
+    "name": "Prism Scale"
+  },
+  {
+    "id": "psychicgem",
+    "name": "Psychic Gem"
+  },
+  {
+    "id": "redcard",
+    "name": "Red Card"
+  },
+  {
+    "id": "ringtarget",
+    "name": "Ring Target"
+  },
+  {
+    "id": "rockgem",
+    "name": "Rock Gem"
+  },
+  {
+    "id": "rockyhelmet",
+    "name": "Rocky Helmet"
+  },
+  {
+    "id": "shockdrive",
+    "name": "Shock Drive"
+  },
+  {
+    "id": "steelgem",
+    "name": "Steel Gem"
+  },
+  {
+    "id": "watergem",
+    "name": "Water Gem"
+  }
+]

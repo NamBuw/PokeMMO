@@ -1,0 +1,744 @@
+[
+  {
+    "tm": "TM - Focus Punch",
+    "type": "fighting",
+    "category": "physical",
+    "locations_and_prices": "Silph Co., 5F, southwest box room Route 115, north of Meteor Falls, with Surf Celadon City, Lilycove City department stores for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Hone Claws",
+    "type": "dark",
+    "category": "status",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Dragon Claw",
+    "type": "dragon",
+    "category": "physical",
+    "locations_and_prices": "Kanto Victory Road, 1F, north wall Meteor Falls, B1F rear room, with Surf and Waterfall Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Psyshock",
+    "type": "psychic",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Water Pulse",
+    "type": "water",
+    "category": "special",
+    "locations_and_prices": "Cerulean City, gym, for defeating Misty Sootopolis City, gym, for defeating Juan Celadon City, Lilycove City department stores for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Calm Mind",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Saffron City, gym, for beating Sabrina Mossdeep City, gym, for beating Tate & Liza Cinnabar Island, Sootopolis City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Roar",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Route 4, east side of Mt. Moon Route 114, near Fallarbor Town, from man with Poochyena Vermilion City, Slateport City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Toxic",
+    "type": "poison",
+    "category": "status",
+    "locations_and_prices": "Fuchsia City, gym, for defeating Koga Fiery Path, northwest corner, with Strength Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Snowscape",
+    "type": "ice",
+    "category": "status",
+    "locations_and_prices": "Kanto Victory Road, 2F, northeast end Shoal Cave, low tide, ice room, at end of ice maze Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Bulk Up",
+    "type": "fighting",
+    "category": "status",
+    "locations_and_prices": "Silph Co., 7F, east table Dewford Town, gym, for defeating Brawly Cinnabar Island, Sootopolis City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Bullet Seed",
+    "type": "grass",
+    "category": "physical",
+    "locations_and_prices": "Mt. Moon, west of the entrance from Route 3 Route 104, north of Petalburg Woods, from a boy outside the flower shop Celadon City, Lilycove City department stores for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Venoshock",
+    "type": "poison",
+    "category": "special",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Hidden Power",
+    "type": "normal",
+    "category": "special",
+    "locations_and_prices": "Celadon City Game Corner for 6,000 coins Slateport City, Secret Power group member who appears after the TM - Secret Power on Route 111 is given, for $30,000 Saffron City, Fortree City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Sunny Day",
+    "type": "fire",
+    "category": "status",
+    "locations_and_prices": "Kanto Safari Zone, area 1, next to pond Scorched Slab, with Surf Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Taunt",
+    "type": "dark",
+    "category": "status",
+    "locations_and_prices": "Rocket Hideout, B2F, in spinner maze Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Ice Beam",
+    "type": "ice",
+    "category": "special",
+    "locations_and_prices": "Celadon City, Mauville City Game Corners for 6,000 coins Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Blizzard",
+    "type": "ice",
+    "category": "special",
+    "locations_and_prices": "Pokémon Mansion, basement, north room Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Hyper Beam",
+    "type": "normal",
+    "category": "special",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Light Screen",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Celadon City, department store roof, for giving the girl a Fresh Water Cinnabar Island, Sootopolis City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Protect",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Power Plant, center room Vermilion City, Slateport City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Rain Dance",
+    "type": "water",
+    "category": "status",
+    "locations_and_prices": "Route 15, west end of northern path, with Cut Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Giga Drain",
+    "type": "grass",
+    "category": "special",
+    "locations_and_prices": "Celadon City, gym, for defeating Erika Celadon City, Lilycove City department stores for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Telekinesis",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Safeguard",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Celadon City, department store roof, for giving the girl a Soda Pop Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Frustration",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Rocket Hideout, B3F, south of the stairs from B2F Vermilion City, Slateport City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - SolarBeam",
+    "type": "grass",
+    "category": "special",
+    "locations_and_prices": "Pokémon Mansion, basement, west room Hoenn Safari Zone, area 3, behind the pond, with mach bike and Surf Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Iron Tail",
+    "type": "steel",
+    "category": "physical",
+    "locations_and_prices": "Meteor Falls, 1F outside Steven's Cave, with Surf and Waterfall Celadon City, Lilycove City department stores for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Smack Down",
+    "type": "rock",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Thunderbolt",
+    "type": "electric",
+    "category": "special",
+    "locations_and_prices": "Mauville City, from Wattson, after stopping the New Mauville generator Celadon City, Mauville City Game Corners for 6,000 coins Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Thunder",
+    "type": "electric",
+    "category": "special",
+    "locations_and_prices": "Power Plant, southeast corner Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Earthquake",
+    "type": "ground",
+    "category": "physical",
+    "locations_and_prices": "Viridian City, gym, for defeating Giovanni Seafloor Cavern, final room Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Return",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Route 12, top floor of the lookout spot, from a girl Fallarbor Town, Professor Cozmo's house, for returning the meteorite Cinnabar Island, Sootopolis City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Dig",
+    "type": "ground",
+    "category": "physical",
+    "locations_and_prices": "Cerulean City, behind robbed house, for defeating the Team Rocket grunt Route 114, Fossil Maniac's house, from a boy Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Psychic",
+    "type": "psychic",
+    "category": "special",
+    "locations_and_prices": "Saffron City, Mr. Psychic's house, from Mr. Psychic Hoenn Victory Road, B1F, near ladder from B2F northeast corner Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Shadow Ball",
+    "type": "ghost",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Brick Break",
+    "type": "fighting",
+    "category": "physical",
+    "locations_and_prices": "S.S. Anne, boarding deck, second westernmost cabin Vermilion City, Slateport City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Double Team",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Kanto Safari Zone, area 3, southeast of the secret house Route 113, west end, ash pile north of the grass Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Reflect",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Celadon City, department store roof, for giving the girl a Lemonade Cinnabar Island, Sootopolis City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Shock Wave",
+    "type": "electric",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, gym, for defeating Lt. Surge Mauville City, gym, for defeating Wattson Celadon City, Lilycove City department stores for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Sludge Wave",
+    "type": "poison",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Flamethrower",
+    "type": "fire",
+    "category": "special",
+    "locations_and_prices": "Celadon City, Mauville City Game Corners for 6,000 coins Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Sludge Bomb",
+    "type": "poison",
+    "category": "special",
+    "locations_and_prices": "Rocket Warehouse, north room Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Sandstorm",
+    "type": "rock",
+    "category": "status",
+    "locations_and_prices": "Kanto Victory Road, 2F, north of second switch Route 111, south end of the desert Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Fire Blast",
+    "type": "fire",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, gym, for defeating Blaine Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Rock Tomb",
+    "type": "rock",
+    "category": "physical",
+    "locations_and_prices": "Pewter City, gym, for defeating Brock Rustboro City, gym, for defeating Roxanne Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Aerial Ace",
+    "type": "flying",
+    "category": "physical",
+    "locations_and_prices": "Route 9, southwest corner Fortree City, gym, for defeating Winona Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Torment",
+    "type": "dark",
+    "category": "status",
+    "locations_and_prices": "Silph Co., 4F, southeast table Slateport City, battle tent, from a sailor Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Facade",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Petalburg City, gym, for defeating Norman Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Flame Charge",
+    "type": "fire",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Secret Power",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Route 25, behind Camper Flint or with Cut Route 111, north side of the desert, from a boy Slateport City, Secret Power group member who appears after the TM - Secret Power on Route 111 is given, for $10,000 Celadon City, Lilycove City department stores for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Rest",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "S.S. Anne, lower deck, second westernmost cabin Lilycove City, house on east cliff, from a man Saffron City, Fortree City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Attract",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Route 24, north end Verdanturf Town, battle tent, from a girl Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Thief",
+    "type": "dark",
+    "category": "physical",
+    "locations_and_prices": "Mt. Moon, B2F, near a Team Rocket grunt Slateport City, Oceanic Museum, from a Team Aqua member Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Low Sweep",
+    "type": "fighting",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Steel Wing",
+    "type": "steel",
+    "category": "physical",
+    "locations_and_prices": "Kanto Safari Zone, area 2, west of the rest house Granite Cave, Steven's room, for delivering the letter Celadon City, Lilycove City department stores for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Round",
+    "type": "normal",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Skill Swap",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Mt. Pyre, exterior, ledge above exit Celadon City, Lilycove City department stores for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Echoed Voice",
+    "type": "normal",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Snatch",
+    "type": "dark",
+    "category": "status",
+    "locations_and_prices": "Rocket Hideout, B4F, near Team Rocket grunt with the lift key Celadon City, Lilycove City department stores for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Overheat",
+    "type": "fire",
+    "category": "special",
+    "locations_and_prices": "Kanto Victory Road, 3F, northwest end Lavaridge Town, gym, for defeating Flannery Saffron City, Fortree City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Ally Switch",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Focus Blast",
+    "type": "fighting",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Energy Ball",
+    "type": "grass",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - False Swipe",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Scald",
+    "type": "water",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Fling",
+    "type": "dark",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Charge Beam",
+    "type": "electric",
+    "category": "special",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Sky Drop",
+    "type": "flying",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Incinerate",
+    "type": "fire",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Quash",
+    "type": "dark",
+    "category": "status",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Will-O-Wisp",
+    "type": "fire",
+    "category": "status",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Acrobatics",
+    "type": "flying",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Embargo",
+    "type": "dark",
+    "category": "status",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Explosion",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Shadow Claw",
+    "type": "ghost",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Payback",
+    "type": "dark",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Retaliate",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Giga Impact",
+    "type": "normal",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Rock Polish",
+    "type": "rock",
+    "category": "status",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Flash",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "unknown for $2,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Stone Edge",
+    "type": "rock",
+    "category": "physical",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Volt Switch",
+    "type": "electric",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Thunder Wave",
+    "type": "electric",
+    "category": "status",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Gyro Ball",
+    "type": "steel",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Swords Dance",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Struggle Bug",
+    "type": "bug",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Psych Up",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Bulldoze",
+    "type": "ground",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Frost Breath",
+    "type": "ice",
+    "category": "special",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Rock Slide",
+    "type": "rock",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - X-Scissor",
+    "type": "bug",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Dragon Tail",
+    "type": "dragon",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Work Up",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Poison Jab",
+    "type": "poison",
+    "category": "physical",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $17,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Dream Eater",
+    "type": "psychic",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $10,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Grass Knot",
+    "type": "grass",
+    "category": "special",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Swagger",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Saffron City, Fortree City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Pluck",
+    "type": "flying",
+    "category": "physical",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - U-turn",
+    "type": "bug",
+    "category": "physical",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Substitute",
+    "type": "normal",
+    "category": "status",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $30,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Flash Cannon",
+    "type": "steel",
+    "category": "special",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Trick Room",
+    "type": "psychic",
+    "category": "status",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $20,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Wild Charge",
+    "type": "electric",
+    "category": "physical",
+    "locations_and_prices": "Cinnabar Island, Sootopolis City Pokémon Marts for $25,000",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Rock Smash",
+    "type": "fighting",
+    "category": "physical",
+    "locations_and_prices": "unknown for $2,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Snarl",
+    "type": "dark",
+    "category": "special",
+    "locations_and_prices": "Vermilion City, Slateport City Pokémon Marts for $12,500",
+    "sprite_url": ""
+  },
+  {
+    "tm": "TM - Hex",
+    "type": "ghost",
+    "category": "special",
+    "locations_and_prices": "Mt. Pyre 6F",
+    "sprite_url": ""
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "weather": "Rain",
+    "vietnamese_name": "Đội hình Mưa",
+    "strategy": "Sử dụng đặc tính Drizzle để tạo mưa, tăng 1.5x sức mạnh chiêu thức hệ Nước và nhân đôi Tốc độ của các Pokémon có đặc tính Swift Swim để quét sạch đối thủ.",
+    "core_members": [
+      {
+        "name": "Pelipper",
+        "role": "Weather Setter & Pivot",
+        "ability": "Drizzle (Tạo mưa tự động)",
+        "item": "Damp Rock (Kéo dài thời gian mưa lên 8 lượt)",
+        "moves": ["Scald", "U-turn", "Roost", "Hurricane"],
+        "evs": {"hp": 248, "def": 252, "spd": 8},
+        "nature": "Relaxed"
+      },
+      {
+        "name": "Kingdra",
+        "role": "Special Swift Swim Sweeper",
+        "ability": "Swift Swim (X2 Tốc độ trong mưa)",
+        "item": "Choice Specs (Tăng 1.5x Tấn công đặc biệt)",
+        "moves": ["Hydro Pump", "Draco Meteor", "Surf", "Ice Beam"],
+        "evs": {"spa": 252, "spe": 252, "hp": 4},
+        "nature": "Modest"
+      },
+      {
+        "name": "Kabutops",
+        "role": "Physical Swift Swim Sweeper",
+        "ability": "Swift Swim (X2 Tốc độ trong mưa)",
+        "item": "Life Orb (Tăng 1.3x sát thương, mất 10% HP mỗi đòn)",
+        "moves": ["Liquidation", "Stone Edge", "Swords Dance", "Aqua Jet"],
+        "evs": {"atk": 252, "spe": 252, "hp": 4},
+        "nature": "Adamant"
+      },
+      {
+        "name": "Ludicolo",
+        "role": "Special Sweeper & Grass Coverage",
+        "ability": "Swift Swim (X2 Tốc độ trong mưa)",
+        "item": "Life Orb",
+        "moves": ["Hydro Pump", "Giga Drain", "Ice Beam", "Focus Blast"],
+        "evs": {"spa": 252, "spe": 252, "hp": 4},
+        "nature": "Modest"
+      },
+      {
+        "name": "Scizor",
+        "role": "Priority Attacker & Pivot (Độc lập thời tiết)",
+        "ability": "Technician (Tăng 1.5x sát thương chiêu dưới 60 BP)",
+        "item": "Choice Band (Tăng 1.5x Tấn công vật lý)",
+        "moves": ["Bullet Punch", "U-turn", "Superpower", "Pursuit"],
+        "evs": {"hp": 248, "atk": 252, "spe": 8},
+        "nature": "Adamant"
+      },
+      {
+        "name": "Garchomp",
+        "role": "Hazard Setter & Electric Immunity",
+        "ability": "Rough Skin",
+        "item": "Rocky Helmet",
+        "moves": ["Stealth Rock", "Earthquake", "Outrage", "Swords Dance"],
+        "evs": {"atk": 252, "spe": 252, "hp": 4},
+        "nature": "Jolly"
+      }
+    ]
+  },
+  {
+    "weather": "Sun",
+    "vietnamese_name": "Đội hình Nắng",
+    "strategy": "Sử dụng đặc tính Drought để tạo nắng, tăng 1.5x sát thương hệ Lửa, giảm 0.5x sát thương hệ Nước và kích hoạt Tốc độ x2 của các Pokémon hệ Cỏ có đặc tính Chlorophyll.",
+    "core_members": [
+      {
+        "name": "Torkoal",
+        "role": "Sun Setter & Hazard Control",
+        "ability": "Drought (Tạo nắng tự động)",
+        "item": "Heat Rock (Kéo dài thời gian nắng lên 8 lượt)",
+        "moves": ["Stealth Rock", "Lava Plume", "Rapid Spin", "Yawn"],
+        "evs": {"hp": 248, "def": 252, "spd": 8},
+        "nature": "Bold"
+      },
+      {
+        "name": "Venusaur",
+        "role": "Chlorophyll Special Sweeper",
+        "ability": "Chlorophyll (X2 Tốc độ trong nắng)",
+        "item": "Life Orb",
+        "moves": ["Growth", "Giga Drain", "Sludge Bomb", "Weather Ball"],
+        "description_notes": "Weather Ball chuyển thành hệ Lửa và có 100 BP dưới trời nắng, làm đòn khắc chế thép cực mạnh.",
+        "evs": {"spa": 252, "spe": 252, "hp": 4},
+        "nature": "Modest"
+      },
+      {
+        "name": "Darmanitan",
+        "role": "Sun-Boosted Wallbreaker",
+        "ability": "Sheer Force (Tăng 1.3x sát thương đòn có hiệu ứng phụ)",
+        "item": "Choice Scarf (Tăng 1.5x Tốc độ)",
+        "moves": ["Flare Blitz", "Rock Slide", "U-turn", "Earthquake"],
+        "description_notes": "Flare Blitz dưới trời nắng kết hợp Sheer Force có thể tiêu diệt hầu hết mọi mục tiêu không kháng Lửa chỉ bằng một đòn.",
+        "evs": {"atk": 252, "spe": 252, "hp": 4},
+        "nature": "Jolly"
+      },
+      {
+        "name": "Charizard",
+        "role": "Solar Power Special Sweeper",
+        "ability": "Solar Power (Tăng 1.5x Công đặc biệt dưới nắng nhưng mất 1/8 HP mỗi lượt)",
+        "item": "Choice Specs",
+        "moves": ["Fire Blast", "Hurricane", "Focus Blast", "Solar Beam"],
+        "evs": {"spa": 252, "spe": 252, "hp": 4},
+        "nature": "Timid"
+      },
+      {
+        "name": "Rotom-Wash",
+        "role": "Sun-Independent Pivot",
+        "ability": "Levitate (Miễn nhiễm hệ Đất)",
+        "item": "Leftovers (Hồi 1/16 HP mỗi lượt)",
+        "moves": ["Volt Switch", "Hydro Pump", "Will-O-Wisp", "Pain Split"],
+        "evs": {"hp": 252, "def": 200, "spe": 56},
+        "nature": "Bold"
+      },
+      {
+        "name": "Garchomp",
+        "role": "Sun-Independent Sweeper",
+        "ability": "Rough Skin",
+        "item": "Life Orb",
+        "moves": ["Swords Dance", "Earthquake", "Outrage", "Fire Fang"],
+        "evs": {"atk": 252, "spe": 252, "hp": 4},
+        "nature": "Jolly"
+      }
+    ]
+  },
+  {
+    "weather": "Sandstorm",
+    "vietnamese_name": "Đội hình Bão Cát",
+    "strategy": "Gây sát thương bào mòn 1/16 HP mỗi lượt lên các hệ không phải Đá/Đất/Thép, tăng 1.5x Thủ đặc biệt cho hệ Đá và kích hoạt x2 Tốc độ cho Excadrill bằng Sand Rush.",
+    "core_members": [
+      {
+        "name": "Tyranitar",
+        "role": "Sand Setter & Pursuit Trapper",
+        "ability": "Sand Stream (Tạo bão cát tự động)",
+        "item": "Smooth Rock (Kéo dài bão cát lên 8 lượt)",
+        "moves": ["Stealth Rock", "Pursuit", "Crunch", "Stone Edge"],
+        "evs": {"hp": 252, "atk": 252, "spd": 4},
+        "nature": "Adamant"
+      },
+      {
+        "name": "Excadrill",
+        "role": "Sand Rush Sweeper & Spinner",
+        "ability": "Sand Rush (X2 Tốc độ trong bão cát)",
+        "item": "Life Orb",
+        "moves": ["Earthquake", "Iron Head", "Swords Dance", "Rock Slide"],
+        "evs": {"atk": 252, "spe": 252, "hp": 4},
+        "nature": "Adamant"
+      },
+      {
+        "name": "Garchomp",
+        "role": "Physical Wallbreaker",
+        "ability": "Rough Skin",
+        "item": "Choice Band",
+        "moves": ["Earthquake", "Outrage", "Stone Edge", "Fire Fang"],
+        "evs": {"atk": 252, "spe": 252, "hp": 4},
+        "nature": "Jolly"
+      },
+      {
+        "name": "Reuniclus",
+        "role": "Sand-Immune Special Tank",
+        "ability": "Magic Guard (Miễn nhiễm sát thương gián tiếp như bão cát, độc, hay Life Orb)",
+        "item": "Leftovers",
+        "moves": ["Calm Mind", "Psychic", "Recover", "Focus Blast"],
+        "evs": {"hp": 252, "def": 252, "spd": 4},
+        "nature": "Bold"
+      },
+      {
+        "name": "Skarmory",
+        "role": "Physical Wall & Hazard Setter",
+        "ability": "Sturdy (Không thể bị hạ gục bằng một đòn khi đầy máu)",
+        "item": "Leftovers",
+        "moves": ["Spikes", "Roost", "Whirlwind", "Brave Bird"],
+        "evs": {"hp": 252, "def": 252, "spd": 4},
+        "nature": "Impish"
+      },
+      {
+        "name": "Rotom-Wash",
+        "role": "Defensive Pivot",
+        "ability": "Levitate",
+        "item": "Leftovers",
+        "moves": ["Volt Switch", "Hydro Pump", "Will-O-Wisp", "Defog"],
+        "evs": {"hp": 252, "def": 200, "spe": 56},
+        "nature": "Bold"
+      }
+    ]
+  }
+]

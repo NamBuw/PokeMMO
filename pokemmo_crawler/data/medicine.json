@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Potion",
+    "category": "Potions & HP Recovery",
+    "price": "200$",
+    "effect": "Restores HP by 20 points",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a0/Bag_Potion.png/revision/latest?cb=20230227060513"
+  },
+  {
+    "name": "Super Potion",
+    "category": "Potions & HP Recovery",
+    "price": "600$",
+    "effect": "Restores HP by 60 points",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/14/Bag_Super_Potion.png/revision/latest?cb=20230228032607"
+  },
+  {
+    "name": "Hyper Potion",
+    "category": "Potions & HP Recovery",
+    "price": "1,200$",
+    "effect": "Restores HP by 120 points",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/6a/Bag_Hyper_Potion.png/revision/latest?cb=20230228032603"
+  },
+  {
+    "name": "Max Potion",
+    "category": "Potions & HP Recovery",
+    "price": "-",
+    "effect": "Restores 100% HP",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e8/Bag_Max_Potion.png/revision/latest?cb=20230228032605"
+  },
+  {
+    "name": "Fresh Water",
+    "category": "Potions & HP Recovery",
+    "price": "300$",
+    "effect": "Restores HP by 30 points",
+    "acquisition": "Vending machines",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ec/Bag_Fresh_Water.png/revision/latest?cb=20231003231005"
+  },
+  {
+    "name": "Soda Pop",
+    "category": "Potions & HP Recovery",
+    "price": "600$",
+    "effect": "Restores HP by 50 points",
+    "acquisition": "Vending machines",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/88/Bag_Soda_Pop.png/revision/latest?cb=20231003231020"
+  },
+  {
+    "name": "Lemonade",
+    "category": "Potions & HP Recovery",
+    "price": "750$",
+    "effect": "Restores HP by 70 points",
+    "acquisition": "Vending machines",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3f/Bag_Lemonade.png/revision/latest?cb=20231004221236"
+  },
+  {
+    "name": "Moomoo Milk",
+    "category": "Potions & HP Recovery",
+    "price": "1000$",
+    "effect": "Restores HP by 100 points",
+    "acquisition": "Wild Miltank, Two Island Market, Driftveil Market, Route 210 Café",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/eb/Bag_Moomoo_Milk.png/revision/latest?cb=20231004221319"
+  },
+  {
+    "name": "Berry Juice",
+    "category": "Potions & HP Recovery",
+    "price": "-",
+    "effect": "Restores HP by 20 points",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/1c/Bag_Berry_Juice.png/revision/latest?cb=20230302164149"
+  },
+  {
+    "name": "Full Restore",
+    "category": "Potions & HP Recovery",
+    "price": "-",
+    "effect": "Restores 100% HP and cures status ailments",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/cd/Bag_Full_Restore.png/revision/latest?cb=20230228032603"
+  },
+  {
+    "name": "Antidote",
+    "category": "Status Condition Cures",
+    "price": "200$",
+    "effect": "A spray-type medicine that cures poison",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/79/Bag_Antidote.png/revision/latest?cb=20230228032600"
+  },
+  {
+    "name": "Awakening",
+    "category": "Status Condition Cures",
+    "price": "300$",
+    "effect": "A spray type medicine that awakens sleeping Pokémon",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/85/Bag_Awakening.png/revision/latest?cb=20230228032601"
+  },
+  {
+    "name": "Burn Heal",
+    "category": "Status Condition Cures",
+    "price": "300$",
+    "effect": "A spray-type medicine that cures burn",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/16/Bag_Burn_Heal.png/revision/latest?cb=20230228032602"
+  },
+  {
+    "name": "Ice Heal",
+    "category": "Status Condition Cures",
+    "price": "300$",
+    "effect": "It defrosts a Pokémon that has been frozen solid",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8c/Bag_Ice_Heal.png/revision/latest?cb=20230228032604"
+  },
+  {
+    "name": "Parlyz Heal",
+    "category": "Status Condition Cures",
+    "price": "300$",
+    "effect": "A spray-type medicine that cures paralysis",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/64/Bag_Parlyz_Heal.png/revision/latest?cb=20230228032606"
+  },
+  {
+    "name": "Full Heal",
+    "category": "Status Condition Cures",
+    "price": "-",
+    "effect": "Cures all status ailments",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/92/Bag_Full_Heal.png/revision/latest?cb=20230302031028"
+  },
+  {
+    "name": "Lava Cookie",
+    "category": "Status Condition Cures",
+    "price": "1,200$",
+    "effect": "Cures all status ailments",
+    "acquisition": "Two Island Market, Lavaridge Town",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/23/Bag_Lava_Cookie.png/revision/latest?cb=20231004222606"
+  },
+  {
+    "name": "Casteliacone",
+    "category": "Status Condition Cures",
+    "price": "1,200$",
+    "effect": "Cures all status ailments",
+    "acquisition": "Castelia City (Seasonal)",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b3/Bag_Casteliacone.png/revision/latest?cb=20231004222331"
+  },
+  {
+    "name": "Revive",
+    "category": "Revives",
+    "price": "3,250$",
+    "effect": "Restores 50% HP",
+    "acquisition": "Poké Mart",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/17/Bag_Revive.png/revision/latest?cb=20230228032606"
+  },
+  {
+    "name": "Max Revive",
+    "category": "Revives",
+    "price": "-",
+    "effect": "Restores 100% HP",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/83/Bag_Max_Revive.png/revision/latest?cb=20231005204021"
+  },
+  {
+    "name": "Ether",
+    "category": "PP Restorers",
+    "price": "-",
+    "effect": "Restores 15 PP to a selected single move",
+    "acquisition": "Pickup",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e9/Bag_Ether.png/revision/latest?cb=20230301042231"
+  },
+  {
+    "name": "Max Ether",
+    "category": "PP Restorers",
+    "price": "-",
+    "effect": "Fully restores PP to a selected single",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/19/Bag_Max_Ether.png/revision/latest?cb=20230301042233"
+  },
+  {
+    "name": "Elixir",
+    "category": "PP Restorers",
+    "price": "-",
+    "effect": "Restores 10 PP to all moves of a Pokémon",
+    "acquisition": "Pickup",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ed/Bag_Elixir.png/revision/latest?cb=20230301042231"
+  },
+  {
+    "name": "Max Elixir",
+    "category": "PP Restorers",
+    "price": "-",
+    "effect": "Fully restores PP to all moves of a Pokémon",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a1/Bag_Max_Elixir.png/revision/latest?cb=20230301042232"
+  },
+  {
+    "name": "HP Up",
+    "category": "Vitamins & EV Boosters",
+    "price": "-",
+    "effect": "Boosts HP EV by 10 points",
+    "acquisition": "Craft or Battle Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/d/d7/Bag_Hp_Up.png/revision/latest?cb=20231004222518"
+  },
+  {
+    "name": "Protein",
+    "category": "Vitamins & EV Boosters",
+    "price": "-",
+    "effect": "Boosts Attack EV by 10 points",
+    "acquisition": "Craft or Battle Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/3d/Bag_Protein.png/revision/latest?cb=20230301040633"
+  },
+  {
+    "name": "Iron",
+    "category": "Vitamins & EV Boosters",
+    "price": "-",
+    "effect": "Boosts Defense EV by 10 points",
+    "acquisition": "Craft or Battle Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2c/Bag_Iron.png/revision/latest?cb=20230301040630"
+  },
+  {
+    "name": "Calcium",
+    "category": "Vitamins & EV Boosters",
+    "price": "-",
+    "effect": "Boosts Sp. Attack EV by 10 points",
+    "acquisition": "Craft or Battle Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/40/Bag_Calcium.png/revision/latest?cb=20230301040628"
+  },
+  {
+    "name": "Zinc",
+    "category": "Vitamins & EV Boosters",
+    "price": "-",
+    "effect": "Boosts Sp. Defense EV by 10 points",
+    "acquisition": "Craft or Battle Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/8e/Bag_Zinc.png/revision/latest?cb=20230301040634"
+  },
+  {
+    "name": "Carbos",
+    "category": "Vitamins & EV Boosters",
+    "price": "-",
+    "effect": "Boosts Speed EV by 10 points",
+    "acquisition": "Craft or Battle Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/cb/Bag_Carbos.png/revision/latest?cb=20230301040629"
+  },
+  {
+    "name": "Heal Powder",
+    "category": "Herbal Medicine",
+    "price": "-",
+    "effect": "Cures all status ailments",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9c/Bag_Heal_Powder.png/revision/latest?cb=20231003211948"
+  },
+  {
+    "name": "EnergyPowder",
+    "category": "Herbal Medicine",
+    "price": "-",
+    "effect": "Restores HP by 50 points",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/29/Bag_Energy_Powder.png/revision/latest?cb=20231003212130"
+  },
+  {
+    "name": "Energy Root",
+    "category": "Herbal Medicine",
+    "price": "-",
+    "effect": "Restores HP by 200 points",
+    "acquisition": "Wild Diglett or Dugtrio",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2c/Bag_Energy_Root.png/revision/latest?cb=20231003212439"
+  },
+  {
+    "name": "Revival Herb",
+    "category": "Herbal Medicine",
+    "price": "-",
+    "effect": "Revives a fainted Pokémon and restores 50% HP",
+    "acquisition": "Pickup",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/86/Bag_Revival_Herb.png/revision/latest?cb=20231003212229"
+  },
+  {
+    "name": "Rare Candy",
+    "category": "Special & Candies",
+    "price": "-",
+    "effect": "Instantly levels up a Pokémon",
+    "acquisition": "Craftable",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/0/0f/Bag_Rare_Candy.png/revision/latest?cb=20230301040633"
+  },
+  {
+    "name": "Ability Capsule",
+    "category": "Special & Candies",
+    "price": "35,000$",
+    "effect": "Changes the Ability of the Pokémon",
+    "acquisition": "Daycare Shop",
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/3/32/Bag_Ability_Capsule.png/revision/latest?cb=20231004222417"
+  }
+]

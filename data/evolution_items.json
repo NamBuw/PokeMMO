@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Fire Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Vulpix",
+      "Growlithe",
+      "Eevee",
+      "Pansear"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/91/Bag_Fire_Stone.png/revision/latest?cb=20230403161722"
+  },
+  {
+    "name": "Water Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Poliwhirl",
+      "Shellder",
+      "Staryu",
+      "Eevee",
+      "Lombre",
+      "Panpour"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/ba/Bag_Water_Stone.png/revision/latest?cb=20230403161723"
+  },
+  {
+    "name": "Thunder Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Pikachu",
+      "Eevee",
+      "Eelektrik"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/95/Bag_Thunder_Stone.png/revision/latest?cb=20230403034915"
+  },
+  {
+    "name": "Leaf Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Gloom",
+      "Weepinbell",
+      "Exeggcute",
+      "Eevee",
+      "Nuzleaf",
+      "Pansage"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/ec/Bag_Leaf_Stone.png/revision/latest?cb=20230322031351"
+  },
+  {
+    "name": "Moon Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Nidorina",
+      "Nidorino",
+      "Clefairy",
+      "Jigglypuff",
+      "Skitty",
+      "Munna"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/29/Bag_Moon_Stone.png/revision/latest?cb=20231002140730"
+  },
+  {
+    "name": "Sun Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Gloom",
+      "Sunkern",
+      "Cottonee",
+      "Petilil"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e5/Bag_Sun_Stone.png/revision/latest?cb=20231003211105"
+  },
+  {
+    "name": "Shiny Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Togetic",
+      "Roselia",
+      "Minccino"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2c/Bag_Shiny_Stone.png/revision/latest?cb=20230322031352"
+  },
+  {
+    "name": "Dusk Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Murkrow",
+      "Misdreavus",
+      "Lampent"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b6/Bag_Dusk_Stone.png/revision/latest?cb=20230322031008"
+  },
+  {
+    "name": "Dawn Stone",
+    "type": "Evolution Stone",
+    "trigger": "Use Item",
+    "applicable_pokemon": [
+      "Kirlia♂",
+      "Snorunt♀"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/95/Bag_Dawn_Stone.png/revision/latest?cb=20230322031007"
+  },
+  {
+    "name": "DeepSeaScale",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Clamperl"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/5/52/Bag_Deep_Sea_Scale.png/revision/latest?cb=20230322030748"
+  },
+  {
+    "name": "DeepSeaTooth",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Clamperl"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/7/7f/Bag_Deep_Sea_Tooth.png/revision/latest?cb=20230322030129"
+  },
+  {
+    "name": "Dragon Scale",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Seadra"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2f/Bag_Dragon_Scale.png/revision/latest?cb=20230322030131"
+  },
+  {
+    "name": "Dubious Disc",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Porygon2"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/c/c2/Bag_Dubious_Disc.png/revision/latest?cb=20230322030132"
+  },
+  {
+    "name": "Electrizer",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Electabuzz"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/4/40/Bag_Electirizer.png/revision/latest?cb=20230322030133"
+  },
+  {
+    "name": "King's Rock",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Poliwhirl",
+      "Slowpoke"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/1/17/Bag_Kings_Rock.png/revision/latest?cb=20230322030135"
+  },
+  {
+    "name": "Magmarizer",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Magmar"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/2/2b/Bag_Magmarizer.png/revision/latest?cb=20230322030137"
+  },
+  {
+    "name": "Metal Coat",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Onix",
+      "Scyther"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/e/e1/Bag_Metal_Coat.png/revision/latest?cb=20230322030138"
+  },
+  {
+    "name": "Oval Stone",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Level up at Daytime",
+    "applicable_pokemon": [
+      "Happiny"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/b/b9/Bag_Oval_Stone.png/revision/latest?cb=20231004142351"
+  },
+  {
+    "name": "Protector",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Rhydon"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/86/Bag_Protector.png/revision/latest?cb=20230322030142"
+  },
+  {
+    "name": "Razor Claw",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Level up at Night",
+    "applicable_pokemon": [
+      "Sneasel"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/9/9c/Bag_Razor_Claw.png/revision/latest?cb=20230322030143"
+  },
+  {
+    "name": "Razor Fang",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Level up at Night",
+    "applicable_pokemon": [
+      "Gligar"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/8/82/Bag_Razor_Fang.png/revision/latest?cb=20230322030144"
+  },
+  {
+    "name": "Reaper Cloth",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Dusclops"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/a/a4/Bag_Reaper_Cloth.png/revision/latest?cb=20230322030144"
+  },
+  {
+    "name": "Up-Grade",
+    "type": "Evolution Held/Trade Item",
+    "trigger": "Trade",
+    "applicable_pokemon": [
+      "Porygon"
+    ],
+    "sprite_url": "https://static.wikia.nocookie.net/pokemmo/images/6/69/Bag_Up-grade.png/revision/latest?cb=20231004142333"
+  }
+]

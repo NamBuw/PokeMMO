@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Poké Ball",
+    "description": "A device for catching wild Pokémon",
+    "catch_rate": "×1.0",
+    "sprite_url": ""
+  },
+  {
+    "name": "Great Ball",
+    "description": "A good, high-performance Ball that provides a higher catch rate than a standard Poké Ball",
+    "catch_rate": "×1.5",
+    "sprite_url": ""
+  },
+  {
+    "name": "Ultra Ball",
+    "description": "An ultra-performance Ball that provides a higher catch rate than a Great Ball",
+    "catch_rate": "×2.0",
+    "sprite_url": ""
+  },
+  {
+    "name": "Repeat Ball",
+    "description": "A Ball that works especially well on Pokémon species that were previously caught",
+    "catch_rate": "×2.5 (Boosted) ×1.0 (Standard)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Safari Ball",
+    "description": "A special Ball that can only be used in the Safari Zone",
+    "catch_rate": "×1",
+    "sprite_url": ""
+  },
+  {
+    "name": "Net Ball",
+    "description": "A Ball that works especially well on Water- and Bug-type Pokémon",
+    "catch_rate": "×2.5 (Boosted) ×1.0 (Standard)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Nest Ball",
+    "description": "A Ball that works especiall well on Pokémon under level 31",
+    "catch_rate": "×4 (Max.) ×1 (Min.)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Timer Ball",
+    "description": "A somewhat different Ball that becomes progressively the more turns there are in battle",
+    "catch_rate": "×4 (Max.) ×1 (Min.)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Luxury Ball",
+    "description": "A comfortable Poké Ball that makes the Pokémon happy",
+    "catch_rate": "×1",
+    "sprite_url": ""
+  },
+  {
+    "name": "Dive Ball",
+    "description": "A Ball that works especially well on Pokémon encountered while Surfing, Diving or Fishing",
+    "catch_rate": "×2.5 (Boosted) ×1 (Standard)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Dusk Ball",
+    "description": "A Ball that works especially well if used in a cave or at night",
+    "catch_rate": "×2.5 (Boosted) ×1 (Standard)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Heal Ball",
+    "description": "A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problems",
+    "catch_rate": "×1",
+    "sprite_url": ""
+  },
+  {
+    "name": "Quick Ball",
+    "description": "A Ball that provides better catch rate if it is used at the start of the wild encounter",
+    "catch_rate": "×5 (Boosted) ×1 (Standard)",
+    "sprite_url": ""
+  },
+  {
+    "name": "Premier Ball",
+    "description": "A rare Poké Ball that has been specially made to commemorate a special occasion",
+    "catch_rate": "×1.5",
+    "sprite_url": ""
+  }
+]

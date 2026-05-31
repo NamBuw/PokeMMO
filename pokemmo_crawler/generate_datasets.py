@@ -286,7 +286,7 @@ def build_database():
             print(f"  -> Extracted {len(datasets['tms'])} TMs")
             
     # Create output directories
-    output_dir = '/home/namnx/pokemmo_crawler/data'
+    output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
     os.makedirs(output_dir, exist_ok=True)
     
     # Save individual JSON files
